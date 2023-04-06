@@ -7,11 +7,6 @@
     <transitions>slide</transitions>
 -->
 <!--    <include>./navigationsounds.xml</include>    -->
-
-    <!-- Per-system band colors and platform info -->
-	<!--
-    <include>./${system.theme}/systeminfo.xml</include>
-	-->
     <variables>
 	    <rootpath>./</rootpath>
         <systemCabinetImage>${rootpath}/${system.theme}/images/cabinet.png</systemCabinetImage>
