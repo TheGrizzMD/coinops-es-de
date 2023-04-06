@@ -14,7 +14,7 @@
             <image name="cover">
                 <pos>.61 .99</pos>
                 <origin>.5 1</origin>
-                <maxSize>.3 .25</maxSize>
+                <maxSize>.18 .30</maxSize>
                 <imageType>cover</imageType>
                 <scrollFadeIn>true</scrollFadeIn>
                 <zIndex>79</zIndex>
