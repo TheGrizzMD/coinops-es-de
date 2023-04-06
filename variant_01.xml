@@ -7,6 +7,8 @@
     <transitions>slide</transitions>
 -->
 <!--    <include>./navigationsounds.xml</include>    -->
+
+
     <variables>
 	    <rootpath>./</rootpath>
         <systemCabinetImage>${rootpath}/${system.theme}/images/cabinet.png</systemCabinetImage>
@@ -39,9 +41,11 @@
             <imageInterpolation>linear</imageInterpolation>
             <unfocusedItemOpacity>0.5</unfocusedItemOpacity>
 			<color>00000000</color>
+            <textColor>BBBBBB</textColor>
             <fontSize>0.055</fontSize>
             <letterCase>uppercase</letterCase>
             <lineSpacing>1.2</lineSpacing>
+            <fastScrolling>true</fastScrolling>
         </carousel>
 	</view>
 	
@@ -97,6 +101,7 @@
             <horizontalOffset>0.50</horizontalOffset>
             <fastScrolling>true</fastScrolling>
             <color>00000000</color>
+            <textColor>BBBBBB</textColor>
             <fontSize>0.046</fontSize>
             <letterCase>uppercase</letterCase>
             <lineSpacing>1.2</lineSpacing>
@@ -107,6 +112,7 @@
             <pos>0 0</pos>
             <size>1 1</size>
             <imageType>fanart</imageType>
+            <default>${rootpath}/core/images/defaultcover.jpg</default>
 			<scrollFadeIn>true</scrollFadeIn>
             <zIndex>55</zIndex>
         </image>

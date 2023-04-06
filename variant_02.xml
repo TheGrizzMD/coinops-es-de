@@ -41,11 +41,18 @@
                 <size>.5 .1222</size>
                 <metadata>description</metadata>
                 <container>true</container>
-                <fontPath>${rootpath}/core/fonts/Exo2-RegularCondensed.otf.otf</fontPath>
+                <!--<fontPath>${rootpath}/core/fonts/Exo2-RegularCondensed.otf</fontPath>-->
                 <fontSize>.02</fontSize>
                 <color>BBBBBB</color>
                 <zIndex>79</zIndex>
             </text>
+            <image name="systemlogo">
+                <pos>.71 .9</pos>
+                <origin>0 .5</origin>
+                <maxSize>.15 .15</maxSize>
+                <path>${rootpath}/${system.theme}/images/logo.png</path>
+                <zIndex>79</zIndex>
+             </image>
         </view>
         
         <view name="system, gamelist">
