@@ -1,0 +1,14 @@
+<!--
+    Theme engine examples for CoinOPS (CoinOPS-es-de)
+    License: Creative Commons CC-BY-NC-SA
+-->
+
+<theme>
+    <variant name="variant01">
+        <include>./variant_01.xml</include>
+    </variant>
+
+    <variant name="variant02">
+        <include>./variant_02.xml</include>
+    </variant>
+</theme>
