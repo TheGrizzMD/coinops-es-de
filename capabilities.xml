@@ -63,13 +63,13 @@
     </suppressTransitionProfiles>
 
     <variant name="variant01">
-        <label>01 - Horizontal carousel and wheel carousels</label>
+        <label>01 - Horizontal carousel and vertical wheel carousels</label>
         <selectable>true</selectable>
 		<transitions>fadeAndSlide</transitions>
     </variant>
 
     <variant name="variant02">
-        <label>02 - Wheel carousel and wheel carousels</label>
+        <label>02 - Horizontal carousel and detailed vertical wheel carousels</label>
         <selectable>true</selectable>
         <transitions>fadeAndSlide</transitions>
     </variant>
