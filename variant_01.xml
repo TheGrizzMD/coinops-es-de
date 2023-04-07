@@ -2,7 +2,7 @@
     Variant 01 - Horizontal carousel and vertical carousel
 -->
 
-<theme>
+<theme> 
 <!--
     <transitions>slide</transitions>
 -->
@@ -57,11 +57,11 @@
             <path>${rootpath}/core/images/overlaydiamonds2.png</path>
             <zIndex>75</zIndex>
         </image>
-
         <image name="cabinetimage">
             <pos>0 0</pos>
             <size>1 1</size>
             <path>${systemCabinetImage}</path>
+            <default>${rootpath}/core/images/fallbackcabinet.png</default>
             <zIndex>70</zIndex>
         </image>
 		
@@ -142,6 +142,13 @@
             <itemMargin>-1.0 0.005</itemMargin>
 			<zIndex>80</zIndex>
         </badges>
+        <image name="systemlogo">
+            <pos>.02 .98</pos>
+            <origin>0 1</origin>
+            <maxSize>.1 .1</maxSize>
+            <path>${rootpath}/${system.theme}/images/logo.png</path>
+            <zIndex>79</zIndex>
+         </image>
     </view>
 	
 	<view name="system, gamelist">
