@@ -117,7 +117,7 @@
             <zIndex>20</zIndex>
         </image>
 		<gamelistinfo name="gamelistInfo">
-            <pos>0.714 0.95</pos>
+            <pos>0.714 0.955</pos>
             <size>w 0.02</size>
             <fontSize>0.025</fontSize>
 			<fontPath>${rootpath}/core/fonts/Exo2-RegularCondensed.otf</fontPath>

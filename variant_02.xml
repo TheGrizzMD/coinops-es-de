@@ -56,20 +56,88 @@
                 <maxSize>.15 .15</maxSize>
                 <path>${rootpath}/${system.theme}/images/logo.png</path>
                 <zIndex>65</zIndex>
-             </image><!--
+             </image>
              <image name="releasedate-icon">
-                <path>./_inc/images/icon-release-date.svg</path>
+                <pos>.8925 .865</pos>
+                <origin>0 .5</origin>
+                <maxSize>.027 .027</maxSize>
+                <path>${rootpath}/core/images/icon-release-date.svg</path>
                 <color>BBBBBB</color>
                 <metadataElement>true</metadataElement>
+                <zIndex>65</zIndex>
              </image>
              <datetime name="releasedate">
+                <pos>.9125 .865</pos>
+                <origin>0 .5</origin>
+                <size>.2 0</size>
+                <fontSize>.02</fontSize>
                 <format>%Y-%m-%d</format>
                 <metadata>releasedate</metadata>
-                <defaultValue>Not Set</defaultValue>
-                <fontPath>${fontBold}</fontPath>
+                <defaultValue>Unknown</defaultValue>
                 <color>BBBBBB</color>
                 <lineSpacing>1</lineSpacing>
-             </datetime>-->
+                <zIndex>65</zIndex>
+             </datetime>
+             <image name="players-icon">
+                <pos>.8925 .9</pos>
+                <origin>0 .5</origin>
+                <maxSize>.027 .027</maxSize>
+                <path>${rootpath}/core/images/icon-players.svg</path>
+                <color>BBBBBB</color>
+                <metadataElement>true</metadataElement>
+                <zIndex>65</zIndex>
+             </image>
+             <text name="players">
+                <pos>.9125 .9</pos>
+                <origin>0 .5</origin>
+                <size>.2 0</size>
+                <fontSize>.02</fontSize>
+                <metadata>players</metadata>
+                <defaultValue>Unknown</defaultValue>
+                <color>BBBBBB</color>
+                <lineSpacing>1</lineSpacing>
+                <zIndex>65</zIndex>
+             </text>
+             <image name="developer-icon">
+                <pos>.8925 .935</pos>
+                <origin>0 .5</origin>
+                <maxSize>.027 .027</maxSize>
+                <path>${rootpath}/core/images/icon-developer.svg</path>
+                <color>BBBBBB</color>
+                <metadataElement>true</metadataElement>
+                <zIndex>65</zIndex>
+             </image>
+             <text name="developer">
+                <pos>.9125 .935</pos>
+                <origin>0 .5</origin>
+                <size>.2 0</size>
+                <fontSize>.02</fontSize>
+                <metadata>developer</metadata>
+                <defaultValue>Unknown</defaultValue>
+                <color>BBBBBB</color>
+                <lineSpacing>1</lineSpacing>
+                <zIndex>65</zIndex>
+             </text>
+             <image name="publisher-icon">
+                <pos>.8925 .97</pos>
+                <origin>0 .5</origin>
+                <maxSize>.027 .027</maxSize>
+                <path>${rootpath}/core/images/icon-publisher.svg</path>
+                <color>BBBBBB</color>
+                <metadataElement>true</metadataElement>
+                <zIndex>65</zIndex>
+             </image>
+             <text name="publisher">
+                <pos>.9125 .97</pos>
+                <origin>0 .5</origin>
+                <size>.2 0</size>
+                <fontSize>.02</fontSize>
+                <metadata>publisher</metadata>
+                <defaultValue>Unknown</defaultValue>
+                <color>BBBBBB</color>
+                <lineSpacing>1</lineSpacing>
+                <zIndex>65</zIndex>
+             </text>
         </view>
         
         <view name="system, gamelist">
