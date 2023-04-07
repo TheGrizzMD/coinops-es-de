@@ -1,5 +1,5 @@
 <!--
-    Variant 01 - Horizontal carousel and vertical carousel
+    Variant 01 - Default
 -->
 
 <theme> 
@@ -55,21 +55,21 @@
             <pos>0 0</pos>
             <size>1 1</size>
             <path>${rootpath}/core/images/overlaydiamonds2.png</path>
-            <zIndex>75</zIndex>
+            <zIndex>45</zIndex>
         </image>
         <image name="cabinetimage">
             <pos>0 0</pos>
             <size>1 1</size>
             <path>${systemCabinetImage}</path>
             <default>${rootpath}/core/images/fallbackcabinet.png</default>
-            <zIndex>70</zIndex>
+            <zIndex>35</zIndex>
         </image>
 		
 		<image name ="videohide">
 		    <pos>0 0</pos>
 			<size>1 1</size>
 			<path>${rootpath}/core/images/videohide.png</path>
-			<zIndex>64</zIndex>
+			<zIndex>29</zIndex>
 		</image>
 
         <video name="gamevideo">
@@ -80,7 +80,7 @@
             <pillarboxes>true</pillarboxes>
             <pillarboxThreshold>0.85 0.90</pillarboxThreshold>
             <fadeInTime>0</fadeInTime>
-			<zIndex>65</zIndex>
+			<zIndex>30</zIndex>
         </video>
         <carousel name="gamelistCarousel">
             <pos>0 0</pos>
@@ -106,7 +106,7 @@
             <letterCase>uppercase</letterCase>
             <lineSpacing>1.2</lineSpacing>
 			<unfocusedItemOpacity>1</unfocusedItemOpacity>
-            <zIndex>76</zIndex>
+            <zIndex>50</zIndex>
         </carousel>
 		    <image name="coverfanart">
             <pos>0 0</pos>
@@ -114,7 +114,7 @@
             <imageType>fanart</imageType>
             <default>${rootpath}/core/images/defaultcover.jpg</default>
 			<scrollFadeIn>true</scrollFadeIn>
-            <zIndex>55</zIndex>
+            <zIndex>20</zIndex>
         </image>
 		<gamelistinfo name="gamelistInfo">
             <pos>0.714 0.95</pos>
@@ -124,7 +124,7 @@
             <horizontalAlignment>right</horizontalAlignment>
 			<verticalAlignment>bottom</verticalAlignment>
             <color>BBBBBB</color>
-			<zIndex>80</zIndex>
+			<zIndex>65</zIndex>
         </gamelistinfo>
         <badges name="badges">
             <pos>0.90 0.47</pos>
@@ -140,14 +140,14 @@
             <folderLinkPos>0.54 0.64</folderLinkPos>
             <folderLinkSize>0.31</folderLinkSize>
             <itemMargin>-1.0 0.005</itemMargin>
-			<zIndex>80</zIndex>
+			<zIndex>65</zIndex>
         </badges>
         <image name="systemlogo">
             <pos>.02 .98</pos>
             <origin>0 1</origin>
             <maxSize>.1 .1</maxSize>
             <path>${rootpath}/${system.theme}/images/logo.png</path>
-            <zIndex>79</zIndex>
+            <zIndex>65</zIndex>
          </image>
     </view>
 	

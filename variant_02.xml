@@ -1,5 +1,5 @@
 <!--
-    Variant 02 - Horizontal carousel and detailed vertical carousel
+    Variant 02 - Detailed
 -->
 
 <theme>
@@ -9,15 +9,19 @@
                 <pos>0 0</pos>
                 <size>1 1</size>
                 <path>${rootpath}/core/images/overbar.png</path>
-                <zIndex>78</zIndex>
+                <zIndex>60</zIndex>
             </image>
             <image name="cover">
+                <!--
+                <pos>.52 .99</pos>
+                <origin>0 1</origin>
+                -->
                 <pos>.61 .99</pos>
                 <origin>.5 1</origin>
                 <maxSize>.18 .30</maxSize>
                 <imageType>cover</imageType>
                 <scrollFadeIn>true</scrollFadeIn>
-                <zIndex>79</zIndex>
+                <zIndex>65</zIndex>
             </image>
             <text name="nametext">
                 <pos>0.01 .83</pos>
@@ -28,13 +32,13 @@
                 <containerResetDelay>2</containerResetDelay>
                 <fontPath>${rootpath}/core/fonts/Exo2-BoldCondensed.otf</fontPath>
                 <color>BBBBBB</color>
-                <zIndex>79</zIndex>
+                <zIndex>65</zIndex>
             </text>
             <rating name="ratinggraphic">
                 <pos>0.51 .845</pos>
                 <origin>1 0</origin>
                 <size>0 0.04</size>
-                <zIndex>79</zIndex>
+                <zIndex>65</zIndex>
             </rating>
             <text name="descriptiontext">
                 <pos>0.01 .8875</pos>
@@ -44,15 +48,28 @@
                 <!--<fontPath>${rootpath}/core/fonts/Exo2-RegularCondensed.otf</fontPath>-->
                 <fontSize>.02</fontSize>
                 <color>BBBBBB</color>
-                <zIndex>79</zIndex>
+                <zIndex>65</zIndex>
             </text>
             <image name="systemlogo">
                 <pos>.71 .9</pos>
                 <origin>0 .5</origin>
                 <maxSize>.15 .15</maxSize>
                 <path>${rootpath}/${system.theme}/images/logo.png</path>
-                <zIndex>79</zIndex>
+                <zIndex>65</zIndex>
+             </image><!--
+             <image name="releasedate-icon">
+                <path>./_inc/images/icon-release-date.svg</path>
+                <color>BBBBBB</color>
+                <metadataElement>true</metadataElement>
              </image>
+             <datetime name="releasedate">
+                <format>%Y-%m-%d</format>
+                <metadata>releasedate</metadata>
+                <defaultValue>Not Set</defaultValue>
+                <fontPath>${fontBold}</fontPath>
+                <color>BBBBBB</color>
+                <lineSpacing>1</lineSpacing>
+             </datetime>-->
         </view>
         
         <view name="system, gamelist">
