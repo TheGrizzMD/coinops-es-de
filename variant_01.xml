@@ -117,7 +117,7 @@
             <zIndex>20</zIndex>
         </image>
 		<gamelistinfo name="gamelistInfo">
-            <pos>0.8375 0.955</pos>
+            <pos>0.7 0.955</pos>
             <size>w 0.02</size>
             <fontSize>0.025</fontSize>
 			<fontPath>${rootpath}/core/fonts/Exo2-RegularCondensed.otf</fontPath>
@@ -143,7 +143,7 @@
 			<zIndex>65</zIndex>
         </badges>
         <image name="systemlogo">
-            <pos>.285 .125</pos>
+            <pos>.2865 .125</pos>
             <origin>0.5 0.5</origin>
             <maxSize>.265 .3</maxSize>
             <path>${rootpath}/${system.theme}/images/logo.png</path>

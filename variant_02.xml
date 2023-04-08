@@ -20,12 +20,11 @@
                 <origin>.5 1</origin>
                 <maxSize>.18 .30</maxSize>
                 <imageType>cover</imageType>
-                <scrollFadeIn>true</scrollFadeIn>
                 <zIndex>65</zIndex>
             </image>
             <text name="nametext">
                 <pos>0.01 .83</pos>
-                <size>.355 0</size>
+                <size>.45 0</size>
                 <metadata>name</metadata>
                 <container>true</container>
                 <containerStartDelay>1</containerStartDelay>
@@ -149,7 +148,7 @@
                 <zIndex>65</zIndex>
              </text>
              <rating name="ratinggraphic">
-                <pos>0.85 .87</pos>
+                <pos>0.86 .87</pos>
                 <origin>0 0.5</origin>
                 <size>0 0.04</size>
                 <zIndex>65</zIndex>
