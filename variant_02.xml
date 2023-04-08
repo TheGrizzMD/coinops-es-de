@@ -25,7 +25,7 @@
             </image>
             <text name="nametext">
                 <pos>0.01 .83</pos>
-                <size>.3 0</size>
+                <size>.355 0</size>
                 <metadata>name</metadata>
                 <container>true</container>
                 <containerStartDelay>1</containerStartDelay>
@@ -34,12 +34,22 @@
                 <color>BBBBBB</color>
                 <zIndex>65</zIndex>
             </text>
-            <rating name="ratinggraphic">
-                <pos>0.51 .845</pos>
-                <origin>1 0</origin>
-                <size>0 0.04</size>
+            <badges name="badges">
+                <pos>0.532 .876</pos>
+                <origin>1 .5</origin>
+                <size>.07 .07</size>
+                <horizontalAlignment>right</horizontalAlignment>
+                <direction>row</direction>
+                <lines>1</lines>
+                <slots>favorite</slots>
+                <customBadgeIcon badge="favorite">${rootpath}/core/images/yes.png</customBadgeIcon>
+                <controllerPos>0.5 0.572</controllerPos>
+                <controllerSize>0.81</controllerSize>
+                <folderLinkPos>0.54 0.64</folderLinkPos>
+                <folderLinkSize>0.31</folderLinkSize>
+                <itemMargin>-1.0 0.005</itemMargin>
                 <zIndex>65</zIndex>
-            </rating>
+            </badges>
             <text name="descriptiontext">
                 <pos>0.01 .8875</pos>
                 <size>.5 .1222</size>
@@ -50,15 +60,15 @@
                 <color>BBBBBB</color>
                 <zIndex>65</zIndex>
             </text>
-            <image name="systemlogo">
-                <pos>.71 .9</pos>
+            <!--<image name="systemlogo">
+                <pos>.8375 .9</pos>
                 <origin>0 .5</origin>
                 <maxSize>.15 .15</maxSize>
                 <path>${rootpath}/${system.theme}/images/logo.png</path>
                 <zIndex>65</zIndex>
-             </image>
+             </image>-->
              <image name="releasedate-icon">
-                <pos>.8925 .865</pos>
+                <pos>.71 .865</pos>
                 <origin>0 .5</origin>
                 <maxSize>.027 .027</maxSize>
                 <path>${rootpath}/core/images/icon-release-date.svg</path>
@@ -67,9 +77,9 @@
                 <zIndex>65</zIndex>
              </image>
              <datetime name="releasedate">
-                <pos>.9125 .865</pos>
+                <pos>.73 .865</pos>
                 <origin>0 .5</origin>
-                <size>.2 0</size>
+                <size>.1 .019</size>
                 <fontSize>.02</fontSize>
                 <format>%Y-%m-%d</format>
                 <metadata>releasedate</metadata>
@@ -79,7 +89,7 @@
                 <zIndex>65</zIndex>
              </datetime>
              <image name="players-icon">
-                <pos>.8925 .9</pos>
+                <pos>.71 .9</pos>
                 <origin>0 .5</origin>
                 <maxSize>.027 .027</maxSize>
                 <path>${rootpath}/core/images/icon-players.svg</path>
@@ -88,9 +98,9 @@
                 <zIndex>65</zIndex>
              </image>
              <text name="players">
-                <pos>.9125 .9</pos>
+                <pos>.73 .9</pos>
                 <origin>0 .5</origin>
-                <size>.2 0</size>
+                <size>.1 .019</size>
                 <fontSize>.02</fontSize>
                 <metadata>players</metadata>
                 <defaultValue>Unknown</defaultValue>
@@ -99,7 +109,7 @@
                 <zIndex>65</zIndex>
              </text>
              <image name="developer-icon">
-                <pos>.8925 .935</pos>
+                <pos>.71 .935</pos>
                 <origin>0 .5</origin>
                 <maxSize>.027 .027</maxSize>
                 <path>${rootpath}/core/images/icon-developer.svg</path>
@@ -108,9 +118,9 @@
                 <zIndex>65</zIndex>
              </image>
              <text name="developer">
-                <pos>.9125 .935</pos>
+                <pos>.73 .935</pos>
                 <origin>0 .5</origin>
-                <size>.2 0</size>
+                <size>.1 .019</size>
                 <fontSize>.02</fontSize>
                 <metadata>developer</metadata>
                 <defaultValue>Unknown</defaultValue>
@@ -119,7 +129,7 @@
                 <zIndex>65</zIndex>
              </text>
              <image name="publisher-icon">
-                <pos>.8925 .97</pos>
+                <pos>.71 .97</pos>
                 <origin>0 .5</origin>
                 <maxSize>.027 .027</maxSize>
                 <path>${rootpath}/core/images/icon-publisher.svg</path>
@@ -128,9 +138,9 @@
                 <zIndex>65</zIndex>
              </image>
              <text name="publisher">
-                <pos>.9125 .97</pos>
+                <pos>.73 .97</pos>
                 <origin>0 .5</origin>
-                <size>.2 0</size>
+                <size>.1 .019</size>
                 <fontSize>.02</fontSize>
                 <metadata>publisher</metadata>
                 <defaultValue>Unknown</defaultValue>
@@ -138,6 +148,23 @@
                 <lineSpacing>1</lineSpacing>
                 <zIndex>65</zIndex>
              </text>
+             <rating name="ratinggraphic">
+                <pos>0.85 .87</pos>
+                <origin>0 0.5</origin>
+                <size>0 0.04</size>
+                <zIndex>65</zIndex>
+            </rating>
+             <gamelistinfo name="gamelistInfo">
+                <pos>0.99 0.5</pos>
+                <origin>1 .5</origin>
+                <size>w 0.02</size>
+                <fontSize>0.025</fontSize>
+                <fontPath>${rootpath}/core/fonts/Exo2-RegularCondensed.otf</fontPath>
+                <horizontalAlignment>right</horizontalAlignment>
+                <verticalAlignment>bottom</verticalAlignment>
+                <color>BBBBBB</color>
+                <zIndex>65</zIndex>
+            </gamelistinfo>
         </view>
         
         <view name="system, gamelist">
