@@ -12,7 +12,7 @@
     <variables>
 	    <rootpath>./</rootpath>
         <systemCabinetImage>${rootpath}/${system.theme}/images/cabinet.png</systemCabinetImage>
-        <systemPromoImage>${rootpath}/${system.theme}/images/promo.png</systemPromoImage>
+        <systemPromoImage>${rootpath}/${system.theme}/images/promo.jpg</systemPromoImage>
         <systemLogo>${rootpath}/${system.theme}/images/logo.png</systemLogo>
     </variables>
 
@@ -112,7 +112,7 @@
             <pos>0 0</pos>
             <size>1 1</size>
             <imageType>fanart</imageType>
-            <default>${rootpath}/core/images/defaultcover.jpg</default>
+            <default>${rootpath}/core/images/defaultcover.png</default>
 			<scrollFadeIn>true</scrollFadeIn>
             <zIndex>20</zIndex>
         </image>

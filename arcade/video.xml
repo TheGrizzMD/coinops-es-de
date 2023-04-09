@@ -1,0 +1,9 @@
+<theme>
+    <view name="gamelist">
+        <video name="gamevideo">
+            <!--<pos>0.2885 0.538</pos>-->
+            <maxSize>0.358 .47</maxSize>
+            <pillarboxThreshold>1 1</pillarboxThreshold>
+        </video>
+    </view>
+</theme>
