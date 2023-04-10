@@ -108,9 +108,10 @@
 			<unfocusedItemOpacity>1</unfocusedItemOpacity>
             <zIndex>50</zIndex>
         </carousel>
-		    <image name="coverfanart">
-            <pos>0 0</pos>
-            <size>1 1</size>
+		<image name="coverfanart">
+            <pos>1 1</pos>
+            <origin>1 1</origin>
+            <maxSize>1 1</maxSize>
             <imageType>fanart</imageType>
             <default>${rootpath}/core/images/defaultcover.png</default>
 			<scrollFadeIn>true</scrollFadeIn>
