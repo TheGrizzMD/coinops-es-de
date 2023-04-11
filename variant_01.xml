@@ -152,10 +152,11 @@
 			<zIndex>65</zIndex>
         </badges>
         <image name="systemlogo">
-            <pos>.2865 .125</pos>
+            <pos>.2865 .122</pos>
             <origin>0.5 0.5</origin>
-            <maxSize>.265 .3</maxSize>
+            <maxSize>.265 .15</maxSize>
             <path>${rootpath}/${system.theme}/images/logo.png</path>
+            <interpolation>linear</interpolation>
             <zIndex>34</zIndex>
          </image>
     </view>
