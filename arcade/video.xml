@@ -5,14 +5,11 @@
             <maxSize>0.358 .47</maxSize>
             <pillarboxThreshold>1 1</pillarboxThreshold>
         </video>
+        <!--below is the hack for per game cabs, by using physicalmedia imageType-->
         <image name="cabinetimage">
-            <pos>0 0</pos>
-            <size>1 1</size>
-            <!--below is the hack for per game cabs, by using physicalmedia imageType-->
             <imageType>physicalmedia</imageType>
             <default>${rootpath1}/${system.theme}/images/cabinet.png</default>
-            <!--end of hack-->
-            <zIndex>35</zIndex>
         </image>
+        <!--end of hack-->
     </view>
 </theme>

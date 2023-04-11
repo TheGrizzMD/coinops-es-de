@@ -61,7 +61,9 @@
             <pos>0 0</pos>
             <size>1 1</size>
             <path>${systemCabinetImage}</path>
+            <!--<gameOverridePath>./imageOverrides</gameOverridePath>-->
             <default>${rootpath}/core/images/fallbackcabinet.png</default>
+            <interpolation>linear</interpolation>
             <zIndex>35</zIndex>
         </image>
 		
@@ -113,9 +115,15 @@
             <origin>1 1</origin>
             <maxSize>1 1</maxSize>
             <imageType>fanart</imageType>
-            <default>${rootpath}/core/images/defaultcover.png</default>
 			<scrollFadeIn>true</scrollFadeIn>
             <zIndex>20</zIndex>
+        </image>
+        <image name="coverfanartfallback">
+            <pos>1 1</pos>
+            <origin>1 1</origin>
+            <maxSize>1 1</maxSize>
+            <path>${rootpath}/core/images/defaultcover.png</path>
+            <zIndex>19</zIndex>
         </image>
 		<gamelistinfo name="gamelistInfo">
             <pos>0.7 0.955</pos>

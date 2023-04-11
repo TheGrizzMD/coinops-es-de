@@ -1,0 +1,20 @@
+<!--
+    Theme engine examples for CoinOPS (CoinOPS-es-de)
+    License: Creative Commons CC-BY-NC-SA
+-->
+
+<theme>
+    <variables>
+	    <rootpath1>./../</rootpath1>
+    </variables>
+
+    <variant name="variant01">
+        <include>${rootpath1}/variant_01.xml</include>
+        <include>./video.xml</include>
+    </variant>
+
+    <variant name="variant02">
+        <include>${rootpath1}/variant_02.xml</include>
+        <include>./video.xml</include>
+    </variant>
+</theme>

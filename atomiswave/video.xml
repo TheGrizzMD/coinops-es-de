@@ -1,0 +1,11 @@
+<theme>
+    <view name="gamelist">
+        <image name="marqueecab">
+            <pos>.288 .185</pos>
+            <origin>0.5 0.5</origin>
+            <maxSize>.12 .09</maxSize>
+            <imageType>marquee</imageType>
+            <zIndex>65</zIndex>
+        </image>
+    </view>
+</theme>
