@@ -1,0 +1,37 @@
+<!--
+    Variant 03 - Cobalt
+-->
+<theme>
+    <include>./variant_02.xml</include>
+
+    <view name="system">
+        <image name="systembackgroundoverlay">
+            <path>${rootpath}/core/images/paneloverlay.png</path>
+        </image>
+        <carousel name="systemCarousel">
+            <size>1 0.4</size>
+            <pos>0 0.6</pos>
+            <horizontalOffset>-.275</horizontalOffset>
+            <itemScale>1.35</itemScale>
+            <selectedItemMargins>.5 0</selectedItemMargins>
+            <reflections>true</reflections>
+            <reflectionsOpacity>.2</reflectionsOpacity>
+            <reflectionsFalloff>1.5</reflectionsFalloff>
+            <!--
+            
+            <staticImage>${rootpath}/${system.theme}/images/logo.png</staticImage>
+            <maxItemCount>3</maxItemCount>
+            <itemSize>0.25 0.125</itemSize>
+            <itemScale>1.23</itemScale>
+            <imageInterpolation>linear</imageInterpolation>
+            <unfocusedItemOpacity>0.5</unfocusedItemOpacity>
+			<color>00000000</color>
+            <textColor>BBBBBB</textColor>
+            <fontSize>0.055</fontSize>
+            <letterCase>uppercase</letterCase>
+            <lineSpacing>1.2</lineSpacing>
+            <fastScrolling>true</fastScrolling>
+            -->
+        </carousel>
+    </view>
+</theme>

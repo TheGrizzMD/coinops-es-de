@@ -35,4 +35,10 @@
         <transitions>fadeAndSlide</transitions>
     </variant>
 
+    <variant name="variant03">
+        <label>Cobalt</label>
+        <selectable>true</selectable>
+        <transitions>fadeAndSlide</transitions>
+    </variant>
+
 </themeCapabilities>

@@ -21,6 +21,7 @@
             <pos>0 0</pos>
             <size>1 1</size>
             <path>${rootpath}/core/images/overlaydown.png</path>
+            <color>959595FF</color>
             <zIndex>10</zIndex>
         </image>
 		<image name="backgroundpromo">

@@ -11,4 +11,8 @@
     <variant name="variant02">
         <include>./variant_02.xml</include>
     </variant>
+
+    <variant name="variant03">
+        <include>./variant_03.xml</include>
+    </variant>
 </theme>
