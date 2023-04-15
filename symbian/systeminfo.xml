@@ -1,0 +1,13 @@
+<theme>
+    <view name="system">
+        <text name="info1">
+            <text>The Symbian operating system was the dominant</text>
+        </text>
+        <text name="info2">
+            <text>platform for early mobile devices, including</text>
+        </text>
+        <text name="info3">
+            <text>smartphones of the era.</text>
+        </text>
+    </view>
+</theme>
