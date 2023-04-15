@@ -23,20 +23,20 @@
         <entry>builtin-fade</entry>
     </suppressTransitionProfiles>
 
-    <variant name="variant01">
-        <label>Default</label>
-        <selectable>true</selectable>
-		<transitions>fadeAndSlide</transitions>
-    </variant>
-
     <variant name="variant02">
-        <label>Detailed</label>
+        <label>Default</label>
         <selectable>true</selectable>
         <transitions>fadeAndSlide</transitions>
     </variant>
 
+    <variant name="variant01">
+        <label>Simple</label>
+        <selectable>true</selectable>
+		<transitions>fadeAndSlide</transitions>
+    </variant>
+
     <variant name="variant03">
-        <label>Cobalt</label>
+        <label>Cobalto</label>
         <selectable>true</selectable>
         <transitions>fadeAndSlide</transitions>
     </variant>

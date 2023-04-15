@@ -4,17 +4,23 @@
 -->
 
 <theme>
+
     <variables>
 	    <rootpath1>./../</rootpath1>
     </variables>
 
     <variant name="variant01">
         <include>${rootpath1}/variant_01.xml</include>
-        <include>./video.xml</include>
+        <include>./custom.xml</include>
     </variant>
 
     <variant name="variant02">
         <include>${rootpath1}/variant_02.xml</include>
-        <include>./video.xml</include>
+        <include>./custom.xml</include>
+    </variant>
+
+    <variant name="variant03">
+        <include>${rootpath1}/variant_03.xml</include>
+        <include>./custom.xml</include>
     </variant>
 </theme>

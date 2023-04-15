@@ -10,13 +10,13 @@
         </image>
         <carousel name="systemCarousel">
             <size>1 0.4</size>
-            <pos>0 0.6</pos>
+            <pos>0 0.45</pos>
             <horizontalOffset>-.275</horizontalOffset>
             <itemScale>1.35</itemScale>
-            <selectedItemMargins>.5 0</selectedItemMargins>
-            <reflections>true</reflections>
+            <selectedItemMargins>.02 .02</selectedItemMargins>
+            <!--<reflections>true</reflections>
             <reflectionsOpacity>.2</reflectionsOpacity>
-            <reflectionsFalloff>1.5</reflectionsFalloff>
+            <reflectionsFalloff>3</reflectionsFalloff>-->
             <!--
             
             <staticImage>${rootpath}/${system.theme}/images/logo.png</staticImage>
