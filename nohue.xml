@@ -1,0 +1,18 @@
+<!--
+    Variant - No Hue
+-->
+<theme>
+    <include>./default.xml</include>
+
+    <view name="system">
+        <image name="systembackgroundoverlay">
+            <path>${rootpath}/core/images/paneloverlaynohue.png</path>
+        </image>
+    </view>
+
+    <view name="gamelist">
+        <image name="fanarthue">
+            <opacity>0</opacity>
+        </image>
+    </view>
+</theme>

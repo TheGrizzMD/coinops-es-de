@@ -6,6 +6,7 @@
     <themeName>CoinOPS</themeName>
 
     <aspectRatio>16:9</aspectRatio>
+    <aspectRatio>16:10</aspectRatio>
 
     <transitions name="fadeAndSlide">
         <label>Default</label>
@@ -23,22 +24,22 @@
         <entry>builtin-fade</entry>
     </suppressTransitionProfiles>
 
-    <variant name="variant02">
+    <variant name="Default">
         <label>Default</label>
         <selectable>true</selectable>
         <transitions>fadeAndSlide</transitions>
     </variant>
 
-    <variant name="variant01">
+    <variant name="NoHue">
+        <label>No Hue</label>
+        <selectable>true</selectable>
+        <transitions>fadeAndSlide</transitions>
+    </variant>
+
+    <variant name="Simple">
         <label>Simple</label>
         <selectable>true</selectable>
 		<transitions>fadeAndSlide</transitions>
-    </variant>
-
-    <variant name="variant03">
-        <label>Cobalto</label>
-        <selectable>true</selectable>
-        <transitions>fadeAndSlide</transitions>
     </variant>
 
 </themeCapabilities>
