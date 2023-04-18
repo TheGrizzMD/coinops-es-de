@@ -16,6 +16,19 @@
                 <itemScale>1.35</itemScale>
                 <selectedItemMargins>.02 .02</selectedItemMargins>
             </carousel>
+            <text name="system-description">
+                <text>${systemDescription}</text>
+                <pos>0.1 0.77</pos><!-- 100 520 -->
+                <size>0.5 0.2</size><!-- 516 194 -->
+                <fontSize>0.024</fontSize><!-- 28 -->
+                <!--<fontPath>${rootpath}/core/fonts/texgyre.otf</fontPath>-->
+                <lineSpacing>1.25</lineSpacing>
+                <color>BBBBBB</color>
+                <verticalAlignment>top</verticalAlignment>
+                <container>true</container>
+                <containerStartDelay>0</containerStartDelay>
+                <containerResetDelay>0</containerResetDelay>
+             </text>
         </view>
 
 

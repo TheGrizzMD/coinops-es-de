@@ -8,6 +8,8 @@
 -->
 <!--    <include>./navigationsounds.xml</include>    -->
 
+    <include>${rootpath}/core/metadata-global/_default.xml</include>
+    <include>${rootpath}/core/metadata-global/${system.theme}.xml</include>
 
     <variables>
 	    <rootpath>./</rootpath>
