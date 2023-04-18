@@ -22,7 +22,7 @@
                 <size>0.5 0.2</size><!-- 516 194 -->
                 <fontSize>0.024</fontSize><!-- 28 -->
                 <!--<fontPath>${rootpath}/core/fonts/texgyre.otf</fontPath>-->
-                <lineSpacing>1.25</lineSpacing>
+                <lineSpacing>1.1</lineSpacing>
                 <color>BBBBBB</color>
                 <verticalAlignment>top</verticalAlignment>
                 <container>true</container>
@@ -58,7 +58,7 @@
                 <zIndex>65</zIndex>
             </image>
             <text name="nametext">
-                <pos>0.01 .83</pos>
+                <pos>0.01 .825</pos>
                 <size>.45 0</size>
                 <metadata>name</metadata>
                 <container>true</container>
@@ -69,9 +69,9 @@
                 <zIndex>65</zIndex>
             </text>
             <badges name="badges">
-                <pos>0.532 .876</pos>
+                <pos>0.532 .871</pos>
                 <origin>1 .5</origin>
-                <size>.07 .07</size>
+                <size>.067 .067</size>
                 <horizontalAlignment>right</horizontalAlignment>
                 <direction>row</direction>
                 <lines>1</lines>
@@ -85,13 +85,14 @@
                 <zIndex>65</zIndex>
             </badges>
             <text name="descriptiontext">
-                <pos>0.01 .8875</pos>
+                <pos>0.01 .8879</pos>
                 <size>.5 .1222</size>
                 <metadata>description</metadata>
                 <container>true</container>
                 <!--<fontPath>${rootpath}/core/fonts/Exo2-RegularCondensed.otf</fontPath>-->
-                <fontSize>.02</fontSize>
+                <fontSize>.019</fontSize>
                 <color>BBBBBB</color>
+                <lineSpacing>1.1</lineSpacing>
                 <zIndex>65</zIndex>
             </text>
             <!--<image name="systemlogo">
