@@ -3,10 +3,8 @@
 -->
 
 <theme> 
-<!--
-    <transitions>slide</transitions>
--->
-<!--    <include>./navigationsounds.xml</include>    -->
+
+<include>./navigationsounds.xml</include>
 
     <include>${rootpath}/core/metadata-global/_default.xml</include>
     <include>${rootpath}/core/metadata-global/${system.theme}.xml</include>

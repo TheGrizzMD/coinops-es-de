@@ -1,0 +1,8 @@
+<theme>
+    <view name="gamelist">
+        <video name="gamevideo">
+            <!--<pos>0.287 0.538</pos>-->
+            <pos>0.2845 .538</pos>
+        </video>
+    </view>
+</theme>
