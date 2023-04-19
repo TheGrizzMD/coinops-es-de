@@ -87,9 +87,11 @@
             <pos>0.287 0.538</pos>
             <maxSize>0.358 0.580</maxSize>
             <origin>0.5 0.5</origin>
+            <imageType>screenshot, titlescreen, cover</imageType>
             <interpolation>nearest</interpolation>
             <pillarboxes>true</pillarboxes>
             <pillarboxThreshold>0.85 0.90</pillarboxThreshold>
+            <delay>0</delay>
             <fadeInTime>0</fadeInTime>
 			<zIndex>30</zIndex>
         </video>
@@ -186,11 +188,6 @@
                 <maxSize>0.396 0.580</maxSize>
                 <pillarboxThreshold>0.85 0.90</pillarboxThreshold>
             </video>
-            <image name="fanarthue">
-                <pos>1 .5</pos>
-                <origin>.878 .5</origin>
-                <maxSize>1.5 1</maxSize>
-            </image>
 		    <image name="coverfanart">
                 <pos>1 .5</pos>
                 <origin>.878 .5</origin>
