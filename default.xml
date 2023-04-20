@@ -15,19 +15,27 @@
                 <horizontalOffset>-.275</horizontalOffset>
                 <itemScale>1.35</itemScale>
                 <selectedItemMargins>.02 .02</selectedItemMargins>
+                <unfocusedItemDimming>.5</unfocusedItemDimming>
             </carousel>
             <text name="system-description">
                 <text>${systemDescription}</text>
-                <pos>0.1 0.77</pos><!-- 100 520 -->
-                <size>0.5 0.2</size><!-- 516 194 -->
-                <fontSize>0.024</fontSize><!-- 28 -->
+                <pos>0.1 0.77</pos>
+                <size>0.5 0.2</size>
+                <fontSize>0.024</fontSize>
                 <!--<fontPath>${rootpath}/core/fonts/texgyre.otf</fontPath>-->
                 <lineSpacing>1.1</lineSpacing>
                 <color>BBBBBB</color>
                 <verticalAlignment>top</verticalAlignment>
                 <container>true</container>
-                <containerStartDelay>0</containerStartDelay>
-                <containerResetDelay>0</containerResetDelay>
+             </text>
+             <text name="gameCount">
+                <pos>0.75 0.85</pos>
+                <size>0.2 0.2</size>
+                <systemdata>gamecount</systemdata>
+                <fontSize>0.024</fontSize>
+                <lineSpacing>1.1</lineSpacing>
+                <horizontalAlignment>right</horizontalAlignment>
+                <color>BBBBBB</color>
              </text>
         </view>
 
@@ -186,13 +194,13 @@
                 <zIndex>65</zIndex>
              </text>
              <rating name="ratinggraphic">
-                <pos>.86 .87</pos>
+                <pos>.86 .86</pos>
                 <origin>0 0.5</origin>
                 <size>0 0.04</size>
                 <zIndex>65</zIndex>
             </rating>
             <text name="playCount">
-                <pos>.82 .92</pos>
+                <pos>.82 .9</pos>
                 <origin>0 .5</origin>
                 <size>.1 .019</size>
                 <fontPath>${rootpath}/core/fonts/Exo2-BoldCondensed.otf</fontPath>
@@ -201,10 +209,11 @@
                 <text>Play Count:</text>
                 <color>BBBBBB</color>
                 <lineSpacing>1</lineSpacing>
+                <metadataElement>true</metadataElement>
                 <zIndex>65</zIndex>
             </text>
             <text name="playCountNumber">
-                <pos>.925 .92</pos>
+                <pos>.925 .9</pos>
                 <origin>0 .5</origin>
                 <size>.1 .019</size>
                 <fontSize>.02</fontSize>
@@ -215,7 +224,7 @@
                 <zIndex>65</zIndex>
             </text>
             <text name="lastPlayed">
-                <pos>.82 .955</pos>
+                <pos>.82 .935</pos>
                 <origin>0 .5</origin>
                 <size>.1 .019</size>
                 <fontPath>${rootpath}/core/fonts/Exo2-BoldCondensed.otf</fontPath>
@@ -224,10 +233,11 @@
                 <text>Last Played:</text>
                 <color>BBBBBB</color>
                 <lineSpacing>1</lineSpacing>
+                <metadataElement>true</metadataElement>
                 <zIndex>65</zIndex>
             </text>
             <datetime name="lastPlayedDate">    
-                <pos>.925 .955</pos>
+                <pos>.925 .935</pos>
                 <origin>0 .5</origin>
                 <size>.1 .019</size>
                 <fontSize>.02</fontSize>
@@ -237,7 +247,7 @@
                 <lineSpacing>1</lineSpacing>
                 <zIndex>65</zIndex>
             </datetime>
-             <gamelistinfo name="gamelistInfo">
+            <!-->gamelistinfo name="gamelistInfo">
                 <pos>0.99 0.5</pos>
                 <origin>1 .5</origin>
                 <size>w 0.02</size>
@@ -246,6 +256,18 @@
                 <horizontalAlignment>right</horizontalAlignment>
                 <verticalAlignment>bottom</verticalAlignment>
                 <color>BBBBBB</color>
+                <zIndex>65</zIndex>
+            </gamelistinfo>-->
+             <gamelistinfo name="gamelistInfo">
+                <pos>0.99 0.8</pos>
+                <origin>1 .5</origin>
+                <size>w 0.02</size>
+                <fontSize>0.025</fontSize>
+                <fontPath>${rootpath}/core/fonts/Exo2-RegularCondensed.otf</fontPath>
+                <horizontalAlignment>right</horizontalAlignment>
+                <verticalAlignment>bottom</verticalAlignment>
+                <color>BBBBBB</color>
+                <backgroundColor>000000</backgroundColor>
                 <zIndex>65</zIndex>
             </gamelistinfo>
         </view>

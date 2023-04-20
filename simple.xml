@@ -85,7 +85,7 @@
 
         <video name="gamevideo">
             <pos>0.287 0.538</pos>
-            <maxSize>0.358 0.580</maxSize>
+            <maxSize>0.358 0.52</maxSize>
             <origin>0.5 0.5</origin>
             <imageType>screenshot, titlescreen, cover</imageType>
             <interpolation>nearest</interpolation>
