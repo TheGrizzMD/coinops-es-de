@@ -61,6 +61,7 @@
                 <pos>0.01 .825</pos>
                 <size>.45 0</size>
                 <metadata>name</metadata>
+                <systemNameSuffix>true</systemNameSuffix>
                 <container>true</container>
                 <containerStartDelay>1</containerStartDelay>
                 <containerResetDelay>2</containerResetDelay>
@@ -88,6 +89,7 @@
                 <pos>0.01 .8879</pos>
                 <size>.5 .1222</size>
                 <metadata>description</metadata>
+                <systemNameSuffix>true</systemNameSuffix>
                 <container>true</container>
                 <!--<fontPath>${rootpath}/core/fonts/Exo2-RegularCondensed.otf</fontPath>-->
                 <fontSize>.019</fontSize>
@@ -184,11 +186,57 @@
                 <zIndex>65</zIndex>
              </text>
              <rating name="ratinggraphic">
-                <pos>0.86 .87</pos>
+                <pos>.86 .87</pos>
                 <origin>0 0.5</origin>
                 <size>0 0.04</size>
                 <zIndex>65</zIndex>
             </rating>
+            <text name="playCount">
+                <pos>.82 .92</pos>
+                <origin>0 .5</origin>
+                <size>.1 .019</size>
+                <fontPath>${rootpath}/core/fonts/Exo2-BoldCondensed.otf</fontPath>
+                <fontSize>.02</fontSize>
+                <horizontalAlignment>right</horizontalAlignment>
+                <text>Play Count:</text>
+                <color>BBBBBB</color>
+                <lineSpacing>1</lineSpacing>
+                <zIndex>65</zIndex>
+            </text>
+            <text name="playCountNumber">
+                <pos>.925 .92</pos>
+                <origin>0 .5</origin>
+                <size>.1 .019</size>
+                <fontSize>.02</fontSize>
+                <metadata>playcount</metadata>
+                <defaultValue>Unknown</defaultValue>
+                <color>BBBBBB</color>
+                <lineSpacing>1</lineSpacing>
+                <zIndex>65</zIndex>
+            </text>
+            <text name="lastPlayed">
+                <pos>.82 .955</pos>
+                <origin>0 .5</origin>
+                <size>.1 .019</size>
+                <fontPath>${rootpath}/core/fonts/Exo2-BoldCondensed.otf</fontPath>
+                <fontSize>.02</fontSize>
+                <horizontalAlignment>right</horizontalAlignment>
+                <text>Last Played:</text>
+                <color>BBBBBB</color>
+                <lineSpacing>1</lineSpacing>
+                <zIndex>65</zIndex>
+            </text>
+            <datetime name="lastPlayedDate">    
+                <pos>.925 .955</pos>
+                <origin>0 .5</origin>
+                <size>.1 .019</size>
+                <fontSize>.02</fontSize>
+                <metadata>lastplayed</metadata>
+                <defaultValue>Unknown</defaultValue>
+                <color>BBBBBB</color>
+                <lineSpacing>1</lineSpacing>
+                <zIndex>65</zIndex>
+            </datetime>
              <gamelistinfo name="gamelistInfo">
                 <pos>0.99 0.5</pos>
                 <origin>1 .5</origin>
