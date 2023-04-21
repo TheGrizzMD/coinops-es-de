@@ -6,4 +6,13 @@
             <pillarboxThreshold>1 1</pillarboxThreshold>
         </video>
     </view> 
+    <aspectRatio name="16:10">
+        <view name="gamelist">
+            <video name="gamevideo">
+                <pos>.2815 .531</pos>
+                <maxSize>.42 0.45</maxSize>
+                
+            </video>
+        </view>
+    </aspectRatio>
 </theme>

@@ -8,4 +8,13 @@
             <zIndex>70</zIndex>
         </video>
     </view>
+    <aspectRatio name="16:10">
+        <view name="gamelist">
+            <video name="gamevideo">
+                <pos>0.275 .536</pos>
+                <maxSize>.4 0.36</maxSize>
+                <zIndex>70</zIndex>
+            </video>
+        </view>
+    </aspectRatio>
 </theme>
