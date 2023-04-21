@@ -1,0 +1,8 @@
+<theme>
+    <view name="gamelist">
+        <video name="gamevideo">
+            <pos>0.289 0.542</pos>
+            <maxSize>0.356 .4675</maxSize>
+        </video>
+    </view>
+</theme>

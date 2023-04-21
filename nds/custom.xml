@@ -2,16 +2,16 @@
     <view name="gamelist">
         <video name="gamevideo">
             <!--<pos>0.287 0.538</pos>-->
-            <pos>.297 .5415</pos>
+            <pos>.295 .54</pos>
             <!--<maxSize>0.396 0.580</maxSize>-->
-            <maxSize>.325 0.5</maxSize>
+            <maxSize>.368 0.590</maxSize>
         </video>
     </view>
     <aspectRatio name="16:10">
         <view name="gamelist">
             <video name="gamevideo">
-                <pos>.284 .5415</pos>
-                <maxSize>.325 0.5</maxSize>
+                <pos>.281 .54</pos>
+                <maxSize>.368 0.590</maxSize>
             </video>
         </view>
     </aspectRatio>

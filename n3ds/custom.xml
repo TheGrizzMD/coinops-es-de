@@ -5,7 +5,14 @@
             <pos>.295 .54</pos>
             <!--<maxSize>0.396 0.580</maxSize>-->
             <maxSize>.368 0.590</maxSize>
-
         </video>
     </view>
+    <aspectRatio name="16:10">
+        <view name="gamelist">
+            <video name="gamevideo">
+                <pos>.28 .54</pos>
+                <maxSize>.368 0.590</maxSize>
+            </video>
+        </view>
+    </aspectRatio>
 </theme>
