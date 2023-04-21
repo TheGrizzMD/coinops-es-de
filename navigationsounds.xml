@@ -4,10 +4,10 @@
         <sound name="systembrowse">
             <path>./core/sounds/empty.wav</path>
         </sound>
-        <!--
+        
         <sound name="quicksysselect">
-            <path>./core/sounds/quicksysselect.wav</path>
-        </sound>
+            <path>./core/sounds/empty.wav</path>
+        </sound><!--
         <sound name="select">
             <path>./core/sounds/select.wav</path>
         </sound>

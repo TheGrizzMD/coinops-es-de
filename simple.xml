@@ -103,7 +103,7 @@
 			<itemsBeforeCenter>4</itemsBeforeCenter>
             <itemsAfterCenter>4</itemsAfterCenter>
             <itemSize>0.15 0.125</itemSize>
-            <itemScale>1.23</itemScale>
+            <itemScale>1.5</itemScale>
 			<itemRotation>-7</itemRotation>
             <imageInterpolation>linear</imageInterpolation>
             <itemRotationOrigin>4.03 0.5</itemRotationOrigin>
@@ -147,8 +147,8 @@
 			<zIndex>65</zIndex>
         </gamelistinfo>
         <badges name="badges">
-            <pos>0.90 0.47</pos>
-            <size>.3 .3</size>
+            <pos>0.94 0.47</pos>
+            <size>.2 .2</size>
             <horizontalAlignment>left</horizontalAlignment>
             <direction>column</direction>
             <lines>3</lines>
@@ -196,7 +196,7 @@
             <image name="coverfanartfallback">
                 <pos>1 .5</pos>
                 <origin>.878 .5</origin>
-                <maxSize>1 0</maxSize>
+                <maxSize>1.5 1</maxSize>
             </image>
         </view>
     </aspectRatio>
