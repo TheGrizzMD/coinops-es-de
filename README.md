@@ -4,7 +4,7 @@ This theme is a mashup of multiple CoinOPS builds by BritneysPAIRS (BP), as well
 ## **Preview**
 | System View | Gamelist View |
 |----|----|
-| ![Base Profile Screenshot 2023 04 19 - 21 27 20 41](https://user-images.githubusercontent.com/39314057/233242123-d14c8882-a39b-468b-9f40-8ec1e16b660b.png) | ![Base Profile Screenshot 2023 04 19 - 21 27 27 61](https://user-images.githubusercontent.com/39314057/233242130-9b5632a3-c356-4437-ac95-0051b5dbb987.png) |
+| ![Base Profile Screenshot 2023 04 21 - 20 11 03 68](https://user-images.githubusercontent.com/39314057/233753948-e11d35ac-d8a6-44dd-8e16-a787bcc3eec6.png) | ![Base Profile Screenshot 2023 04 21 - 20 11 17 86](https://user-images.githubusercontent.com/39314057/233753951-3a1f60e7-46ff-48dd-99ce-6f72f5b2d282.png) |
 
 ## **Configuration Options**
 - `Theme Aspect Ratio` - sets the aspect ratio the theme will render at. If needed, this can be changed to match the aspect ratio of your screen (though it should happen automatically).
