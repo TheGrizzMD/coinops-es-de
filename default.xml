@@ -22,7 +22,6 @@
                 <pos>0.1 0.77</pos>
                 <size>0.5 0.18</size>
                 <fontSize>0.024</fontSize>
-                <!--<fontPath>${rootpath}/core/fonts/texgyre.otf</fontPath>-->
                 <lineSpacing>1.1</lineSpacing>
                 <color>BBBBBB</color>
                 <verticalAlignment>top</verticalAlignment>
@@ -55,12 +54,8 @@
                 <zIndex>60</zIndex>
             </image>
             <image name="cover">
-                <!--<pos>.52 .99</pos>-->
                 <pos>.58 .99</pos>
                 <origin>.5 1</origin>
-                <!--<pos>.61 .99</pos>
-                <origin>.5 1</origin>
-                -->
                 <maxSize>.18 .30</maxSize>
                 <imageType>cover</imageType>
                 <zIndex>65</zIndex>
@@ -94,11 +89,9 @@
             </badges>
             <text name="descriptiontext">
                 <pos>0.01 .8879</pos>
-                <!--<size>.5 .1222</size>-->
                 <size>.47 .1222</size>
                 <metadata>description</metadata>
                 <container>true</container>
-                <!--<fontPath>${rootpath}/core/fonts/Exo2-RegularCondensed.otf</fontPath>-->
                 <fontSize>.019</fontSize>
                 <color>BBBBBB</color>
                 <lineSpacing>1.1</lineSpacing>
@@ -176,7 +169,6 @@
 
             <text name="sourceSystem">
                 <pos>.78 .865</pos>
-                <!--<pos>.82 .97</pos>-->
                 <origin>0 .5</origin>
                 <size>.1 .018</size>
                 <fontPath>${rootpath}/core/fonts/Exo2-BoldCondensed.otf</fontPath>
@@ -199,18 +191,7 @@
                 <color>BBBBBB</color>
                 <lineSpacing>1</lineSpacing>
                 <zIndex>65</zIndex>
-            </text>
-            <!--
-            <image name="releasedate-icon">
-                <pos>.71 .865</pos>
-                <origin>0 .5</origin>
-                <maxSize>.027 .027</maxSize>
-                <path>${rootpath}/core/images/icon-release-date.svg</path>
-                <color>BBBBBB</color>
-                <metadataElement>true</metadataElement>
-                <zIndex>65</zIndex>
-             </image>
-            -->           
+            </text>   
              <text name="releasedate">
                 <pos>.78 .9</pos>
                 <origin>0 .5</origin>
