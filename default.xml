@@ -62,7 +62,7 @@
             </image>
             <text name="nametext">
                 <pos>0.01 .825</pos>
-                <size>.47 0</size>
+                <size>.44 0</size>
                 <metadata>name</metadata>
                 <container>true</container>
                 <containerStartDelay>1</containerStartDelay>
