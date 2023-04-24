@@ -70,7 +70,7 @@
             <pos>0 0</pos>
             <size>1 1</size>
             <path>${systemCabinetImage}</path>
-            <gameOverridePath>${rootpath}/imageOverrides</gameOverridePath>
+            <gameOverridePath>${rootpath}/imageOverrides/cabinets</gameOverridePath>
             <default>${rootpath}/core/images/fallbackcabinet.png</default>
             <interpolation>linear</interpolation>
             <zIndex>35</zIndex>
