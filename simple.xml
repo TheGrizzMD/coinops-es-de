@@ -30,7 +30,6 @@
             <path>${systemPromoImage}</path>
             <zIndex>9</zIndex>
         </image>
-
         <carousel name="systemCarousel">
             <pos>0 0.625</pos>
             <size>1 0.4</size>
@@ -49,6 +48,7 @@
             <lineSpacing>1.2</lineSpacing>
             <selectedItemMargins>.02 .02</selectedItemMargins>
             <unfocusedItemDimming>.5</unfocusedItemDimming>
+            <fastScrolling>true</fastScrolling>
         </carousel>
 	</view>
 	
