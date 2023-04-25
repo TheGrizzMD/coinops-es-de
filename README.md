@@ -24,13 +24,7 @@ This theme is a mashup of multiple CoinOPS builds by BritneysPAIRS (BP), as well
 |----|----|----|
 | Default | ![Base Profile Screenshot 2023 04 21 - 20 11 03 68](https://user-images.githubusercontent.com/39314057/233753948-e11d35ac-d8a6-44dd-8e16-a787bcc3eec6.png) | ![Base Profile Screenshot 2023 04 21 - 20 11 17 86](https://user-images.githubusercontent.com/39314057/233753951-3a1f60e7-46ff-48dd-99ce-6f72f5b2d282.png) |
 | No Hue | ![Base Profile Screenshot 2023 04 24 - 15 27 29 90](https://user-images.githubusercontent.com/39314057/234110145-2d373233-012c-4f54-9e79-2f66284345c5.png) | ![Base Profile Screenshot 2023 04 24 - 15 29 26 05](https://user-images.githubusercontent.com/39314057/234110210-d368bda4-0259-4eba-8810-97cca475cab6.png)
-| Simple | ![Base Profile Screenshot 2023 04 24 - 15 29 43 39](https://user-images.githubusercontent.com/39314057/234110451-dcf07c25-f3b8-4e6a-b42c-23476856d9c4.png) | ![Base Profile Screenshot 2023 04 24 - 15 29 48 25](https://user-images.githubusercontent.com/39314057/234110520-09a4eb8d-a92b-491f-b9d3-70860903fc04.png) | 
-
-
-
-
-
-
+| Simple | ![Base Profile Screenshot 2023 04 25 - 17 47 33 42](https://user-images.githubusercontent.com/39314057/234423620-a94bc4a4-b3b0-4685-9eee-36843844e58c.png) | ![Base Profile Screenshot 2023 04 25 - 17 47 39 11](https://user-images.githubusercontent.com/39314057/234423703-8da13b27-6f26-4faf-a8c9-64467e825bfb.png) |
 
 ## **Additional Notes**
 
