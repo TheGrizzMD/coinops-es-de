@@ -11,11 +11,6 @@
             </image>
             <carousel name="systemCarousel">
                 <pos>0 0.45</pos>
-                <size>1 0.4</size>
-                <horizontalOffset>-.275</horizontalOffset>
-                <itemScale>1.35</itemScale>
-                <selectedItemMargins>.02 .02</selectedItemMargins>
-                <unfocusedItemDimming>.5</unfocusedItemDimming>
             </carousel>
             <text name="system-description">
                 <text>${systemDescription}</text>
@@ -298,16 +293,4 @@
             </view>
         </aspectRatio>
 
-
-        <view name="system, gamelist">
-            <helpsystem name="help">
-                <pos>0.5 0.005</pos>
-                <origin>.5 0</origin>
-                <textColor>BBBBBB</textColor>
-                <iconColor>BBBBBB</iconColor>
-                <fontSize>0.025</fontSize>
-                <fontPath>${rootpath}/core/fonts/Exo2-RegularCondensed.otf</fontPath>
-                <iconTextSpacing>0.003</iconTextSpacing>
-            </helpsystem>
-        </view>
     </theme>

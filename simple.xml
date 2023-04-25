@@ -32,21 +32,23 @@
         </image>
 
         <carousel name="systemCarousel">
-            <pos>0 0.75</pos>
-            <size>1 0.232407</size>
+            <pos>0 0.625</pos>
+            <size>1 0.4</size>
             <type>horizontal</type>
+            <horizontalOffset>-.275</horizontalOffset>
             <staticImage>${rootpath}/${system.theme}/images/logo.png</staticImage>
             <maxItemCount>3</maxItemCount>
             <itemSize>0.25 0.125</itemSize>
-            <itemScale>1.23</itemScale>
+            <itemScale>1.35</itemScale>
             <imageInterpolation>linear</imageInterpolation>
             <unfocusedItemOpacity>0.5</unfocusedItemOpacity>
-			<color>00000000</color>
+            <color>00000000</color>
             <textColor>BBBBBB</textColor>
             <fontSize>0.055</fontSize>
             <letterCase>uppercase</letterCase>
             <lineSpacing>1.2</lineSpacing>
-            <fastScrolling>true</fastScrolling>
+            <selectedItemMargins>.02 .02</selectedItemMargins>
+            <unfocusedItemDimming>.5</unfocusedItemDimming>
         </carousel>
 	</view>
 	
@@ -214,6 +216,8 @@
             <fontSize>0.025</fontSize>
 			<fontPath>${rootpath}/core/fonts/Exo2-RegularCondensed.otf</fontPath>
 			<iconTextSpacing>0.003</iconTextSpacing>
+            <originDimmed>0.5 0</originDimmed>
+            <posDimmed>0.5 0.94</posDimmed>
         </helpsystem>
     </view>
 </theme>
