@@ -10,7 +10,7 @@
 
     <transitions name="fadeAndSlide">
         <label>Default</label>
-        <selectable>true</selectable>
+        <selectable>false</selectable>
         <systemToSystem>instant</systemToSystem>
         <systemToGamelist>slide</systemToGamelist>
         <gamelistToGamelist>fade</gamelistToGamelist>
