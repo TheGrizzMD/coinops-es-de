@@ -102,8 +102,8 @@
             <size>1.45 1</size>
             <type>verticalWheel</type>
             <imageType>marquee</imageType>
-			<itemsBeforeCenter>4</itemsBeforeCenter>
-            <itemsAfterCenter>4</itemsAfterCenter>
+			<itemsBeforeCenter>5</itemsBeforeCenter>
+            <itemsAfterCenter>5</itemsAfterCenter>
             <itemSize>0.15 0.125</itemSize>
             <itemScale>1.5</itemScale>
 			<itemRotation>-7</itemRotation>
