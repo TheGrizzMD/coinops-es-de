@@ -68,6 +68,12 @@
             <path>${rootpath}/core/images/overlaydiamonds2.png</path>
             <zIndex>45</zIndex>
         </image>
+        <image name="gamelistforegroundoverlay">
+            <pos>0 0</pos>
+            <size>1 1</size>
+            <path>${rootpath}/core/images/overlay.png</path>
+            <zIndex>55</zIndex>
+        </image>
         <image name="cabinetimage">
             <pos>0 0</pos>
             <size>1 1</size>
