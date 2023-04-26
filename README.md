@@ -1,6 +1,6 @@
 # CoinOPS for ES-DE
 
-This theme is a mashup of multiple CoinOPS builds by BritneysPAIRS (BP), as well as [ARTFLIX](https://github.com/fagnerpc/Alekfull-ARTFLIX/) by [Alekfull](https://github.com/fagnerpc/) and [ARTFLIX-Colbalto](https://github.com/galisteogames/ARTFLIX-Cobalto/) by [Galisteo](https://github.com/galisteogames/)
+This theme is a mashup of a CoinOPS theme by BritneysPAIRS (BP) and gjsmsmith, as well as [ARTFLIX](https://github.com/fagnerpc/Alekfull-ARTFLIX/) by [Alekfull](https://github.com/fagnerpc/), and [ARTFLIX-Colbalto](https://github.com/galisteogames/ARTFLIX-Cobalto/) by [Galisteo](https://github.com/galisteogames/)
 
 ## **Preview**
 
