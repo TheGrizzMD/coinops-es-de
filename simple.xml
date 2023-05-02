@@ -36,17 +36,19 @@
             <type>horizontal</type>
             <horizontalOffset>-.275</horizontalOffset>
             <staticImage>${rootpath}/${system.theme}/images/logo.png</staticImage>
+            <defaultImage>${rootpath}/${system.theme}/images/logo.svg</defaultImage>
             <maxItemCount>3</maxItemCount>
             <itemSize>0.25 0.125</itemSize>
             <itemScale>1.35</itemScale>
             <imageInterpolation>linear</imageInterpolation>
-            <unfocusedItemOpacity>0.5</unfocusedItemOpacity>
             <color>00000000</color>
             <textColor>BBBBBB</textColor>
             <fontSize>0.055</fontSize>
             <letterCase>uppercase</letterCase>
             <lineSpacing>1.2</lineSpacing>
             <selectedItemMargins>.02 .02</selectedItemMargins>
+            <!--<imageBrightness>.25</imageBrightness>-->
+            <unfocusedItemOpacity>0.5</unfocusedItemOpacity>
             <unfocusedItemDimming>.5</unfocusedItemDimming>
             <fastScrolling>true</fastScrolling>
         </carousel>
@@ -174,7 +176,8 @@
             <pos>.2865 .122</pos>
             <origin>0.5 0.5</origin>
             <maxSize>.265 .15</maxSize>
-            <path>${rootpath}/${system.theme}/images/logo.png</path>
+            <path>${rootpath}/${system.theme}/images/logo.svg</path>
+            <default>${rootpath}/${system.theme}/images/logo.png</default>
             <interpolation>linear</interpolation>
             <zIndex>34</zIndex>
          </image>
