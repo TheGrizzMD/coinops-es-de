@@ -97,6 +97,8 @@
                 <pos>.68 .865</pos>
                 <origin>0 0.5</origin>
                 <size>0 0.04</size>
+                <filledPath>${rootpath}/core/images/star_filled.svg</filledPath>
+                <unfilledPath>${rootpath}/core/images/star_unfilled.svg</unfilledPath>
                 <zIndex>65</zIndex>
             </rating>
             <image name="players-icon">
