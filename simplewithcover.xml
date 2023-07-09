@@ -1,0 +1,17 @@
+<!--
+    Variant - Simple With Cover
+-->
+
+<theme>
+    <include>./simple.xml</include>
+
+        <view name="gamelist">
+                <image name="cover">
+                <pos>.58 .99</pos>
+                <origin>.5 1</origin>
+                <maxSize>.18 .30</maxSize>
+                <imageType>cover</imageType>
+                <zIndex>65</zIndex>
+            </image>
+        </view>
+</theme>
