@@ -23,4 +23,10 @@
         <include>${rootpath1}/nohue.xml</include>
         <include>./custom.xml</include>
     </variant>
+
+    <variant name="SimpleWithCover">
+        <include>${rootpath1}/simplewithcover.xml</include>
+        <include>./custom.xml</include>
+    </variant>
+
 </theme>

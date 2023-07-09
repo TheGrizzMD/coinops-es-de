@@ -42,4 +42,10 @@
 		<transitions>fadeAndSlide</transitions>
     </variant>
 
+    <variant name="SimpleWithCover">
+        <label>Simple With Cover Art</label>
+        <selectable>true</selectable>
+		<transitions>fadeAndSlide</transitions>
+    </variant>
+
 </themeCapabilities>

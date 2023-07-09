@@ -15,4 +15,9 @@
     <variant name="NoHue">
         <include>./nohue.xml</include>
     </variant>
+
+    <variant name="SimpleWithCover">
+        <include>./simplewithcover.xml</include>
+    </variant>
+    
 </theme>
