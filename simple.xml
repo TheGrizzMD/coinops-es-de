@@ -27,6 +27,7 @@
 		<image name="backgroundpromo">
             <pos>0 0</pos>
             <size>1 1</size>
+            <interpolation>linear</interpolation>
             <path>${systemPromoImage}</path>
             <zIndex>9</zIndex>
         </image>
