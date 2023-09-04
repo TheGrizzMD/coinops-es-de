@@ -48,4 +48,10 @@
 		<transitions>fadeAndSlide</transitions>
     </variant>
 
+    <variant name="ArtFlix">
+        <label>ArtFlix</label>
+        <selectable>true</selectable>
+		<transitions>fadeAndSlide</transitions>
+    </variant>
+
 </themeCapabilities>
