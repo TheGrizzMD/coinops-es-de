@@ -20,4 +20,7 @@
         <include>./simplewithcover.xml</include>
     </variant>
     
+    <variant name="ArtFlix">
+        <include>./artflix.xml</include>
+    </variant>
 </theme>
