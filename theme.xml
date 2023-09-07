@@ -19,5 +19,4 @@
     <variant name="SimpleWithCover">
         <include>./simplewithcover.xml</include>
     </variant>
-    
 </theme>
