@@ -28,5 +28,5 @@
         <include>${rootpath1}/simplewithcover.xml</include>
         <include>./custom.xml</include>
     </variant>
-    
+
 </theme>
