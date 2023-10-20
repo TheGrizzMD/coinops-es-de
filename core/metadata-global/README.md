@@ -3,7 +3,7 @@ This repo contains XML files that add system metadata variables for use in theme
 
 The files leverage ES-DE variables to allow the values to be used in any theme agnostic of how the theme is structured.
 
-It also includes a `_default.xml` that can be used as a temproary fallback for when new systems are added to ES-DE
+It also includes a `_default.xml` that can be used as a temporary fallback for when new systems are added to ES-DE
 
 Each file provides the following metadata variables:
 - `systemDescription` - A description of the system
@@ -11,7 +11,8 @@ Each file provides the following metadata variables:
 - `systemReleaseDate` - The date the system was released in ISO 8601 (`YYYY-MM-DD`) format.  If only the month and year was known then the format is `YYYY-MM`.  If only the year was known then the format is `YYYY`.
 - `systemReleaseDateFormated` - A formated version of the release date in `Month Day, Year` format.  If only the month and year was known then the format is `Month Year`.  If only the year was known then the format is `Year`.
 - `systemHardwareType` - A value to represent the systems type (e.g. `Console`. `Portable`, `Computer`, etc...)
-- `systemColor` - A hex value to represent the systems color (can be used for things like backgrounds or navigation highlights)
+- `systemColor` - A hex value to represent a systems primary color (can be used for things like backgrounds or navigation highlights)
+- `systemColorPalette1...4` - 4 different hex values to represent other colors that can be used for a system (useful for things like color bands)
 
 ## **Usage**
 1. Download the latest release of this repo and place it in a dedicated folder in your theme.  
