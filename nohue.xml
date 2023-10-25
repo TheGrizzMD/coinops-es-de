@@ -7,7 +7,7 @@
 
     <view name="system">
         <image name="systembackgroundoverlay">
-            <path>${rootpath}/core/images/paneloverlaynohue.png</path>
+            <path>${rootpath}/_inc/images/paneloverlaynohue.png</path>
         </image>
     </view>
 

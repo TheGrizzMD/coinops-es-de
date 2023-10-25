@@ -3,7 +3,7 @@
         <image name="autocollectionslabel">
             <pos>0 0</pos>
             <size>.75 .75</size>
-            <path>${rootpath1}/core/images/autocollectionslabel.png</path>
+            <path>${rootpath1}/_inc/images/autocollectionslabel.png</path>
             <zIndex>55</zIndex>
         </image>
         <image name="systemlogo">

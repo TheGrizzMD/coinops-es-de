@@ -2,28 +2,28 @@
     <view name="all">
             
         <sound name="systembrowse">
-            <path>./core/sounds/scroll1A.wav</path>
+            <path>./_inc/sounds/scroll1A.wav</path>
         </sound>
         
         <sound name="quicksysselect">
-            <path>./core/sounds/scroll1A.wav</path>
+            <path>./_inc/sounds/scroll1A.wav</path>
         </sound><!--
         <sound name="select">
-            <path>./core/sounds/select.wav</path>
+            <path>./_inc/sounds/select.wav</path>
         </sound>
         <sound name="back">
-            <path>./core/sounds/back.wav</path>
+            <path>./_inc/sounds/back.wav</path>
         </sound>
     -->
         <sound name="scroll">
-            <path>./core/sounds/empty.wav</path>
+            <path>./_inc/sounds/empty.wav</path>
         </sound>
         <!--
         <sound name="favorite">
-            <path>./core/sounds/favorite.wav</path>
+            <path>./_inc/sounds/favorite.wav</path>
         </sound>
         <sound name="launch">
-            <path>./core/sounds/launch.wav</path>
+            <path>./_inc/sounds/launch.wav</path>
         </sound>
     -->
     </view>

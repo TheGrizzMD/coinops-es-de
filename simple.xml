@@ -6,21 +6,19 @@
 
 <include>./navigationsounds.xml</include>
 
-    <include>${rootpath}/core/metadata-global/_default.xml</include>
-    <include>${rootpath}/core/metadata-global/${system.theme}.xml</include>
+    <include>${rootpath}/_inc/systems/metadata-global/_default.xml</include>
+    <include>${rootpath}/_inc/systems/metadata-global/${system.theme}.xml</include>
 
     <variables>
 	    <rootpath>./</rootpath>
-        <systemCabinetImage>${rootpath}/${system.theme}/images/cabinet.png</systemCabinetImage>
-        <systemPromoImage>${rootpath}/${system.theme}/images/promo.jpg</systemPromoImage>
-        <systemLogo>${rootpath}/${system.theme}/images/logo.png</systemLogo>
+        <systemPromoImage>${rootpath}/_inc/systems/fanart/${system.theme}.jpg</systemPromoImage>
     </variables>
 
     <view name="system">
         <image name="systembackgroundoverlay">
             <pos>0 0</pos>
             <size>1 1</size>
-            <path>${rootpath}/core/images/overlaydown.png</path>
+            <path>${rootpath}/_inc/images/overlaydown.png</path>
             <color>959595FF</color>
             <zIndex>10</zIndex>
         </image>
@@ -36,8 +34,8 @@
             <size>1 0.4</size>
             <type>horizontal</type>
             <horizontalOffset>-.275</horizontalOffset>
-            <staticImage>${rootpath}/${system.theme}/images/logo.png</staticImage>
-            <defaultImage>${rootpath}/${system.theme}/images/logo.svg</defaultImage>
+            <staticImage>${rootpath}/_inc/systems/logos/${system.theme}.svg</staticImage>
+            <defaultImage>${rootpath}/_inc/systems/logos/${system.theme}.png</defaultImage>
             <maxItemCount>3</maxItemCount>
             <itemSize>0.25 0.125</itemSize>
             <itemScale>1.35</itemScale>
@@ -68,21 +66,21 @@
 	    <image name="gamelistbackgroundoverlay">
             <pos>0 0</pos>
             <size>1 1</size>
-            <path>${rootpath}/core/images/overlaydiamonds2.png</path>
+            <path>${rootpath}/_inc/images/overlaydiamonds2.png</path>
             <zIndex>45</zIndex>
         </image>
         <image name="gamelistforegroundoverlay">
             <pos>0 0</pos>
             <size>1 1</size>
-            <path>${rootpath}/core/images/overlay.png</path>
+            <path>${rootpath}/_inc/images/overlay.png</path>
             <zIndex>55</zIndex>
         </image>
         <image name="cabinetimage">
             <pos>0 0</pos>
             <size>1 1</size>
-            <path>${systemCabinetImage}</path>
+            <path>${rootpath}/_inc/systems/cabinets/${system.theme}.png</path>
             <gameOverridePath>${rootpath}/imageOverrides/cabinets</gameOverridePath>
-            <default>${rootpath}/core/images/fallbackcabinet.png</default>
+            <default>${rootpath}/_inc/images/fallbackcabinet.png</default>
             <interpolation>linear</interpolation>
             <zIndex>35</zIndex>
         </image>
@@ -90,7 +88,7 @@
 		<image name ="videohide">
 		    <pos>0 0</pos>
 			<size>1 1</size>
-			<path>${rootpath}/core/images/videohide.png</path>
+			<path>${rootpath}/_inc/images/videohide.png</path>
 			<zIndex>29</zIndex>
 		</image>
 
@@ -144,14 +142,14 @@
             <pos>1 1</pos>
             <origin>1 1</origin>
             <maxSize>1 1</maxSize>
-            <path>${rootpath}/core/images/defaultcover.png</path>
+            <path>${rootpath}/_inc/images/defaultcover.png</path>
             <zIndex>19</zIndex>
         </image>
 		<gamelistinfo name="gamelistInfo">
             <pos>0.7 0.955</pos>
             <size>w 0.02</size>
             <fontSize>0.025</fontSize>
-			<fontPath>${rootpath}/core/fonts/Exo2-RegularCondensed.otf</fontPath>
+			<fontPath>${rootpath}/_inc/fonts/Exo2-RegularCondensed.otf</fontPath>
             <horizontalAlignment>right</horizontalAlignment>
 			<verticalAlignment>bottom</verticalAlignment>
             <color>BBBBBB</color>
@@ -165,7 +163,7 @@
             <lines>3</lines>
             <itemsPerLine>1</itemsPerLine>
             <slots>favorite</slots>
-			<customBadgeIcon badge="favorite">${rootpath}/core/images/yes.png</customBadgeIcon>
+			<customBadgeIcon badge="favorite">${rootpath}/_inc/images/yes.png</customBadgeIcon>
             <controllerPos>0.5 0.572</controllerPos>
             <controllerSize>0.81</controllerSize>
             <folderLinkPos>0.54 0.64</folderLinkPos>
@@ -177,8 +175,8 @@
             <pos>.2865 .122</pos>
             <origin>0.5 0.5</origin>
             <maxSize>.265 .15</maxSize>
-            <path>${rootpath}/${system.theme}/images/logo.svg</path>
-            <default>${rootpath}/${system.theme}/images/logo.png</default>
+            <path>${rootpath}/_inc/systems/logos/${system.theme}.svg</path>
+            <default>${rootpath}/_inc/systems/logos/${system.theme}.png</default>
             <interpolation>linear</interpolation>
             <zIndex>34</zIndex>
          </image>
@@ -224,7 +222,7 @@
             <textColor>BBBBBB</textColor>
             <iconColor>BBBBBB</iconColor>
             <fontSize>0.025</fontSize>
-			<fontPath>${rootpath}/core/fonts/Exo2-RegularCondensed.otf</fontPath>
+			<fontPath>${rootpath}/_inc/fonts/Exo2-RegularCondensed.otf</fontPath>
 			<iconTextSpacing>0.003</iconTextSpacing>
             <originDimmed>0.5 0</originDimmed>
             <posDimmed>0.5 0.94</posDimmed>

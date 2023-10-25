@@ -7,7 +7,7 @@
     
         <view name="system">
             <image name="systembackgroundoverlay">
-                <path>${rootpath}/core/images/paneloverlay.png</path>
+                <path>${rootpath}/_inc/images/paneloverlay.png</path>
             </image>
             <carousel name="systemCarousel">
                 <pos>0 0.45</pos>
@@ -39,13 +39,13 @@
                 <pos>1 1</pos>
                 <origin>1 1</origin>
                 <maxSize>1 1</maxSize>
-                <path>${rootpath}/core/images/fanarthue.png</path>
+                <path>${rootpath}/_inc/images/fanarthue.png</path>
                 <zIndex>21</zIndex>
             </image>
             <image name="overbar">
                 <pos>0 0</pos>
                 <size>1 1</size>
-                <path>${rootpath}/core/images/overbar.png</path>
+                <path>${rootpath}/_inc/images/overbar.png</path>
                 <zIndex>60</zIndex>
             </image>
             <image name="cover">
@@ -62,7 +62,7 @@
                 <container>true</container>
                 <containerStartDelay>1</containerStartDelay>
                 <containerResetDelay>2</containerResetDelay>
-                <fontPath>${rootpath}/core/fonts/Exo2-BoldCondensed.otf</fontPath>
+                <fontPath>${rootpath}/_inc/fonts/Exo2-BoldCondensed.otf</fontPath>
                 <color>BBBBBB</color>
                 <zIndex>65</zIndex>
             </text>
@@ -74,7 +74,7 @@
                 <direction>row</direction>
                 <lines>1</lines>
                 <slots>favorite</slots>
-                <customBadgeIcon badge="favorite">${rootpath}/core/images/yes.png</customBadgeIcon>
+                <customBadgeIcon badge="favorite">${rootpath}/_inc/images/yes.png</customBadgeIcon>
                 <controllerPos>0.5 0.572</controllerPos>
                 <controllerSize>0.81</controllerSize>
                 <folderLinkPos>0.54 0.64</folderLinkPos>
@@ -97,15 +97,15 @@
                 <pos>.6765 .865</pos>
                 <origin>0 0.5</origin>
                 <size>0 0.04</size>
-                <filledPath>${rootpath}/core/images/star_filled.svg</filledPath>
-                <unfilledPath>${rootpath}/core/images/star_unfilled.svg</unfilledPath>
+                <filledPath>${rootpath}/_inc/images/star_filled.svg</filledPath>
+                <unfilledPath>${rootpath}/_inc/images/star_unfilled.svg</unfilledPath>
                 <zIndex>65</zIndex>
             </rating>
             <image name="players-icon">
                 <pos>.68 .9</pos>
                 <origin>0 .5</origin>
                 <maxSize>.027 .027</maxSize>
-                <path>${rootpath}/core/images/icon-players.svg</path>
+                <path>${rootpath}/_inc/images/icon-players.svg</path>
                 <color>BBBBBB</color>
                 <metadataElement>true</metadataElement>
                 <zIndex>65</zIndex>
@@ -125,7 +125,7 @@
                 <pos>.68 .935</pos>
                 <origin>0 .5</origin>
                 <maxSize>.027 .027</maxSize>
-                <path>${rootpath}/core/images/icon-developer.svg</path>
+                <path>${rootpath}/_inc/images/icon-developer.svg</path>
                 <color>BBBBBB</color>
                 <metadataElement>true</metadataElement>
                 <zIndex>65</zIndex>
@@ -145,7 +145,7 @@
                 <pos>.68 .97</pos>
                 <origin>0 .5</origin>
                 <maxSize>.027 .027</maxSize>
-                <path>${rootpath}/core/images/icon-publisher.svg</path>
+                <path>${rootpath}/_inc/images/icon-publisher.svg</path>
                 <color>BBBBBB</color>
                 <metadataElement>true</metadataElement>
                 <zIndex>65</zIndex>
@@ -168,7 +168,7 @@
                 <pos>.78 .865</pos>
                 <origin>0 .5</origin>
                 <size>.1 .018</size>
-                <fontPath>${rootpath}/core/fonts/Exo2-BoldCondensed.otf</fontPath>
+                <fontPath>${rootpath}/_inc/fonts/Exo2-BoldCondensed.otf</fontPath>
                 <fontSize>.02</fontSize>
                 <horizontalAlignment>right</horizontalAlignment>
                 <text>System:</text>
@@ -193,7 +193,7 @@
                 <pos>.78 .9</pos>
                 <origin>0 .5</origin>
                 <size>.1 .018</size>
-                <fontPath>${rootpath}/core/fonts/Exo2-BoldCondensed.otf</fontPath>
+                <fontPath>${rootpath}/_inc/fonts/Exo2-BoldCondensed.otf</fontPath>
                 <fontSize>.02</fontSize>
                 <horizontalAlignment>right</horizontalAlignment>
                 <text>Release Date:</text>
@@ -219,7 +219,7 @@
                 <pos>.78 .935</pos>
                 <origin>0 .5</origin>
                 <size>.1 .018</size>
-                <fontPath>${rootpath}/core/fonts/Exo2-BoldCondensed.otf</fontPath>
+                <fontPath>${rootpath}/_inc/fonts/Exo2-BoldCondensed.otf</fontPath>
                 <fontSize>.02</fontSize>
                 <horizontalAlignment>right</horizontalAlignment>
                 <text>Play Count:</text>
@@ -243,7 +243,7 @@
                 <pos>.78 .97</pos>
                 <origin>0 .5</origin>
                 <size>.1 .018</size>
-                <fontPath>${rootpath}/core/fonts/Exo2-BoldCondensed.otf</fontPath>
+                <fontPath>${rootpath}/_inc/fonts/Exo2-BoldCondensed.otf</fontPath>
                 <fontSize>.02</fontSize>
                 <horizontalAlignment>right</horizontalAlignment>
                 <text>Last Played:</text>
@@ -269,7 +269,7 @@
                 <origin>1 .5</origin>
                 <size>w 0.02</size>
                 <fontSize>0.025</fontSize>
-                <fontPath>${rootpath}/core/fonts/Exo2-RegularCondensed.otf</fontPath>
+                <fontPath>${rootpath}/_inc/fonts/Exo2-RegularCondensed.otf</fontPath>
                 <horizontalAlignment>right</horizontalAlignment>
                 <verticalAlignment>bottom</verticalAlignment>
                 <color>BBBBBB</color>
