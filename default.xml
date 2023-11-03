@@ -60,10 +60,21 @@
                 <size>.44 0</size>
                 <metadata>name</metadata>
                 <container>true</container>
+                <containerType>horizontal</containerType>
                 <containerStartDelay>1</containerStartDelay>
                 <containerResetDelay>2</containerResetDelay>
                 <fontPath>${rootpath}/_inc/fonts/Exo2-BoldCondensed.otf</fontPath>
                 <color>BBBBBB</color>
+                <zIndex>65</zIndex>
+            </text>
+            <text name="descriptiontext">
+                <pos>0.01 .8879</pos>
+                <size>.44 .1222</size>
+                <metadata>description</metadata>
+                <container>true</container>
+                <fontSize>.019</fontSize>
+                <color>BBBBBB</color>
+                <lineSpacing>1.1</lineSpacing>
                 <zIndex>65</zIndex>
             </text>
             <badges name="badges">
@@ -82,16 +93,7 @@
                 <itemMargin>-1.0 0.005</itemMargin>
                 <zIndex>65</zIndex>
             </badges>
-            <text name="descriptiontext">
-                <pos>0.01 .8879</pos>
-                <size>.47 .1222</size>
-                <metadata>description</metadata>
-                <container>true</container>
-                <fontSize>.019</fontSize>
-                <color>BBBBBB</color>
-                <lineSpacing>1.1</lineSpacing>
-                <zIndex>65</zIndex>
-            </text>
+
 
             <rating name="ratinggraphic">
                 <pos>.6765 .865</pos>
