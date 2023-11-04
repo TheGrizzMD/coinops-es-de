@@ -16,12 +16,12 @@ Each file provides the following metadata variables:
 
 ## **Usage**
 1. Download the latest release of this repo and place it in a dedicated folder in your theme.  
-   - I recommend a dedicated folder like this: `/_inc/systems/system-metadata/` 
+   - I recommend a dedicated folder like this: `/_inc/systems/metadata-global/` 
    - This approach will make it easier to update when changes are made.
 2. Include a reference to files at the top of your root theme.xml file
    - As an example; I add the following includes in my themes:
-   - `<include>./_inc/systems/system-metadata/_default.xml</include>` - default file for fallback use cases
-   - `<include>./_inc/systems/system-metadata/${system.theme}.xml</include>` - the system specific xml file
+   - `<include>./_inc/systems/metadata-global/_default.xml</include>` - default file for fallback use cases
+   - `<include>./_inc/systems/metadata-global/${system.theme}.xml</include>` - the system specific xml file
 3. Reference a value using the variable names listed above
    - For example if you wanted to add system specific colors to a UI element you would refernece `${systemColor}` for that value
    

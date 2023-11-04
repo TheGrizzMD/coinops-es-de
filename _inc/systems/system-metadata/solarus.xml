@@ -10,9 +10,9 @@ As a quest maker, you are not much interested in implementing these algorithms. 
 
 Both parts (the C++ engine and the Lua scripts of your quest) communicate through the Solarus Lua API. The communication works in both ways: you can call functions of the engine (example: you want to move a non-playing character) and the engine calls your own functions (example: be informed that an enemy was just killed). But before using this Solarus API, you have to learn the basics of Lua (easy and minimal, yet powerful language).</systemDescription>
       <systemManufacturer>Christopho</systemManufacturer>
-      <systemReleaseYear>2021</systemReleaseYear>
-      <systemReleaseDate>2021-04-06</systemReleaseDate>
-      <systemReleaseDateFormated>April 6, 2021</systemReleaseDateFormated>
+      <systemReleaseYear>2002</systemReleaseYear>
+      <systemReleaseDate>2002</systemReleaseDate>
+      <systemReleaseDateFormated>2002</systemReleaseDateFormated>
       <systemHardwareType>Engine</systemHardwareType>
       <systemColor>271658</systemColor>
       <systemColorPalette1>37336C</systemColorPalette1>
