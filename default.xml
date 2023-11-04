@@ -14,7 +14,7 @@
             </carousel>
             <text name="system-description">
                 <text>${systemDescription}</text>
-                <pos>0.1 0.72</pos>
+                <pos>0.055 0.72</pos>
                 <size>0.5 0.18</size>
                 <fontSize>0.024</fontSize>
                 <lineSpacing>1.1</lineSpacing>
