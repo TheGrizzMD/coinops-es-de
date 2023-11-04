@@ -10,11 +10,11 @@
                 <path>${rootpath}/_inc/images/paneloverlay.png</path>
             </image>
             <carousel name="systemCarousel">
-                <pos>0 0.45</pos>
+                <pos>0 0.4</pos>
             </carousel>
             <text name="system-description">
                 <text>${systemDescription}</text>
-                <pos>0.1 0.77</pos>
+                <pos>0.1 0.72</pos>
                 <size>0.5 0.18</size>
                 <fontSize>0.024</fontSize>
                 <lineSpacing>1.1</lineSpacing>
@@ -22,9 +22,18 @@
                 <verticalAlignment>top</verticalAlignment>
                 <container>true</container>
              </text>
+             <image name="system-controllers-outline">
+                <pos>.975 .8</pos>
+                <origin>1 .5</origin>
+                <maxSize>.3 .25</maxSize>
+                <path>${rootpath}/_inc/systems/system-controllers-outline/${system.theme}.svg</path>
+                <opacity>.25</opacity>
+                <zIndex>11</zIndex>
+             </image>
              <text name="gameCount">
-                <pos>0.75 0.85</pos>
-                <size>0.2 0.2</size>
+                <pos>0.975 0.975</pos>
+                <origin>1 1</origin>
+                <size>0.2 0.05</size>
                 <systemdata>gamecount</systemdata>
                 <fontSize>0.024</fontSize>
                 <lineSpacing>1.1</lineSpacing>
@@ -78,14 +87,15 @@
                 <zIndex>65</zIndex>
             </text>
             <badges name="badges">
-                <pos>0.4855 .871</pos>
-                <origin>1 .5</origin>
-                <size>.04 .067</size>
+                <pos>0.4855 .84</pos>
+                <origin>1 0</origin>
+                <size>.04 .15</size>
                 <horizontalAlignment>center</horizontalAlignment>
                 <direction>column</direction>
                 <lines>1</lines>
-                <slots>favorite, completed</slots>
+                <slots>folder, favorite, completed</slots>
                 <badgeIconColor>BBBBBB</badgeIconColor>
+                <customBadgeIcon badge="folder">${rootpath}/_inc/images/badge-folder.svg</customBadgeIcon>
                 <customBadgeIcon badge="favorite">${rootpath}/_inc/images/badge-favorite.svg</customBadgeIcon>
                 <customBadgeIcon badge="completed">${rootpath}/_inc/images/badge-completed.svg</customBadgeIcon>
                 <controllerPos>0.5 0.572</controllerPos>
