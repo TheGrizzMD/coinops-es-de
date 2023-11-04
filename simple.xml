@@ -6,8 +6,8 @@
 
 <include>./navigationsounds.xml</include>
 
-    <include>${rootpath}/_inc/systems/metadata-global/_default.xml</include>
-    <include>${rootpath}/_inc/systems/metadata-global/${system.theme}.xml</include>
+    <include>${rootpath}/_inc/systems/system-metadata/_default.xml</include>
+    <include>${rootpath}/_inc/systems/system-metadata/${system.theme}.xml</include>
 
     <variables>
 	    <rootpath>./</rootpath>

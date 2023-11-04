@@ -57,7 +57,7 @@
             </image>
             <text name="nametext">
                 <pos>0.01 .825</pos>
-                <size>.44 0</size>
+                <size>.43 0</size>
                 <metadata>name</metadata>
                 <container>true</container>
                 <containerType>horizontal</containerType>
@@ -69,7 +69,7 @@
             </text>
             <text name="descriptiontext">
                 <pos>0.01 .8879</pos>
-                <size>.44 .1222</size>
+                <size>.43 .1222</size>
                 <metadata>description</metadata>
                 <container>true</container>
                 <fontSize>.019</fontSize>
@@ -78,14 +78,17 @@
                 <zIndex>65</zIndex>
             </text>
             <badges name="badges">
-                <pos>0.502 .871</pos>
+                <pos>0.4855 .871</pos>
                 <origin>1 .5</origin>
-                <size>.067 .067</size>
-                <horizontalAlignment>right</horizontalAlignment>
-                <direction>row</direction>
+                <size>.04 .067</size>
+                <horizontalAlignment>center</horizontalAlignment>
+                <direction>column</direction>
                 <lines>1</lines>
-                <slots>favorite</slots>
-                <customBadgeIcon badge="favorite">${rootpath}/_inc/images/yes.png</customBadgeIcon>
+                <slots>favorite, completed</slots>
+                <badgeIconColor>BBBBBB</badgeIconColor>
+                <!-- <customBadgeIcon badge="favorite">${rootpath}/_inc/images/yes.png</customBadgeIcon> -->
+                <customBadgeIcon badge="favorite">${rootpath}/_inc/images/badge-favorite.svg</customBadgeIcon>
+                <customBadgeIcon badge="completed">${rootpath}/_inc/images/badge-completed.svg</customBadgeIcon>
                 <controllerPos>0.5 0.572</controllerPos>
                 <controllerSize>0.81</controllerSize>
                 <folderLinkPos>0.54 0.64</folderLinkPos>
