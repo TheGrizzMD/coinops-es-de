@@ -60,7 +60,7 @@
                 <size>.43 0</size>
                 <metadata>name</metadata>
                 <container>true</container>
-                <containerType>horizontal</containerType>
+                <!--<containerType>horizontal</containerType>-->
                 <containerStartDelay>1</containerStartDelay>
                 <containerResetDelay>2</containerResetDelay>
                 <fontPath>${rootpath}/_inc/fonts/Exo2-BoldCondensed.otf</fontPath>
@@ -86,7 +86,6 @@
                 <lines>1</lines>
                 <slots>favorite, completed</slots>
                 <badgeIconColor>BBBBBB</badgeIconColor>
-                <!-- <customBadgeIcon badge="favorite">${rootpath}/_inc/images/yes.png</customBadgeIcon> -->
                 <customBadgeIcon badge="favorite">${rootpath}/_inc/images/badge-favorite.svg</customBadgeIcon>
                 <customBadgeIcon badge="completed">${rootpath}/_inc/images/badge-completed.svg</customBadgeIcon>
                 <controllerPos>0.5 0.572</controllerPos>
