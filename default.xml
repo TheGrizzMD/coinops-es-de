@@ -90,19 +90,23 @@
                 <pos>0.4855 .84</pos>
                 <origin>1 0</origin>
                 <size>.04 .15</size>
-                <horizontalAlignment>center</horizontalAlignment>
+                <horizontalAlignment>left</horizontalAlignment>
                 <direction>column</direction>
-                <lines>1</lines>
-                <slots>folder, favorite, completed</slots>
+                <lines>2</lines>
+                <itemsPerLine>4</itemsPerLine>
+                <slots>collection, folder, favorite, completed, kidgame, broken, altemulator, manual</slots>
                 <badgeIconColor>BBBBBB</badgeIconColor>
+                <customBadgeIcon badge="collection">${rootpath}/_inc/images/badge-collection.svg</customBadgeIcon>
                 <customBadgeIcon badge="folder">${rootpath}/_inc/images/badge-folder.svg</customBadgeIcon>
                 <customBadgeIcon badge="favorite">${rootpath}/_inc/images/badge-favorite.svg</customBadgeIcon>
                 <customBadgeIcon badge="completed">${rootpath}/_inc/images/badge-completed.svg</customBadgeIcon>
-                <controllerPos>0.5 0.572</controllerPos>
-                <controllerSize>0.81</controllerSize>
-                <folderLinkPos>0.54 0.64</folderLinkPos>
-                <folderLinkSize>0.31</folderLinkSize>
-                <itemMargin>-1.0 0.005</itemMargin>
+                <customBadgeIcon badge="kidgame">${rootpath}/_inc/images/badge-kidgame.svg</customBadgeIcon>
+                <customBadgeIcon badge="broken">${rootpath}/_inc/images/badge-broken.svg</customBadgeIcon>
+                <customBadgeIcon badge="controller">${rootpath}/_inc/images/badge-controller.svg</customBadgeIcon>
+                <customBadgeIcon badge="altemulator">${rootpath}/_inc/images/badge-altemulator.svg</customBadgeIcon>
+                <customBadgeIcon badge="manual">${rootpath}/_inc/images/badge-manual.svg</customBadgeIcon>
+                <controllerIconColor>BBBBBB</controllerIconColor>
+                <controllerSize>1</controllerSize>
                 <zIndex>65</zIndex>
             </badges>
 
