@@ -42,6 +42,10 @@ This theme is a mashup of a CoinOPS theme by BritneysPAIRS (BP) and gjsmsmith, a
    * Fan Art Images
 * Other media is optional and will be used in cases where one of the above is missing (for example Screenshot images will be used if Videos are missing)
 
+### Per game cabinet art:
+* This theme supports using a unique cabinet or TV images for each game
+* I have made a set of these images available via a theme addon here: https://github.com/TheGrizzMD/coinops-es-de-addons
+
 ## **Acknowledgments**
 
 - Cabinet Wheel theme from the CoinOPS project by BritneysPAIRS (BP).
