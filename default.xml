@@ -69,7 +69,7 @@
                 <size>.43 0</size>
                 <metadata>name</metadata>
                 <container>true</container>
-                <!--<containerType>horizontal</containerType>-->
+                <containerType>horizontal</containerType>
                 <containerStartDelay>1</containerStartDelay>
                 <containerResetDelay>2</containerResetDelay>
                 <fontPath>${rootpath}/_inc/fonts/Exo2-BoldCondensed.otf</fontPath>
