@@ -1,0 +1,16 @@
+<theme>
+    <view name="gamelist">
+        <image name="autocollectionslabel">
+            <pos>0 0</pos>
+            <size>.75 .75</size>
+            <path>${rootpath1}/_inc/images/autocollectionslabel.png</path>
+            <zIndex>55</zIndex>
+        </image>
+        <image name="systemlogo">
+            <pos>.101 .064</pos>
+            <origin>0.5 0.5</origin>
+            <maxSize>.2 .12</maxSize>
+            <zIndex>56</zIndex>
+         </image>
+    </view>
+</theme>

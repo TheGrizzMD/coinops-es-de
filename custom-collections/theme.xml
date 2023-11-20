@@ -1,0 +1,32 @@
+<!--
+    CoinOPS (CoinOPS-es-de) Theme
+    License: Creative Commons CC-BY-NC-SA
+-->
+
+<theme>
+
+    <variables>
+	    <rootpath1>./../</rootpath1>
+    </variables>
+
+    <variant name="Simple">
+        <include>${rootpath1}/simple.xml</include>
+        <include>./custom.xml</include>
+    </variant>
+
+    <variant name="Default">
+        <include>${rootpath1}/default.xml</include>
+        <include>./custom.xml</include>
+    </variant>
+
+    <variant name="NoHue">
+        <include>${rootpath1}/nohue.xml</include>
+        <include>./custom.xml</include>
+    </variant>
+
+    <variant name="SimpleWithCover">
+        <include>${rootpath1}/simplewithcover.xml</include>
+        <include>./custom.xml</include>
+    </variant>
+    
+</theme>
