@@ -1,0 +1,25 @@
+<!--
+    Variant - Default w/ Boxart and Media
+-->
+
+<theme>
+    <include>./default.xml</include>
+    <view name="gamelist">
+        <image name="cover">
+            <pos>.56 .99</pos>
+            <origin>.5 1</origin>
+            <maxSize>.18 .30</maxSize>
+            <imageType>3dbox</imageType>
+            <zIndex>65</zIndex>
+        </image>
+    </view>
+    <view name="gamelist">
+        <image name="physical">
+            <pos>.63 .99</pos>
+            <origin>.5 1</origin>
+            <maxSize>.08 .15</maxSize>
+            <imageType>physicalmedia</imageType>
+            <zIndex>65</zIndex>
+        </image>
+    </view>
+</theme>

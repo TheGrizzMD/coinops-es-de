@@ -29,4 +29,13 @@
         <include>./custom.xml</include>
     </variant>
     
+    <variant name="ArtfulNew">
+        <include>${rootpath1}/artfulnew.xml</include>
+        <include>./custom.xml</include>
+    </variant>
+
+    <variant name="DefaultWBoxartMedia">
+        <include>${rootpath1}/defaultwithboxartmedia.xml</include>
+        <include>./custom.xml</include>
+    </variant>
 </theme>

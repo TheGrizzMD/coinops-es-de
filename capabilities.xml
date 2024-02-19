@@ -47,4 +47,16 @@
         <selectable>true</selectable>
 		<transitions>fadeAndSlide</transitions>
     </variant>
+
+    <variant name="ArtfulNew">
+        <label>Artful New</label>
+        <selectable>true</selectable>
+        <transitions>fadeAndSlide</transitions>
+    </variant>
+
+    <variant name="DefaultWBoxartMedia">
+        <label>Default with BoxArt and Media</label>
+        <selectable>true</selectable>
+        <transitions>fadeAndSlide</transitions>
+    </variant>
 </themeCapabilities>
