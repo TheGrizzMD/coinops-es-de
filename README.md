@@ -17,7 +17,11 @@ This theme is a mashup of a CoinOPS theme by BritneysPAIRS (BP) and gjsmsmith, a
    - `Simple` - A minimalistic view with no metadata in the system or gamelist views
    - `Simple With Cover Art` - A minimalistic view with no metadata in the system or gamelist views (with cover art)
 - `Theme Aspect Ratio` - sets the aspect ratio the theme will render at. If needed, this can be changed to match the aspect ratio of your screen (though it should happen automatically).
-   - 16:9 and 16:10 are supported
+   - Supported Aspect Ratios:
+      - 16:9
+      - 16:10
+      - 4:3
+      - 19.5:9
 
 ### Preview of the Theme Variants (16:9)
 
