@@ -15,4 +15,13 @@
             </video>
         </view>
     </aspectRatio>
+
+    <aspectRatio name="19.5:9">
+        <view name="gamelist">
+            <video name="gamevideo">
+                <pos>.241 .543</pos>
+                <maxSize>.375 0.44</maxSize>
+            </video>
+        </view>
+    </aspectRatio>
 </theme>

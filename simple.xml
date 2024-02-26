@@ -62,6 +62,22 @@
         </view>
 	</aspectRatio>
 
+    <aspectRatio name="19.5:9">
+        <view name="system">
+            <image name="backgroundpromo">
+                <pos>1 0</pos>
+                <size>0 1</size>
+                <origin>1 0</origin>
+            </image>
+            <image name="wideoverlayleft">
+                <pos>0 0</pos>
+                <size>0 1</size>
+                <path>${rootpath}/_inc/images/wideoverlayleft.png</path>
+                <zIndex>11</zIndex>
+            </image>
+        </view>
+	</aspectRatio>
+
     <view name="gamelist">
 	    <image name="gamelistbackgroundoverlay">
             <pos>0 0</pos>
@@ -208,6 +224,38 @@
                 <origin>.878 .5</origin>
                 <maxSize>1.5 1</maxSize>
             </image>
+        </view>
+    </aspectRatio>
+
+    <aspectRatio name="19.5:9">
+        <view name="gamelist">
+            <image name="cabinetimage">
+                <pos>0 0</pos>
+                <size>0 1</size>
+            </image>
+            <image name ="videohide">
+                <pos>0 0</pos>
+                <size>0 1</size>
+            </image>
+            <video name="gamevideo">
+                <pos>0.2365 0.54</pos>
+                <maxSize>0.303 0.55</maxSize>
+                <pillarboxThreshold>0.85 0.90</pillarboxThreshold>
+            </video>
+		    <image name="coverfanart">
+                <pos>1 .5</pos>
+                <origin>1 .5</origin>
+                <size>0 1</size>
+            </image>
+            <image name="coverfanartfallback">
+                <pos>1 .5</pos>
+                <origin>1 .5</origin>
+                <size>0 1</size>
+            </image>
+            <image name="systemlogo">
+                <pos>.2375 .122</pos>
+                <maxSize>.235 .15</maxSize>
+             </image>
         </view>
     </aspectRatio>
 

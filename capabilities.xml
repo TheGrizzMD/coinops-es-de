@@ -7,6 +7,7 @@
 
     <aspectRatio>16:9</aspectRatio>
     <aspectRatio>16:10</aspectRatio>
+    <aspectRatio>19.5:9</aspectRatio>
 
     <transitions name="fadeAndSlide">
         <label>Default</label>

@@ -3,7 +3,6 @@
         <video name="gamevideo">
             <pos>0.2845 .536</pos>
             <maxSize>.357 0.356</maxSize>
-            <zIndex>70</zIndex>
         </video>
     </view>
     <aspectRatio name="16:10">
@@ -11,7 +10,15 @@
             <video name="gamevideo">
                 <pos>0.275 .536</pos>
                 <maxSize>.4 0.36</maxSize>
-                <zIndex>70</zIndex>
+            </video>
+        </view>
+    </aspectRatio>
+
+    <aspectRatio name="19.5:9">
+        <view name="gamelist">
+            <video name="gamevideo">
+                <pos>.2327 .536</pos>
+                <maxSize>.375 0.348</maxSize>
             </video>
         </view>
     </aspectRatio>
