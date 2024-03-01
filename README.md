@@ -20,7 +20,6 @@ This theme is a mashup of a CoinOPS theme by BritneysPAIRS (BP) and gjsmsmith, a
    - Supported Aspect Ratios:
       - 16:9
       - 16:10
-      - 4:3
       - 19.5:9
 
 ### Preview of the Theme Variants (16:9)
