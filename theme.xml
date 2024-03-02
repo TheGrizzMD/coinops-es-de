@@ -19,4 +19,13 @@
     <variant name="SimpleWithCover">
         <include>./simplewithcover.xml</include>
     </variant>
+
+    <variant name="ArtfulNew">
+        <include>./artfulnew.xml</include>
+    </variant>
+
+    <variant name="DefaultWBoxartMedia">
+        <include>./defaultwithboxartmedia.xml</include>
+    </variant>
+
 </theme>
