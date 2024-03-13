@@ -77,6 +77,15 @@
             </image>
         </view>
 	</aspectRatio>
+    
+    <aspectRatio name="4:3">
+        <view name="system">
+            <image name="backgroundpromo">
+                <pos>-.03 0</pos>
+                <size>0 1</size>
+            </image>
+        </view>
+	</aspectRatio>
 
     <view name="gamelist">
 	    <image name="gamelistbackgroundoverlay">
@@ -125,14 +134,14 @@
             <size>1.45 1</size>
             <type>verticalWheel</type>
             <imageType>marquee</imageType>
-			<itemsBeforeCenter>5</itemsBeforeCenter>
-            <itemsAfterCenter>5</itemsAfterCenter>
+			<itemsBeforeCenter>6</itemsBeforeCenter>
+            <itemsAfterCenter>6</itemsAfterCenter>
+            <selectedItemMargins>0 0</selectedItemMargins>
             <itemSize>0.15 0.125</itemSize>
             <itemScale>1.5</itemScale>
 			<itemRotation>-7</itemRotation>
             <imageInterpolation>linear</imageInterpolation>
             <itemRotationOrigin>4.03 0.5</itemRotationOrigin>
-            <itemAxisHorizontal>true</itemAxisHorizontal>
             <itemHorizontalAlignment>center</itemHorizontalAlignment>
             <itemVerticalAlignment>center</itemVerticalAlignment>
             <wheelHorizontalAlignment>left</wheelHorizontalAlignment>
@@ -259,6 +268,41 @@
         </view>
     </aspectRatio>
 
+    <aspectRatio name="4:3">
+        <view name="gamelist">
+            <image name="cabinetimage">
+                <pos>-.07 0</pos>
+                <size>0 1</size>
+            </image>
+            <image name ="videohide">
+                <pos>-.07 0</pos>
+                <size>0 1</size>
+            </image>
+            <video name="gamevideo">
+                <pos>0.3125 0.539</pos>
+                <maxSize>0.49 0.580</maxSize>
+                <pillarboxThreshold>0.85 0.90</pillarboxThreshold>
+            </video>
+            <carousel name="gamelistCarousel">
+                <itemScale>1.5</itemScale>
+                <horizontalOffset>0.49</horizontalOffset>
+            </carousel>
+		    <image name="coverfanart">
+                <pos>1 .5</pos>
+                <origin>.878 .5</origin>
+                <maxSize>1.5 1</maxSize>
+            </image>
+            <image name="coverfanartfallback">
+                <pos>1 .5</pos>
+                <origin>.878 .5</origin>
+                <maxSize>1.5 1</maxSize>
+            </image>
+            <image name="systemlogo">
+                <pos>.3125 .122</pos>
+                <maxSize>.265 .15</maxSize>
+             </image>
+        </view>
+    </aspectRatio>
     
 	<view name="system, gamelist">
         <helpsystem name="help">

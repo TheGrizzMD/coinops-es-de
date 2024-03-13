@@ -314,4 +314,21 @@
             </view>
         </aspectRatio>
 
+        <aspectRatio name="4:3">
+            <view name="gamelist">
+                <image name="fanarthue">
+                    <pos>1 .5</pos>
+                    <origin>.878 .5</origin>
+                    <maxSize>1.5 1</maxSize>
+                </image>
+                <rating name="ratinggraphic">
+                    <pos>.678 .865</pos>
+                    <size>0 0.035</size>
+                </rating>
+                <text name="players, developer, publisher">
+                    <size>.09 .018</size>
+                </text>
+            </view>
+        </aspectRatio>
+
     </theme>
