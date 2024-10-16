@@ -10,9 +10,13 @@ Each file provides the following metadata variables:
 - `systemReleaseYear` - The year the system was released (when available)
 - `systemReleaseDate` - The date the system was released in ISO 8601 (`YYYY-MM-DD`) format.  If only the month and year was known then the format is `YYYY-MM`.  If only the year was known then the format is `YYYY`.
 - `systemReleaseDateFormated` - A formated version of the release date in `Month Day, Year` format.  If only the month and year was known then the format is `Month Year`.  If only the year was known then the format is `Year`.
+- `systemManufacturer` - Represents the original Manufacturer of the system.
 - `systemHardwareType` - A value to represent the systems type (e.g. `Console`. `Portable`, `Computer`, etc...)
 - `systemColor` - A hex value to represent a systems primary color (can be used for things like backgrounds or navigation highlights)
 - `systemColorPalette1...4` - 4 different hex values to represent other colors that can be used for a system (useful for things like color bands)
+- `systemCoverSize` - Represents the common aspect ratio for a given system's cover artwork.  Can be used to customize the size of grids and carousels that display cover art.  
+   - Current set of sizes: `landscape`, `square`, `portrait`, `1-2`, `3-5`, `5-7`.
+   - Using these values you can define width/height for just this set and those sizes will apply automatically to a given system.
 
 ## **Usage**
 1. Download the latest release of this repo and place it in a dedicated folder in your theme.  
@@ -30,20 +34,54 @@ Each file provides the following metadata variables:
 - If you have an idea for a new variable to add; please submitt an issue to this repo with details of the variable and what it could be used for.
 
 ## **Examples**
-Here are some examples of this repo being used in ES-DE themes:
+
+| [CarAlt)](https://github.com/Weestuarty/caralt-es-de) | [Chicuelo (Revisited](https://github.com/anthonycaccese/chicuelo-revisited-es-de) |
+| :---: | :---: |
+| ![CarAlt](https://github.com/anthonycaccese/nso-menu-interpreted-es-de/assets/1454947/eebb8d45-b881-482f-bac0-31888ab12fcd) | ![chicuelo](https://github.com/anthonycaccese/nso-menu-interpreted-es-de/assets/1454947/74411202-1985-40ee-8cf6-8e9e1d4b9cc1) |
+| Implements: `systemDescription` | Implements: `systemDescription`, `systemReleaseYear` and `systemHardwareType` | 
+
+| [CodyWheel](https://github.com/Weestuarty/codywheel-es-de) | [CoinOPS](https://github.com/TheGrizzMD/coinops-es-de) |
+| :---: | :---: |
+| ![codywheel](https://github.com/anthonycaccese/nso-menu-interpreted-es-de/assets/1454947/6ea5c477-371e-4bb9-b090-a200a8588282) | ![coinops](https://github.com/anthonycaccese/nso-menu-interpreted-es-de/assets/1454947/50f75c6e-04e3-41a6-af74-358bb45403f8) |
+| Implements: `systemDescription`, `systemReleaseYear`, `systemManufacturer` and `systemHardwareType` | Implements: `systemDescription` | 
+
 | [Colorful (Revisited)](https://github.com/anthonycaccese/colorful-revisited-es-de) | [Colorful (Simplified)](https://github.com/anthonycaccese/colorful-simplified-es-de) |
 | :---: | :---: |
-| <img src="https://user-images.githubusercontent.com/1454947/224544826-8067eb32-b4d2-41ee-8cce-19c4794ab05f.png"> | <img src="https://user-images.githubusercontent.com/1454947/224544816-be13c05e-b322-4d6c-8289-efc20d7f97bd.png"> |
-| [Chicuelo (Revisited](https://github.com/anthonycaccese/chicuelo-revisited-es-de) | [Epic Noir (Revisited)](https://github.com/anthonycaccese/epic-noir-revisited-es-de) |
-| <img src="https://user-images.githubusercontent.com/1454947/224714965-ad168dc9-f921-493f-a620-cefbf318cc61.png"> | <img src="https://user-images.githubusercontent.com/1454947/224715009-6d5c60bd-df04-40e0-88a2-32f5a45b8e8a.png"> |
-| [Retrofix (Revisited)](https://github.com/anthonycaccese/retrofix-revisited-es-de) |
-| <img src="https://user-images.githubusercontent.com/1454947/224544794-ced156ff-dd35-47ea-b6c9-fb6f83db95c0.png"> |
+| ![colorful-revisited](https://github.com/anthonycaccese/nso-menu-interpreted-es-de/assets/1454947/9b79ccc8-e0d7-43ae-b865-40f7bf740267) | ![colorful-simplified](https://github.com/anthonycaccese/nso-menu-interpreted-es-de/assets/1454947/35fcfbf4-eb08-4682-ae09-4fa3b5b8060b) |
+| Implements: `systemColor`, `systemDescription`, `systemManufacturer`, `systemReleaseYear`, and `systemHardwareType` | Implements: `systemColor`, `systemDescription`, `systemManufacturer`, `systemReleaseYear`, `systemCoverSize`, and `systemHardwareType` | 
+
+| [Diamond](https://github.com/Weestuarty/diamond-es-de) | [Epic Noir (Next)](https://github.com/anthonycaccese/epic-noir-next-es-de) |
+| :---: | :---: |
+| ![diamond](https://github.com/anthonycaccese/nso-menu-interpreted-es-de/assets/1454947/378c8a8a-2e9f-4cbc-aab6-6f269218699f) | ![epic-noir-next](https://github.com/anthonycaccese/nso-menu-interpreted-es-de/assets/1454947/bc45b7fa-874f-4107-852f-9c1c3a0dfcc3) |
+| Implements: `systemManufacturer` and `systemReleaseYear` | Implements: `systemColor`, `systemDescription`, `systemReleaseYear`, and `systemHardwareType` | 
+
+| [Epic Noir (Revisited)](https://github.com/anthonycaccese/epic-noir-revisited-es-de) | [ForAll](https://github.com/Weestuarty/forall-es-de) |
+| :---: | :---: |
+| ![epic-noir-revisited](https://github.com/anthonycaccese/nso-menu-interpreted-es-de/assets/1454947/98c74c60-42a7-4b3e-b129-ed4156dbc070) | ![forall](https://github.com/anthonycaccese/nso-menu-interpreted-es-de/assets/1454947/01b12f6f-f18d-4b9f-9a2d-842b10e3b3d0) |
+| Implements: `systemDescription`, `systemReleaseYear`, and `systemHardwareType` | Implements: `systemDescription` | 
+
+| [NSO Menu (Interpreted)](https://github.com/anthonycaccese/nso-menu-interpreted-es-de) | [Retrofix (Revisited)](https://github.com/anthonycaccese/retrofix-revisited-es-de) |
+| :---: | :---: |
+| ![nso-menu](https://github.com/anthonycaccese/nso-menu-interpreted-es-de/assets/1454947/f483899f-56f0-4230-8bca-afed9aab63d4) | ![retrofix](https://github.com/anthonycaccese/nso-menu-interpreted-es-de/assets/1454947/cda97089-7611-47be-8a19-bff469c69e42) |
+| Implements: `systemColor` and `systemCoverSize` | Implements: `systemColor` | 
+
+| [Showcase](https://github.com/Weestuarty/showcase-es-de) | [SimCar](https://github.com/Weestuarty/simcar-es-de) |
+| :---: | :---: |
+| ![showcase](https://github.com/anthonycaccese/nso-menu-interpreted-es-de/assets/1454947/2b27affe-ed6c-437b-9569-cf4ded74061d) | ![simcar](https://github.com/anthonycaccese/nso-menu-interpreted-es-de/assets/1454947/dc1dae0e-a452-4c4a-83c5-05ce81a22ed6) |
+| Implements: `systemDescription` | Implements: `systemDescription` | 
+
+| [TexGriddy](https://github.com/Weestuarty/texgriddy-es-de) |
+| :---: |
+| ![textgriddy](https://github.com/anthonycaccese/nso-menu-interpreted-es-de/assets/1454947/ff0dc121-a943-4096-9d96-27ddaeea974f) |
+| Implements: `systemDescription` |
+
 
 ## **Credits**
 * Some descriptions, release dates & manufacturer details were sourced from the wikipedia entries for each system
 * Some descriptions were sourced from [ckau-book](https://github.com/CkauNui/ckau-book/tree/master)
 * Some release date and manufacturer details were sourced from the [Launchbox](https://gamesdb.launchbox-app.com/) platforms list
 * System colors were sourced from the great work done by [viking](https://forums.launchbox-app.com/profile/70421-viking/) from their work on the [Colorful](https://forums.launchbox-app.com/files/file/2081-colorful-bigbox-theme) theme for Launchbox and [@rogs123](https://github.com/rogs123) from their work on the [NSO Menu](https://github.com/anthonycaccese/nso-menu-interpreted-es-de) theme for ES-DE
+* System Cover sizes were sourced from examples on screenscraper.fr
 
 ## **License**
 Creative Commons CC-BY-NC-SA - https://creativecommons.org/licenses/by-nc-sa/2.0/
