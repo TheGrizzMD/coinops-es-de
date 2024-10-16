@@ -3,8 +3,6 @@
 -->
 
 <theme>
-    <include>./default.xml</include>
-
     <view name="system">
         <image name="systembackgroundoverlay">
             <path>${rootpath}/_inc/images/paneloverlaynohue.png</path>

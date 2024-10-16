@@ -11,21 +11,36 @@
 
     <variant name="Simple">
         <include>${rootpath1}/simple.xml</include>
+        <include>${rootpath1}/gamecarousel.xml</include>
         <include>./custom.xml</include>
     </variant>
 
     <variant name="Default">
+        <include>${rootpath1}/simple.xml</include>
+        <include>${rootpath1}/gamecarousel.xml</include>
         <include>${rootpath1}/default.xml</include>
         <include>./custom.xml</include>
     </variant>
 
     <variant name="NoHue">
+        <include>${rootpath1}/simple.xml</include>
+        <include>${rootpath1}/gamecarousel.xml</include>
+        <include>${rootpath1}/default.xml</include>
         <include>${rootpath1}/nohue.xml</include>
         <include>./custom.xml</include>
     </variant>
 
     <variant name="SimpleWithCover">
+        <include>${rootpath1}/simple.xml</include>
+        <include>${rootpath1}/gamecarousel.xml</include>
         <include>${rootpath1}/simplewithcover.xml</include>
+        <include>./custom.xml</include>
+    </variant>
+
+    <variant name="Default-Grid">
+        <include>${rootpath1}/simple.xml</include>
+        <include>${rootpath1}/default.xml</include>
+        <include>${rootpath1}/defaultgrid.xml</include>
         <include>./custom.xml</include>
     </variant>
     

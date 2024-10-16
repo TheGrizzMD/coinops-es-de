@@ -3,8 +3,6 @@
 -->
 
 <theme>
-    <include>./simple.xml</include>
-
         <view name="gamelist">
                 <image name="cover">
                 <pos>.58 .99</pos>

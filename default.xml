@@ -2,8 +2,7 @@
     Variant - Default
 -->
 
-<theme>
-    <include>./simple.xml</include>
+<theme>       
     
         <view name="system">
             <image name="systembackgroundoverlay">

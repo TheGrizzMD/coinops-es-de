@@ -1,5 +1,10 @@
 <!--
     Theme capabilities for coinops-es-de
+
+    16:9 resolution:        based on 1920x1080
+    16:10 resolution:       based on 1280x800
+    19.5:9 resolution:      based on 2340x1080
+    4:3 resolution:         based on 1440x1080
 -->
 
 <themeCapabilities>
@@ -48,5 +53,11 @@
         <label>Simple With Cover Art</label>
         <selectable>true</selectable>
 		<transitions>fadeAndSlide</transitions>
+    </variant>
+
+    <variant name="Default-Grid">
+        <label>Default: Grid</label>
+        <selectable>true</selectable>
+        <transitions>fadeAndSlide</transitions>
     </variant>
 </themeCapabilities>

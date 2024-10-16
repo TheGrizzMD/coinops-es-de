@@ -6,17 +6,31 @@
 <theme>
     <variant name="Simple">
         <include>./simple.xml</include>
+        <include>./gamecarousel.xml</include>
     </variant>
 
     <variant name="Default">
+        <include>./simple.xml</include>
+        <include>./gamecarousel.xml</include>
         <include>./default.xml</include>
     </variant>
 
     <variant name="NoHue">
+        <include>./simple.xml</include>
+        <include>./gamecarousel.xml</include>
+        <include>./default.xml</include>
         <include>./nohue.xml</include>
     </variant>
 
     <variant name="SimpleWithCover">
+        <include>./simple.xml</include>
+        <include>./gamecarousel.xml</include>
         <include>./simplewithcover.xml</include>
+    </variant>
+
+    <variant name="Default-Grid">
+        <include>./simple.xml</include>
+        <include>./default.xml</include>
+        <include>./defaultgrid.xml</include>
     </variant>
 </theme>

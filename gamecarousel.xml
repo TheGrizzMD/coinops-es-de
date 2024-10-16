@@ -1,0 +1,44 @@
+<!--
+    Game Carousel Element
+-->
+
+<theme>
+    <view name="gamelist">
+        <carousel name="gamelistCarousel">
+            <pos>0 0</pos>
+            <size>1.45 1</size>
+            <type>verticalWheel</type>
+            <imageType>marquee</imageType>
+			<itemsBeforeCenter>6</itemsBeforeCenter>
+            <itemsAfterCenter>6</itemsAfterCenter>
+            <selectedItemMargins>0 0</selectedItemMargins>
+            <itemSize>0.15 0.125</itemSize>
+            <itemScale>1.5</itemScale>
+			<itemRotation>-7</itemRotation>
+            <imageInterpolation>linear</imageInterpolation>
+            <itemRotationOrigin>4.03 0.5</itemRotationOrigin>
+            <itemHorizontalAlignment>center</itemHorizontalAlignment>
+            <itemVerticalAlignment>center</itemVerticalAlignment>
+            <wheelHorizontalAlignment>left</wheelHorizontalAlignment>
+            <horizontalOffset>0.50</horizontalOffset>
+            <fastScrolling>true</fastScrolling>
+            <color>00000000</color>
+            <textColor>BBBBBB</textColor>
+            <fontSize>0.046</fontSize>
+            <letterCase>uppercase</letterCase>
+            <lineSpacing>1.2</lineSpacing>
+			<unfocusedItemOpacity>1</unfocusedItemOpacity>
+            <zIndex>50</zIndex>
+        </carousel>
+    </view>
+    
+    <aspectRatio name="4:3">
+        <view name="gamelist">
+            <carousel name="gamelistCarousel">
+                <itemScale>1.5</itemScale>
+                <horizontalOffset>0.49</horizontalOffset>
+            </carousel>
+        </view>
+    </aspectRatio>
+
+</theme>
