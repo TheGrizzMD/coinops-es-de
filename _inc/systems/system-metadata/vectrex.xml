@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>Vectrex</systemName>
         <systemDescription>The Vectrex is a vector display-based home video game console–the only one ever designed and released for the home market, developed by Smith Engineering. It was first released for the North America market in November 1982 and then Europe and Japan in 1983. Originally manufactured by General Consumer Electronics, it was later licensed to Milton Bradley after they acquired the company. Bandai released the system in Japan.
@@ -10,13 +10,30 @@ The Vectrex, in contrast to other video-game systems available at the time, feat
         <systemReleaseDateFormated>November 1982</systemReleaseDateFormated>
         <systemHardwareType>Console</systemHardwareType>
         <systemCoverSize>3-4</systemCoverSize>
-        <systemColor>4D98D8</systemColor>
+        <systemCoverSizeType>portrait</systemCoverSizeType>
+        <systemColor>4794dc</systemColor>
         <systemColorPalette1>EEF020</systemColorPalette1>
         <systemColorPalette2>EC1D25</systemColorPalette2>
         <systemColorPalette3>11192E</systemColorPalette3>
         <systemColorPalette4>166FC1</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>جهاز Vectrex هو جهاز ألعاب فيديو منزلي قائم على شاشة عرض متجهة - الجهاز الوحيد الذي تم تصميمه وإصداره للسوق المنزلي، وقد طورته شركة Smith Engineering. تم إصداره لأول مرة لسوق أمريكا الشمالية في نوفمبر 1982 ثم أوروبا واليابان في عام 1983. تم تصنيعه في الأصل من قبل شركة جنرال للإلكترونيات الاستهلاكية العامة، ثم تم ترخيصه لاحقًا لشركة ميلتون برادلي بعد استحواذها على الشركة. أصدرت بانداي النظام في اليابان.
+
+تميز Vectrex، على عكس أنظمة ألعاب الفيديو الأخرى المتوفرة في ذلك الوقت، بشاشة CRT أحادية اللون مدمجة ولم يكن هناك حاجة إلى توصيله بجهاز تلفزيون حيث كان مزوداً بشاشة عرض مدمجة خاصة به. تم تركيب لوحة تحكم سلكية قابلة للفصل في القاعدة السفلية لوحدة التحكم، ويمكن طيها في القاعدة السفلية لوحدة التحكم. تضمنت الألعاب تراكبات صفائح ملونة شفافة يمكن وضعها فوق الشاشة أحادية اللون. تم إنتاج عدد من الأجهزة الطرفية، مثل زوج من النظارات ثلاثية الأبعاد المعروفة باسم "3D Imager" و"قلم ضوئي" يسمح للاعب بالرسم مباشرة على الشاشة. كانت هناك لعبة مدمجة، "ماين ستورم"، يمكن لعبها دون إدخال خرطوشة.</systemDescription>
+            <systemHardwareType>وحدة التحكم</systemHardwareType>
+        </variables>
+    </language>
+    <language name="bs_BA">
+        <variables>
+            <systemDescription>The Vectrex is a vector display-based home video game console–the only one ever designed and released for the home market, developed by Smith Engineering. It was first released for the North America market in November 1982 and then Europe and Japan in 1983. Originally manufactured by General Consumer Electronics, it was later licensed to Milton Bradley after they acquired the company. Bandai released the system in Japan.
+
+The Vectrex, in contrast to other video-game systems available at the time, featured an integrated monochrome CRT monitor and did not need to be hooked up to a television set as it provided its own built-in display. A detachable wired control pad was mounted at, and could be folded into, the lower base of the console. Games included translucent color sheet overlays that could be placed over the monochrome screen. A number of peripherals were produced, such as a pair of 3D goggles known as the "3D Imager" and a "light-pen" that allowed the player to draw directly on the screen. A built-in game, Mine Storm, was playable without inserting a cartridge.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
     <language name="ca_ES">
         <variables>
             <systemDescription>El Vectrex és una consola de videojocs de casa basada en visualització vectorial, la única que mai ha estat dissenyada i llançada per al mercat domèstic, desenvolupada per Smith Engineering. Va ser llançat per primera vegada al mercat d'Amèrica del Nord el novembre de 1982 i després a Europa i Japó el 1983. Originalment fabricat pel general Consumer Electronics, després va ser llicenciat a Milton Bradley després d'adquirir la companyia. Bandai va llançar el sistema al Japó.
@@ -49,12 +66,36 @@ Le Vectrex, contrairement aux autres systèmes de jeux vidéo disponibles à l'�
             <systemHardwareType>Console</systemHardwareType>
         </variables>
     </language>
+    <language name="hr_HR">
+        <variables>
+            <systemDescription>The Vectrex is a vector display-based home video game console–the only one ever designed and released for the home market, developed by Smith Engineering. It was first released for the North America market in November 1982 and then Europe and Japan in 1983. Originally manufactured by General Consumer Electronics, it was later licensed to Milton Bradley after they acquired the company. Bandai released the system in Japan.
+
+The Vectrex, in contrast to other video-game systems available at the time, featured an integrated monochrome CRT monitor and did not need to be hooked up to a television set as it provided its own built-in display. A detachable wired control pad was mounted at, and could be folded into, the lower base of the console. Games included translucent color sheet overlays that could be placed over the monochrome screen. A number of peripherals were produced, such as a pair of 3D goggles known as the "3D Imager" and a "light-pen" that allowed the player to draw directly on the screen. A built-in game, Mine Storm, was playable without inserting a cartridge.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
     <language name="it_IT">
         <variables>
             <systemDescription>Il Vectrex è una console per videogiochi domestica basata su display vettoriali, l'unica mai progettata e rilasciata per il mercato domestico, sviluppata da Smith Engineering. È stata commercializzata per la prima volta in Nord America nel novembre 1982 e poi in Europa e Giappone nel 1983. Originariamente prodotta da General Consumer Electronics, fu poi data in licenza a Milton Bradley dopo l'acquisizione della società. Bandai distribuì il sistema in Giappone.
 
 Il Vectrex, a differenza di altri sistemi di videogiochi disponibili all'epoca, era dotato di un monitor CRT monocromatico integrato e non aveva bisogno di essere collegato a un televisore, in quanto forniva il proprio display incorporato. Un pad di controllo a filo staccabile era montato e poteva essere ripiegato sulla base inferiore della console. I giochi includevano fogli traslucidi a colori che potevano essere posizionati sopra lo schermo monocromatico. Furono prodotte diverse periferiche, come un paio di occhiali 3D noti come "3D Imager" e una "light-pen" che permetteva al giocatore di disegnare direttamente sullo schermo. Un gioco integrato, Mine Storm, era giocabile senza inserire una cartuccia.</systemDescription>
             <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ja_JP">
+        <variables>
+            <systemDescription>ベクトレックスは、スミス・エンジニアリング社によって開発された、ベクターディスプレイベースの家庭用ゲーム機である。1982年11月に北米市場で発売され、1983年にはヨーロッパと日本でも発売された。当初はゼネラル・コンシューマー・エレクトロニクス社が製造していたが、後にミルトン・ブラッドリー社が同社を買収したため、同社がライセンスを取得した。日本ではバンダイが発売した。
+
+当時発売されていた他のビデオゲームシステムとは対照的に、ベクトレックスはモノクロCRTモニターを内蔵しており、テレビに接続する必要がなかった。取り外し可能な有線コントロールパッドは、ゲーム機の下部ベースに取り付けられており、折りたたむこともできた。ゲームには、モノクロ画面の上に置くことができる半透明のカラーシートオーバーレイが含まれていた。3Dイメージャー」と呼ばれる3Dゴーグルや、画面に直接絵を描くことができる「ライトペン」など、周辺機器も数多く製造された。内蔵ゲーム「マインストーム」はカートリッジを挿入しなくても遊べた。</systemDescription>
+            <systemHardwareType>コンソール</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ko_KR">
+        <variables>
+            <systemDescription>벡트렉스는 스미스 엔지니어링에서 개발한 벡터 디스플레이 기반의 가정용 비디오 게임 콘솔로, 가정용 시장을 위해 설계 및 출시된 유일한 제품입니다. 1982년 11월 북미 시장에 처음 출시된 후 1983년 유럽과 일본에 출시되었습니다. 원래 제너럴 컨슈머 일렉트로닉스에서 제조했지만, 나중에 밀턴 브래들리가 회사를 인수한 후 라이선스를 취득했습니다. 반다이는 일본에서 이 시스템을 출시했습니다.
+
+벡트렉스는 당시 출시된 다른 비디오 게임 시스템과 달리 흑백 CRT 모니터가 통합되어 있었고 자체 내장 디스플레이를 제공했기 때문에 텔레비전 세트에 연결할 필요가 없었습니다. 탈착식 유선 컨트롤 패드는 콘솔의 하단 베이스에 장착되어 접을 수 있었습니다. 게임에는 흑백 화면 위에 놓을 수 있는 반투명 컬러 시트 오버레이가 포함되었습니다. '3D 이미저'로 알려진 3D 고글과 플레이어가 화면에 직접 그림을 그릴 수 있는 '라이트 펜' 등 다양한 주변기기가 제작되었습니다. 내장 게임인 Mine Storm은 카트리지를 삽입하지 않고도 플레이할 수 있었습니다.</systemDescription>
+            <systemHardwareType>콘솔</systemHardwareType>
         </variables>
     </language>
     <language name="nl_NL">
@@ -81,6 +122,14 @@ O Vectrex, em contraste com outros sistemas de videogame disponíveis na época,
             <systemHardwareType>Console</systemHardwareType>
         </variables>
     </language>
+    <language name="pt_PT">
+        <variables>
+            <systemDescription>The Vectrex is a vector display-based home video game console–the only one ever designed and released for the home market, developed by Smith Engineering. It was first released for the North America market in November 1982 and then Europe and Japan in 1983. Originally manufactured by General Consumer Electronics, it was later licensed to Milton Bradley after they acquired the company. Bandai released the system in Japan.
+
+The Vectrex, in contrast to other video-game systems available at the time, featured an integrated monochrome CRT monitor and did not need to be hooked up to a television set as it provided its own built-in display. A detachable wired control pad was mounted at, and could be folded into, the lower base of the console. Games included translucent color sheet overlays that could be placed over the monochrome screen. A number of peripherals were produced, such as a pair of 3D goggles known as the "3D Imager" and a "light-pen" that allowed the player to draw directly on the screen. A built-in game, Mine Storm, was playable without inserting a cartridge.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
     <language name="ro_RO">
         <variables>
             <systemDescription>Vectrex este o consolă de jocuri video pentru acasă bazată pe afișaj vectorial - singura concepută și lansată vreodată pentru piața locală, dezvoltată de Smith Engineering. A fost lansată pentru prima dată pe piața din America de Nord în noiembrie 1982 și apoi în Europa și Japonia în 1983. Fabricat inițial de General Consumer Electronics, a fost ulterior licențiat de Milton Bradley după ce aceștia au achiziționat compania. Bandai a lansat sistemul în Japonia.
@@ -97,6 +146,14 @@ Vectrex, в отличие от других видеоигровых систе
             <systemHardwareType>Консоль</systemHardwareType>
         </variables>
     </language>
+    <language name="sr_RS">
+        <variables>
+            <systemDescription>The Vectrex is a vector display-based home video game console–the only one ever designed and released for the home market, developed by Smith Engineering. It was first released for the North America market in November 1982 and then Europe and Japan in 1983. Originally manufactured by General Consumer Electronics, it was later licensed to Milton Bradley after they acquired the company. Bandai released the system in Japan.
+
+The Vectrex, in contrast to other video-game systems available at the time, featured an integrated monochrome CRT monitor and did not need to be hooked up to a television set as it provided its own built-in display. A detachable wired control pad was mounted at, and could be folded into, the lower base of the console. Games included translucent color sheet overlays that could be placed over the monochrome screen. A number of peripherals were produced, such as a pair of 3D goggles known as the "3D Imager" and a "light-pen" that allowed the player to draw directly on the screen. A built-in game, Mine Storm, was playable without inserting a cartridge.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
     <language name="sv_SE">
         <variables>
             <systemDescription>Vectrex är en vektorbildskärmsbaserad hemkonsol för videospel - den enda som någonsin designats och släppts för hemmamarknaden, utvecklad av Smith Engineering. Den släpptes först för den nordamerikanska marknaden i november 1982 och sedan för Europa och Japan 1983. Den tillverkades ursprungligen av General Consumer Electronics, men licensierades senare till Milton Bradley efter att de förvärvat företaget. Bandai släppte systemet i Japan.
@@ -105,27 +162,19 @@ Vectrex hade, i motsats till andra videospel som fanns tillgängliga vid den tid
             <systemHardwareType>Konsol</systemHardwareType>
         </variables>
     </language>
-    <language name="ja_JP">
-        <variables>
-            <systemDescription>ベクトレックスは、スミス・エンジニアリング社によって開発された、ベクターディスプレイベースの家庭用ゲーム機である。1982年11月に北米市場で発売され、1983年にはヨーロッパと日本でも発売された。当初はゼネラル・コンシューマー・エレクトロニクス社が製造していたが、後にミルトン・ブラッドリー社が同社を買収したため、同社がライセンスを取得した。日本ではバンダイが発売した。
-
-当時発売されていた他のビデオゲームシステムとは対照的に、ベクトレックスはモノクロCRTモニターを内蔵しており、テレビに接続する必要がなかった。取り外し可能な有線コントロールパッドは、ゲーム機の下部ベースに取り付けられており、折りたたむこともできた。ゲームには、モノクロ画面の上に置くことができる半透明のカラーシートオーバーレイが含まれていた。3Dイメージャー」と呼ばれる3Dゴーグルや、画面に直接絵を描くことができる「ライトペン」など、周辺機器も数多く製造された。内蔵ゲーム「マインストーム」はカートリッジを挿入しなくても遊べた。</systemDescription>
-            <systemHardwareType>コンソール</systemHardwareType>
-        </variables>
-    </language>
-    <language name="ko_KR">
-        <variables>
-            <systemDescription>벡트렉스는 스미스 엔지니어링에서 개발한 벡터 디스플레이 기반의 가정용 비디오 게임 콘솔로, 가정용 시장을 위해 설계 및 출시된 유일한 제품입니다. 1982년 11월 북미 시장에 처음 출시된 후 1983년 유럽과 일본에 출시되었습니다. 원래 제너럴 컨슈머 일렉트로닉스에서 제조했지만, 나중에 밀턴 브래들리가 회사를 인수한 후 라이선스를 취득했습니다. 반다이는 일본에서 이 시스템을 출시했습니다.
-
-벡트렉스는 당시 출시된 다른 비디오 게임 시스템과 달리 흑백 CRT 모니터가 통합되어 있었고 자체 내장 디스플레이를 제공했기 때문에 텔레비전 세트에 연결할 필요가 없었습니다. 탈착식 유선 컨트롤 패드는 콘솔의 하단 베이스에 장착되어 접을 수 있었습니다. 게임에는 흑백 화면 위에 놓을 수 있는 반투명 컬러 시트 오버레이가 포함되었습니다. '3D 이미저'로 알려진 3D 고글과 플레이어가 화면에 직접 그림을 그릴 수 있는 '라이트 펜' 등 다양한 주변기기가 제작되었습니다. 내장 게임인 Mine Storm은 카트리지를 삽입하지 않고도 플레이할 수 있었습니다.</systemDescription>
-            <systemHardwareType>콘솔</systemHardwareType>
-        </variables>
-    </language>
     <language name="zh_CN">
         <variables>
             <systemDescription>Vectrex 是一款基于矢量显示器的家用视频游戏机，是史密斯工程公司开发的唯一一款为家用市场设计和发布的游戏机。它于 1982 年 11 月首次在北美市场发售，随后于 1983 年在欧洲和日本发售。它最初由通用消费电子公司生产，后来被米尔顿-布拉德利公司收购后，授权给该公司生产。万代（Bandai）在日本发行了该系统。
 
 与当时的其他视频游戏系统不同，Vectrex 配备了一个集成的单色 CRT 显示器，无需连接电视机，因为它本身就有内置显示屏。一个可拆卸的有线控制板安装在控制台的下底座上，并可折叠。游戏包括半透明的彩色覆盖片，可以覆盖在单色屏幕上。此外，还生产了一些外围设备，如一副被称为 "3D 成像仪 "的 3D 护目镜和一支 "光笔"，让玩家可以直接在屏幕上作画。内置游戏 "地雷风暴 "无需插入盒式磁带即可玩。</systemDescription>
+            <systemHardwareType>控制台</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Vectrex 是一款以向量顯示器為基礎的家用視訊遊戲機 - 史密斯工程公司開發的唯一一款專為家用市場設計與發行的遊戲機。它於 1982 年 11 月首次在北美市場發售，然後在 1983 年在歐洲和日本發售。最初由 General Consumer Electronics 製造，後來在 Milton Bradley 收購該公司後，授權給 Milton Bradley。Bandai 在日本發行此系統。
+
+Vectrex 與當時市面上的其他視訊遊戲系統不同，它整合了單色 CRT 顯示器，不需要連接到電視機，因為它本身就有內建顯示器。可拆卸的有線控制墊安裝在控制台的底座下方，並可摺疊起來。遊戲包括半透明的彩色覆膜，可以放置在單色螢幕上。此外還生產了許多周邊設備，例如一對 3D 護目鏡，稱為「3D Imager」，還有一支「光筆」，讓玩家可以直接在螢幕上作畫。內建的遊戲「Mine Storm」無需插入卡匣即可玩。</systemDescription>
             <systemHardwareType>控制台</systemHardwareType>
         </variables>
     </language>

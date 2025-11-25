@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>TurboGrafx-CD</systemName>
         <systemDescription>The CD-ROM² (pronounced CD-ROM-ROM) is an add-on attachment for the PC Engine that was released in Japan on December 4, 1988. The add-on allows the core versions of the console to play PC Engine games in CD-ROM format in addition to standard HuCards. This made the PC Engine the first video game console to use CD-ROMs as a storage media. The add-on consisted of two devices - the CD player itself and the interface unit, which connects the CD player to the console and provides a unified power supply and output for both.
@@ -10,13 +10,30 @@ It was later released as the TurboGrafx-CD in the United States in November 1989
         <systemReleaseDateFormated>November 1, 1989</systemReleaseDateFormated>
         <systemHardwareType>Console</systemHardwareType>
         <systemCoverSize>1-1</systemCoverSize>
-        <systemColor>F2984B</systemColor>
+        <systemCoverSizeType>square</systemCoverSizeType>
+        <systemColor>5B6559</systemColor>
         <systemColorPalette1>F79226</systemColorPalette1>
         <systemColorPalette2>D5E14D</systemColorPalette2>
         <systemColorPalette3>604832</systemColorPalette3>
         <systemColorPalette4>1E1C1A</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>إن CD-ROM² (تُنطق CD-ROM-ROM-ROM) هو ملحق إضافي لمحرك الكمبيوتر الشخصي تم إصداره في اليابان في 4 ديسمبر 1988. تسمح الوظيفة الإضافية للإصدارات الأساسية من وحدة التحكم بتشغيل ألعاب PC Engine بصيغة CD-ROM بالإضافة إلى بطاقات HuCards القياسية. مما جعل محرك الكمبيوتر الشخصي أول وحدة تحكم بألعاب الفيديو تستخدم الأقراص المدمجة كوسائط تخزين. تتألف الوظيفة الإضافية من جهازين - مشغل الأقراص المدمجة نفسه ووحدة الواجهة التي تربط مشغل الأقراص المدمجة بوحدة التحكم وتوفر مصدر طاقة ومخرج موحد لكليهما.
+
+تم إصداره لاحقًا باسم TurboGrafx-CD في الولايات المتحدة في نوفمبر 1989، مع وحدة واجهة معاد تشكيلها لتتناسب مع الشكل المختلف لوحدة التحكم TurboGrafx-16. بلغ سعر إطلاق TurboGrafx-CD عند الإطلاق 399.99 دولارًا أمريكيًا ولم يتضمن أي ألعاب مجمعة. كانت لعبتا Fighting Street وMonster Lair هما لعبتا إطلاق TurboGrafx-CD؛ وسرعان ما تبعهما لعبتا Ys Book I وII.</systemDescription>
+            <systemHardwareType>وحدة التحكم</systemHardwareType>
+        </variables>
+    </language>
+    <language name="bs_BA">
+        <variables>
+            <systemDescription>The CD-ROM² (pronounced CD-ROM-ROM) is an add-on attachment for the PC Engine that was released in Japan on December 4, 1988. The add-on allows the core versions of the console to play PC Engine games in CD-ROM format in addition to standard HuCards. This made the PC Engine the first video game console to use CD-ROMs as a storage media. The add-on consisted of two devices - the CD player itself and the interface unit, which connects the CD player to the console and provides a unified power supply and output for both.
+
+It was later released as the TurboGrafx-CD in the United States in November 1989, with a remodeled interface unit in order to suit the different shape of the TurboGrafx-16 console. The TurboGrafx-CD had a launch price of $399.99 and did not include any bundled games. Fighting Street and Monster Lair were the TurboGrafx-CD launch titles; Ys Book I and II soon followed.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
     <language name="ca_ES">
         <variables>
             <systemDescription>El CD-ROM² (pronunciat CD-ROM-ROM) és un complement addicional per al motor de PC que es va llançar al Japó el 4 de desembre de 1988. El complement permet que les versions bàsiques de la consola reprodueixin jocs de motor de PC aFormat CD-ROM A més de les hucards estàndard. Això va fer que el motor PC sigui la primera consola de videojocs que utilitzés CD-ROM com a suports d’emmagatzematge. El complement constava de dos dispositius: el propi reproductor de CD i la unitat d'interfície, que connecta el reproductor de CD a la consola i proporciona una font d'alimentació i una sortida unificada per a tots dos.
@@ -49,12 +66,36 @@ Il a été commercialisé sous le nom de TurboGrafx-CD aux États-Unis en novemb
             <systemHardwareType>Console</systemHardwareType>
         </variables>
     </language>
+    <language name="hr_HR">
+        <variables>
+            <systemDescription>The CD-ROM² (pronounced CD-ROM-ROM) is an add-on attachment for the PC Engine that was released in Japan on December 4, 1988. The add-on allows the core versions of the console to play PC Engine games in CD-ROM format in addition to standard HuCards. This made the PC Engine the first video game console to use CD-ROMs as a storage media. The add-on consisted of two devices - the CD player itself and the interface unit, which connects the CD player to the console and provides a unified power supply and output for both.
+
+It was later released as the TurboGrafx-CD in the United States in November 1989, with a remodeled interface unit in order to suit the different shape of the TurboGrafx-16 console. The TurboGrafx-CD had a launch price of $399.99 and did not include any bundled games. Fighting Street and Monster Lair were the TurboGrafx-CD launch titles; Ys Book I and II soon followed.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
     <language name="it_IT">
         <variables>
             <systemDescription>Il CD-ROM² (pronuncia CD-ROM-ROM) è un componente aggiuntivo per il PC Engine, rilasciato in Giappone il 4 dicembre 1988. Il componente aggiuntivo consente alle versioni principali della console di riprodurre i giochi del PC Engine in formato CD-ROM, oltre alle HuCard standard. Questo rendeva il PC Engine la prima console per videogiochi a utilizzare i CD-ROM come supporto di memorizzazione. Il componente aggiuntivo è costituito da due dispositivi: il lettore CD stesso e l'unità di interfaccia, che collega il lettore CD alla console e fornisce un'alimentazione e un'uscita unificate per entrambi.
 
 Il TurboGrafx-CD è stato successivamente rilasciato negli Stati Uniti nel novembre 1989, con un'unità di interfaccia modificata per adattarsi alla diversa forma della console TurboGrafx-16. Il TurboGrafx-CD aveva un prezzo di lancio di 399,99 dollari e non includeva alcun gioco in bundle. Fighting Street e Monster Lair furono i titoli di lancio del TurboGrafx-CD; Ys Book I e II seguirono presto.</systemDescription>
             <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ja_JP">
+        <variables>
+            <systemDescription>CD-ROM²（読み：シーディーロムロム）は、1988年12月4日に日本で発売されたPCエンジン用のアドオンアタッチメントである。このアドオンにより、ゲーム機のコアバージョンは、標準のHuカードに加えて、CD-ROMフォーマットでPCエンジンのゲームをプレイできるようになった。これにより、PCエンジンは記憶媒体としてCD-ROMを使用する最初のゲーム機となった。このアドオンは、CDプレーヤー本体と、CDプレーヤーをゲーム機に接続し、両方の電源と出力を統一するインターフェイスユニットの2つのデバイスで構成されている。
+
+その後、1989年11月にTurboGrafx-CDとして米国で発売され、TurboGrafx-16コンソールの形状の違いに合わせてインターフェイスユニットが改造された。TurboGrafx-CDの発売価格は399.99ドルで、同梱ゲームはなかった。Fighting Street』と『Monster Lair』がTurboGrafx-CDのローンチタイトルで、すぐに『Ys Book I』と『II』が続いた。</systemDescription>
+            <systemHardwareType>コンソール</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ko_KR">
+        <variables>
+            <systemDescription>CD-ROM²(CD-ROM-ROM으로 발음)은 1988년 12월 4일에 일본에서 출시된 PC 엔진용 애드온입니다. 이 애드온을 사용하면 콘솔의 핵심 버전에서 표준 HuCard 외에 CD-ROM 형식의 PC Engine 게임을 플레이할 수 있습니다. 이로써 PC Engine은 CD-ROM을 저장 매체로 사용한 최초의 비디오 게임 콘솔이 되었습니다. 애드온은 CD 플레이어 자체와 CD 플레이어를 콘솔에 연결하고 두 장치에 통합된 전원 공급 및 출력을 제공하는 인터페이스 유닛의 두 가지 장치로 구성되었습니다.
+
+이후 1989년 11월 미국에서 TurboGrafx-CD로 출시되었으며, TurboGrafx-16 콘솔의 다른 모양에 맞게 인터페이스 유닛을 개조하여 출시되었습니다. 출시 가격은 399.99달러였으며 번들 게임은 포함되지 않았습니다. 파이팅 스트리트와 몬스터 레어가 TurboGrafx-CD 출시 타이틀이었으며, 곧이어 Ys Book I과 II가 출시되었습니다.</systemDescription>
+            <systemHardwareType>콘솔</systemHardwareType>
         </variables>
     </language>
     <language name="nl_NL">
@@ -81,6 +122,14 @@ Posteriormente, foi lançado como TurboGrafx-CD nos Estados Unidos em novembro d
             <systemHardwareType>Console</systemHardwareType>
         </variables>
     </language>
+    <language name="pt_PT">
+        <variables>
+            <systemDescription>The CD-ROM² (pronounced CD-ROM-ROM) is an add-on attachment for the PC Engine that was released in Japan on December 4, 1988. The add-on allows the core versions of the console to play PC Engine games in CD-ROM format in addition to standard HuCards. This made the PC Engine the first video game console to use CD-ROMs as a storage media. The add-on consisted of two devices - the CD player itself and the interface unit, which connects the CD player to the console and provides a unified power supply and output for both.
+
+It was later released as the TurboGrafx-CD in the United States in November 1989, with a remodeled interface unit in order to suit the different shape of the TurboGrafx-16 console. The TurboGrafx-CD had a launch price of $399.99 and did not include any bundled games. Fighting Street and Monster Lair were the TurboGrafx-CD launch titles; Ys Book I and II soon followed.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
     <language name="ro_RO">
         <variables>
             <systemDescription>CD-ROM² (pronunțat CD-ROM-ROM) este un accesoriu suplimentar pentru PC Engine care a fost lansat în Japonia pe 4 decembrie 1988. Accesoriul permite versiunilor de bază ale consolei să redea jocuri PC Engine în format CD-ROM în plus față de cardurile HuCard standard. Acest lucru a făcut din PC Engine prima consolă de jocuri video care a utilizat CD-ROM-uri ca suport de stocare. Componenta suplimentară a constat din două dispozitive - CD playerul în sine și unitatea de interfață, care conectează CD playerul la consolă și asigură o sursă de alimentare și o ieșire unificate pentru ambele.
@@ -97,6 +146,14 @@ Acesta a fost lansat ulterior în Statele Unite în noiembrie 1989 sub numele de
             <systemHardwareType>Консоль</systemHardwareType>
         </variables>
     </language>
+    <language name="sr_RS">
+        <variables>
+            <systemDescription>The CD-ROM² (pronounced CD-ROM-ROM) is an add-on attachment for the PC Engine that was released in Japan on December 4, 1988. The add-on allows the core versions of the console to play PC Engine games in CD-ROM format in addition to standard HuCards. This made the PC Engine the first video game console to use CD-ROMs as a storage media. The add-on consisted of two devices - the CD player itself and the interface unit, which connects the CD player to the console and provides a unified power supply and output for both.
+
+It was later released as the TurboGrafx-CD in the United States in November 1989, with a remodeled interface unit in order to suit the different shape of the TurboGrafx-16 console. The TurboGrafx-CD had a launch price of $399.99 and did not include any bundled games. Fighting Street and Monster Lair were the TurboGrafx-CD launch titles; Ys Book I and II soon followed.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
     <language name="sv_SE">
         <variables>
             <systemDescription>CD-ROM² (uttalas CD-ROM-ROM) är en tilläggsutrustning för PC Engine som släpptes i Japan den 4 december 1988. Tillägget gör det möjligt för konsolens grundversioner att spela PC Engine-spel i CD-ROM-format utöver vanliga HuCards. Detta gjorde PC Engine till den första videospelskonsolen som använde CD-ROM som lagringsmedium. Tillägget består av två enheter - själva CD-spelaren och gränssnittsenheten, som ansluter CD-spelaren till konsolen och ger en enhetlig strömförsörjning och utgång för båda.
@@ -105,27 +162,19 @@ Den släpptes senare som TurboGrafx-CD i USA i november 1989, med en ombyggd gr�
             <systemHardwareType>Konsol</systemHardwareType>
         </variables>
     </language>
-    <language name="ja_JP">
-        <variables>
-            <systemDescription>CD-ROM²（読み：シーディーロムロム）は、1988年12月4日に日本で発売されたPCエンジン用のアドオンアタッチメントである。このアドオンにより、ゲーム機のコアバージョンは、標準のHuカードに加えて、CD-ROMフォーマットでPCエンジンのゲームをプレイできるようになった。これにより、PCエンジンは記憶媒体としてCD-ROMを使用する最初のゲーム機となった。このアドオンは、CDプレーヤー本体と、CDプレーヤーをゲーム機に接続し、両方の電源と出力を統一するインターフェイスユニットの2つのデバイスで構成されている。
-
-その後、1989年11月にTurboGrafx-CDとして米国で発売され、TurboGrafx-16コンソールの形状の違いに合わせてインターフェイスユニットが改造された。TurboGrafx-CDの発売価格は399.99ドルで、同梱ゲームはなかった。Fighting Street』と『Monster Lair』がTurboGrafx-CDのローンチタイトルで、すぐに『Ys Book I』と『II』が続いた。</systemDescription>
-            <systemHardwareType>コンソール</systemHardwareType>
-        </variables>
-    </language>
-    <language name="ko_KR">
-        <variables>
-            <systemDescription>CD-ROM²(CD-ROM-ROM으로 발음)은 1988년 12월 4일에 일본에서 출시된 PC 엔진용 애드온입니다. 이 애드온을 사용하면 콘솔의 핵심 버전에서 표준 HuCard 외에 CD-ROM 형식의 PC Engine 게임을 플레이할 수 있습니다. 이로써 PC Engine은 CD-ROM을 저장 매체로 사용한 최초의 비디오 게임 콘솔이 되었습니다. 애드온은 CD 플레이어 자체와 CD 플레이어를 콘솔에 연결하고 두 장치에 통합된 전원 공급 및 출력을 제공하는 인터페이스 유닛의 두 가지 장치로 구성되었습니다.
-
-이후 1989년 11월 미국에서 TurboGrafx-CD로 출시되었으며, TurboGrafx-16 콘솔의 다른 모양에 맞게 인터페이스 유닛을 개조하여 출시되었습니다. 출시 가격은 399.99달러였으며 번들 게임은 포함되지 않았습니다. 파이팅 스트리트와 몬스터 레어가 TurboGrafx-CD 출시 타이틀이었으며, 곧이어 Ys Book I과 II가 출시되었습니다.</systemDescription>
-            <systemHardwareType>콘솔</systemHardwareType>
-        </variables>
-    </language>
     <language name="zh_CN">
         <variables>
             <systemDescription>CD-ROM²（读作 CD-ROM-ROM）是 PC 引擎的一个附加附件，于 1988 年 12 月 4 日在日本发布。除了标准的 HuCard 外，该附件还允许控制台的核心版本以 CD-ROM 格式播放 PC 引擎游戏。这使得 PC 引擎成为第一款使用光盘作为存储介质的视频游戏机。该插件包括两个设备--CD 播放器本身和接口装置，后者将 CD 播放器连接到控制台，并为两者提供统一的电源和输出。
 
 它后来于 1989 年 11 月在美国以 TurboGrafx-CD 的名义发布，接口装置经过改造，以适应 TurboGrafx-16 控制台的不同形状。TurboGrafx-CD 的上市价格为 399.99 美元，不包括任何捆绑游戏。Fighting Street》和《Monster Lair》是 TurboGrafx-CD 的首发游戏；《Ys Book I》和《Ys Book II》很快就上市了。</systemDescription>
+            <systemHardwareType>控制台</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>CD-ROM²（讀作 CD-ROM-ROM）是 PC Engine 的附加附件，於 1988 年 12 月 4 日在日本發售。此附加元件可讓核心版本的控制台除了標準的 HuCard 外，還能播放 CD-ROM 格式的 PC Engine 遊戲。這使得 PC Engine 成為第一台使用 CD-ROM 作為儲存媒體的視訊遊戲主機。該附加元件由兩個裝置組成 - CD 播放器本身和介面裝置，介面裝置可將 CD 播放器與控制台連接起來，並為兩者提供統一的電源和輸出。
+
+其後在 1989 年 11 月以 TurboGrafx-CD 的名義在美國發售，為了配合 TurboGrafx-16 控制台的不同形狀，介面裝置也經過改裝。TurboGrafx-CD 的發售價格為 399.99 美元，並且不包含任何捆綁遊戲。Fighting Street 和 Monster Lair 是 TurboGrafx-CD 的發售遊戲；Ys Book I 和 II 隨即推出。</systemDescription>
             <systemHardwareType>控制台</systemHardwareType>
         </variables>
     </language>

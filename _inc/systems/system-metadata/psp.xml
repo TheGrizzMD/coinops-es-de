@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>PlayStation Portable</systemName>
         <systemDescription>The PlayStation Portable (PSP) is a handheld game console developed and marketed by Sony Computer Entertainment. It was first released in Japan on December 12, 2004, in North America on March 24, 2005, and in PAL regions on September 1, 2005, and is the first handheld installment in the PlayStation line of consoles. As a seventh generation console it competed with the Nintendo DS.
@@ -10,13 +10,30 @@ Development of the PSP was announced during E3 2003, and the console was unveile
         <systemReleaseDateFormated>December 12, 2004</systemReleaseDateFormated>
         <systemHardwareType>Portable</systemHardwareType>
         <systemCoverSize>99-168</systemCoverSize>
-        <systemColor>366DA7</systemColor>
+        <systemCoverSizeType>portrait</systemCoverSizeType>
+        <systemColor>336aab</systemColor>
         <systemColorPalette1>313131</systemColorPalette1>
         <systemColorPalette2>0F1012</systemColorPalette2>
         <systemColorPalette3>97A9BA</systemColorPalette3>
         <systemColorPalette4>F9F7F7</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>بلاي ستيشن بورتابل (PSP) هو جهاز ألعاب محمول باليد تم تطويره وتسويقه من قبل شركة سوني كمبيوتر إنترتينمنت. وقد تم إصداره لأول مرة في اليابان في 12 ديسمبر 2004، وفي أمريكا الشمالية في 24 مارس 2005، وفي مناطق PAL في 1 سبتمبر 2005، وهو أول جهاز محمول باليد في خط وحدات تحكم PlayStation. وباعتباره وحدة تحكم من الجيل السابع فقد تنافس مع جهاز Nintendo DS.
+
+تم الإعلان عن تطوير جهاز PSP خلال معرض E3 2003، وتم الكشف عن وحدة التحكم في مؤتمر صحفي لشركة سوني في 11 مايو 2004. كان النظام أقوى وحدة تحكم محمولة عند طرحه، وكان أول منافس حقيقي لوحدات تحكم Nintendo المحمولة باليد بعد فشل العديد من المنافسين، مثل N-Gage من نوكيا. وقد جعلت قدرات PSP الرسومية المتقدمة من جهاز PSP جهازاً ترفيهياً محمولاً شهيراً، حيث كان بإمكانه الاتصال بوحدات تحكم PlayStation 2 وPlayStation 3 وأي كمبيوتر مزود بواجهة USB وأنظمة PSP الأخرى والإنترنت. يحتوي PSP أيضاً على مجموعة واسعة من ميزات الوسائط المتعددة مثل تشغيل الفيديو، ولذلك تم اعتباره مشغل وسائط محمول أيضاً. جهاز PSP هو وحدة التحكم المحمولة الوحيدة التي تستخدم تنسيق الأقراص الضوئية - قرص الوسائط العالمي (UMD) - كوسيط تخزين أساسي؛ وقد تم إصدار كل من الألعاب والأفلام على هذا التنسيق.</systemDescription>
+            <systemHardwareType>محمول</systemHardwareType>
+        </variables>
+    </language>
+    <language name="bs_BA">
+        <variables>
+            <systemDescription>Prijenosni playstation (PSP) je ručna igra za igru razvijena i na tržište Sony Computer Entertainment. Prvo je pušten u Japanu 12. decembra 2004., u Severnoj Americi, 24. marta 2005. godine, a u regionima u PAL-u 1. septembra 2005. godine, a prva je ručna rata u playStation liniji konzola. Kao sedmu generacijsku konzolu takmičio se sa Nintendo DS-om.
+
+Izrada PSP-a objavljen je tokom E3 2003, a konzola je predstavljena na Sony Press konferenciji 11. maja 2004. godine. Sistem je bio najmoćnija prenosiva konzola kada je uveden, a bio je prvi pravi konkurent Nintendovih ručnih konzola nakon mnogih izazova, kao što su Nokiani N-Gage, kao što su Nokiov N-Gage. PSP-ove napredne grafičke mogućnosti napravile su ga popularnim mobilnim zabavnim uređajem koji bi se mogao povezati s reprodukcijom 2 i reprodukcijskim 3 konzolama, bilo koji računar sa USB sučeljem, drugim PSP sistemima i internetu. PSP je također imao ogroman niz multimedijskih funkcija kao što su reprodukcija video zapisa, a tako je smatrana prijenosnim medijskim igračem. PSP je jedina ručna konzola za korištenje optičkog diskovnog formata - univerzalni medijski disk (UMD) - kao njegov primarni medij za pohranu;Obje utakmice i filmovi su pušteni u formatu.</systemDescription>
+            <systemHardwareType>Prenosiv</systemHardwareType>
+        </variables>
+    </language>
     <language name="ca_ES">
         <variables>
             <systemDescription>El PlayStation Portable (PSP) és una consola de jocs de mà desenvolupada i comercialitzada per Sony Computer Entertainment. Va ser llançat per primera vegada al Japó el 12 de desembre de 2004 a Amèrica del Nord el 24 de març del 2005 i a les regions PAL l'1 de setembre de 2005 i és la primera entrega de la línia de consoles de PlayStation. Com a consola de setena generació va competir amb la Nintendo DS.
@@ -49,12 +66,36 @@ Le développement de la PSP a été annoncé lors de l'E3 2003 et la console a �
             <systemHardwareType>Portable</systemHardwareType>
         </variables>
     </language>
+    <language name="hr_HR">
+        <variables>
+            <systemDescription>PlayStation Portable (PSP) je ručna konzola za igru koju je razvila i plasirala na tržište Sony Computer Entertainment. Prvi put je objavljen u Japanu 12. prosinca 2004., u Sjevernoj Americi, 24. ožujka 2005., a u Pal Regions 1. rujna 2005. i prva je ručna rata u liniji PlayStation linije konzola. Kao konzola sedme generacije natjecala se s Nintendo DS -om.
+
+Razvoj PSP-a najavljen je tijekom E3 2003, a konzola je predstavljena na konferenciji za novinare Sony 11. svibnja 2004. godine. Sustav je bio najmoćnija prijenosna konzola kada je uvedena, a bio je prvi pravi konkurent ručnih konzola Nintendove nakon što su mnogi izazivači, poput Nokia's N-DEG, nisu uspjeli. Napredne grafičke mogućnosti PSP -a učinile su ga popularnim uređajem za mobilnu zabavu, koji bi se mogao povezati s PlayStation 2 i PlayStation 3 konzolama, bilo koje računalo s USB sučeljem, drugim PSP sustavima i Internetom. PSP je također imao ogroman niz multimedijskih značajki kao što je reprodukcija videozapisa, pa se tako smatra i prijenosnim medijskim playerom. PSP je jedina ručna konzola koja koristi optički diskovni format - univerzalni medijski disk (UMD) - kao njegov primarni medij za pohranu;I igre i filmovi objavljeni su u formatu.</systemDescription>
+            <systemHardwareType>Prenosiv</systemHardwareType>
+        </variables>
+    </language>
     <language name="it_IT">
         <variables>
             <systemDescription>La PlayStation Portable (PSP) è una console portatile sviluppata e commercializzata da Sony Computer Entertainment. È stata rilasciata per la prima volta in Giappone il 12 dicembre 2004, in Nord America il 24 marzo 2005 e nelle regioni PAL il 1° settembre 2005 ed è la prima console portatile della linea PlayStation. Come console di settima generazione è stata in concorrenza con il Nintendo DS.
 
 Lo sviluppo della PSP è stato annunciato durante l'E3 2003 e la console è stata presentata durante una conferenza stampa di Sony l'11 maggio 2004. Al momento della sua presentazione, la console era la più potente tra quelle portatili e rappresentava il primo vero concorrente delle console portatili di Nintendo dopo il fallimento di molti concorrenti, come N-Gage di Nokia. Le avanzate capacità grafiche della PSP la resero un popolare dispositivo di intrattenimento mobile, in grado di connettersi alle console PlayStation 2 e PlayStation 3, a qualsiasi computer dotato di interfaccia USB, ad altre console PSP e a Internet. La PSP disponeva anche di una vasta gamma di funzioni multimediali, come la riproduzione di video, e per questo è stata considerata anche un lettore multimediale portatile. La PSP è l'unica console portatile a utilizzare un formato di disco ottico - Universal Media Disc (UMD) - come supporto di memorizzazione principale; su questo formato sono stati pubblicati sia giochi che film.</systemDescription>
             <systemHardwareType>Portatile</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ja_JP">
+        <variables>
+            <systemDescription>プレイステーション・ポータブル（PSP）は、ソニー・コンピュータエンタテインメントが開発・販売する携帯型ゲーム機である。日本では2004年12月12日に、北米では2005年3月24日に、PAL地域では2005年9月1日に発売された。第7世代ゲーム機としてニンテンドーDSと競合した。
+
+PSPの開発は2003年のE3で発表され、2004年5月11日のソニーの記者会見で発表された。PSPは発表当時、最もパワフルな携帯ゲーム機であり、ノキアのN-Gageなど多くの挑戦者が失敗した後、任天堂の携帯ゲーム機の最初の真の競争相手となった。PSPの高度なグラフィック機能は、プレイステーション2やプレイステーション3、USBインターフェイスを持つあらゆるコンピューター、他のPSPシステム、そしてインターネットに接続できるモバイル・エンターテインメント・デバイスとして人気を博した。PSPはまた、ビデオ再生などの膨大なマルチメディア機能を備えていたため、ポータブルメディアプレーヤーとしても考えられてきた。PSPは、光ディスクフォーマットであるユニバーサル・メディア・ディスク（UMD）を主要な記憶媒体として使用する唯一の携帯型ゲーム機であり、ゲームと映画の両方がこのフォーマットでリリースされている。</systemDescription>
+            <systemHardwareType>ポータブル</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ko_KR">
+        <variables>
+            <systemDescription>플레이스테이션 포터블(PSP)은 소니 컴퓨터 엔터테인먼트에서 개발 및 판매한 휴대용 게임 콘솔입니다. 2004년 12월 12일에 일본에서, 2005년 3월 24일에 북미에서, 2005년 9월 1일에 PAL 지역에서 처음 출시되었으며, PlayStation 콘솔 제품군 중 최초의 휴대용 게임기입니다. 7세대 콘솔로서 닌텐도 DS와 경쟁했습니다.
+
+PSP의 개발은 E3 2003에서 발표되었고, 2004년 5월 11일 소니 기자 회견에서 콘솔이 공개되었습니다. 이 시스템은 출시 당시 가장 강력한 휴대용 콘솔이었으며, 노키아의 N-Gage와 같은 많은 도전자들이 실패한 후 닌텐도의 휴대용 콘솔의 실질적인 첫 번째 경쟁자였습니다. PSP의 고급 그래픽 기능 덕분에 PlayStation 2 및 PlayStation 3 콘솔, USB 인터페이스가 있는 모든 컴퓨터, 다른 PSP 시스템 및 인터넷에 연결할 수 있는 인기 있는 모바일 엔터테인먼트 기기로 자리 잡았습니다. 또한 PSP는 비디오 재생과 같은 다양한 멀티미디어 기능도 갖추고 있어 휴대용 미디어 플레이어로도 여겨졌습니다. PSP는 광 디스크 포맷인 UMD(Universal Media Disc)를 기본 저장 매체로 사용하는 유일한 휴대용 콘솔이며, 게임과 영화 모두 이 포맷으로 출시되었습니다.</systemDescription>
+            <systemHardwareType>휴대성</systemHardwareType>
         </variables>
     </language>
     <language name="nl_NL">
@@ -81,6 +122,14 @@ O desenvolvimento do PSP foi anunciado durante a E3 2003, e o console foi aprese
             <systemHardwareType>Portátil</systemHardwareType>
         </variables>
     </language>
+    <language name="pt_PT">
+        <variables>
+            <systemDescription>O PlayStation Portable (PSP) é um console de jogos portátil desenvolvido e comercializado pela Sony Computer Entertainment. Foi lançado pela primeira vez no Japão em 12 de dezembro de 2004, na América do Norte, em 24 de março de 2005, e nas regiões do PAL em 1º de setembro de 2005, e é a primeira parcela portátil na linha de consoles do PlayStation. Como console de sétima geração, competiu com o Nintendo DS.
+
+O desenvolvimento do PSP foi anunciado durante a E3 2003, e o console foi revelado em uma conferência de imprensa da Sony em 11 de maio de 2004. O sistema foi o console portátil mais poderoso quando foi introduzido, e foi o primeiro concorrente real dos consoles de mão da Nintendo depois de muitos desafiadores, como a Nokia N-Gage, falhou. Os recursos de gráficos avançados do PSP a tornaram um dispositivo popular de entretenimento móvel, que poderia se conectar aos consoles PlayStation 2 e PlayStation 3, qualquer computador com interface USB, outros sistemas PSP e Internet. O PSP também teve uma vasta gama de recursos multimídia, como reprodução de vídeo, e também foi considerado um media player portátil. O PSP é o único console portátil a usar um formato de disco óptico - disco de mídia universal (UMD) - como seu meio de armazenamento primário;Tanto jogos quanto filmes foram lançados no formato.</systemDescription>
+            <systemHardwareType>Portátil</systemHardwareType>
+        </variables>
+    </language>
     <language name="ro_RO">
         <variables>
             <systemDescription>PlayStation Portable (PSP) este o consolă portabilă de jocuri dezvoltată și comercializată de Sony Computer Entertainment. A fost lansată pentru prima dată în Japonia pe 12 decembrie 2004, în America de Nord pe 24 martie 2005, iar în regiunile PAL pe 1 septembrie 2005, și este prima tranșă portabilă din linia de console PlayStation. Ca o consolă de a șaptea generație, a concurat cu Nintendo DS.
@@ -97,6 +146,14 @@ Dezvoltarea PSP a fost anunțată în timpul E3 2003, iar consola a fost prezent
             <systemHardwareType>Портативный</systemHardwareType>
         </variables>
     </language>
+    <language name="sr_RS">
+        <variables>
+            <systemDescription>ПлаиСтатион Портабле (ПСП) је ручна конзола за ручни игру коју је развио и продавао Сони Цомпутер Ентертаинмент.Прво је објављено у Јапану 12. децембра 2004. године, у Северној Америци, 24. марта 2005. године, а у Пал регионима 1. септембра 2005. године и је прва ручна рата у линији ПлаиСтатион.Као конзола седме генерације такмичила се са Нинтендо ДС-ом.
+
+Развој ПСП-а најављен је током Е3 2003, а конзола је на конзолу за штампу за штампу представљена 11. маја 2004. године. Систем је била најмоћнија преносива конзола када је уведена и први прави такмичар Нинтендо-ових ручних конзола након многих изазивача, попут Нокиа-овог Н-Гаге-а.Напредне графичке могућности ПСП-а омогућиле су је популарна мобилна забава, која би се могла повезати са ПлаиСтатион 2 и ПлаиСтатион 3 конзола, било којим рачунаром са УСБ интерфејсом, другим ПСП системима и Интернетом.ПСП је такође имао огроман низ мултимедијалних функција као што су репродукција видео записа, а тако је и сматрана преносни медијски плејер.ПСП је једина ручна конзола за коришћење оптичког формата диска - универзални медијски диск (УМД) - као њен примарни медијум за складиштење;Обе игре и филмови објављени су у формату.</systemDescription>
+            <systemHardwareType>Преносив</systemHardwareType>
+        </variables>
+    </language>
     <language name="sv_SE">
         <variables>
             <systemDescription>PlayStation Portable (PSP) är en handhållen spelkonsol som utvecklats och marknadsförs av Sony Computer Entertainment. Den släpptes för första gången i Japan den 12 december 2004, i Nordamerika den 24 mars 2005 och i PAL-regionerna den 1 september 2005 och är den första handhållna delen av PlayStation-konsolserien. Som en sjunde generationens konsol konkurrerade den med Nintendo DS.
@@ -105,28 +162,20 @@ Utvecklingen av PSP tillkännagavs under E3 2003 och konsolen presenterades vid 
             <systemHardwareType>Bärbar</systemHardwareType>
         </variables>
     </language>
-    <language name="ja_JP">
-        <variables>
-            <systemDescription>プレイステーション・ポータブル（PSP）は、ソニー・コンピュータエンタテインメントが開発・販売する携帯型ゲーム機である。日本では2004年12月12日に、北米では2005年3月24日に、PAL地域では2005年9月1日に発売された。第7世代ゲーム機としてニンテンドーDSと競合した。
-
-PSPの開発は2003年のE3で発表され、2004年5月11日のソニーの記者会見で発表された。PSPは発表当時、最もパワフルな携帯ゲーム機であり、ノキアのN-Gageなど多くの挑戦者が失敗した後、任天堂の携帯ゲーム機の最初の真の競争相手となった。PSPの高度なグラフィック機能は、プレイステーション2やプレイステーション3、USBインターフェイスを持つあらゆるコンピューター、他のPSPシステム、そしてインターネットに接続できるモバイル・エンターテインメント・デバイスとして人気を博した。PSPはまた、ビデオ再生などの膨大なマルチメディア機能を備えていたため、ポータブルメディアプレーヤーとしても考えられてきた。PSPは、光ディスクフォーマットであるユニバーサル・メディア・ディスク（UMD）を主要な記憶媒体として使用する唯一の携帯型ゲーム機であり、ゲームと映画の両方がこのフォーマットでリリースされている。</systemDescription>
-            <systemHardwareType>ポータブル</systemHardwareType>
-        </variables>
-    </language>
-    <language name="ko_KR">
-        <variables>
-            <systemDescription>플레이스테이션 포터블(PSP)은 소니 컴퓨터 엔터테인먼트에서 개발 및 판매한 휴대용 게임 콘솔입니다. 2004년 12월 12일에 일본에서, 2005년 3월 24일에 북미에서, 2005년 9월 1일에 PAL 지역에서 처음 출시되었으며, PlayStation 콘솔 제품군 중 최초의 휴대용 게임기입니다. 7세대 콘솔로서 닌텐도 DS와 경쟁했습니다.
-
-PSP의 개발은 E3 2003에서 발표되었고, 2004년 5월 11일 소니 기자 회견에서 콘솔이 공개되었습니다. 이 시스템은 출시 당시 가장 강력한 휴대용 콘솔이었으며, 노키아의 N-Gage와 같은 많은 도전자들이 실패한 후 닌텐도의 휴대용 콘솔의 실질적인 첫 번째 경쟁자였습니다. PSP의 고급 그래픽 기능 덕분에 PlayStation 2 및 PlayStation 3 콘솔, USB 인터페이스가 있는 모든 컴퓨터, 다른 PSP 시스템 및 인터넷에 연결할 수 있는 인기 있는 모바일 엔터테인먼트 기기로 자리 잡았습니다. 또한 PSP는 비디오 재생과 같은 다양한 멀티미디어 기능도 갖추고 있어 휴대용 미디어 플레이어로도 여겨졌습니다. PSP는 광 디스크 포맷인 UMD(Universal Media Disc)를 기본 저장 매체로 사용하는 유일한 휴대용 콘솔이며, 게임과 영화 모두 이 포맷으로 출시되었습니다.</systemDescription>
-            <systemHardwareType>휴대성</systemHardwareType>
-        </variables>
-    </language>
     <language name="zh_CN">
         <variables>
             <systemDescription>PlayStation Portable（PSP）是索尼电脑娱乐公司开发和销售的掌上游戏机。它于 2004 年 12 月 12 日首次在日本发售，2005 年 3 月 24 日在北美发售，2005 年 9 月 1 日在 PAL 地区发售，是 PlayStation 系列游戏机的首款掌上游戏机。作为第七代游戏机，它与任天堂 DS 竞争。
 
 PSP 的开发于 2003 年 E3 期间宣布，并于 2004 年 5 月 11 日在索尼新闻发布会上亮相。该系统是当时功能最强大的便携式游戏机，也是任天堂掌上游戏机的第一个真正的竞争对手，在此之前，诺基亚的 N-Gage 等许多挑战者都失败了。PSP 先进的图形处理能力使其成为一款广受欢迎的移动娱乐设备，它可以连接 PlayStation 2 和 PlayStation 3 游戏机、任何带 USB 接口的电脑、其他 PSP 系统和互联网。PSP 还具有视频播放等大量多媒体功能，因此也被视为便携式媒体播放器。PSP 是唯一使用光盘格式--通用媒体光盘（UMD）--作为主要存储介质的掌上游戏机；游戏和电影都是以这种格式发布的。</systemDescription>
             <systemHardwareType>便携式</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>PlayStation Portable (PSP) 是 Sony Computer Entertainment 所開發及行銷的掌上型遊戲機。它於 2004 年 12 月 12 日首次在日本發售，2005 年 3 月 24 日在北美發售，2005 年 9 月 1 日在 PAL 區域發售，是 PlayStation 系列遊戲機的第一款掌上型裝置。作為第七代遊戲機，它與任天堂 DS 競爭。
+
+PSP 的開發於 2003 年 E3 期間宣佈，並於 2004 年 5 月 11 日的 Sony 記者會上亮相。該系統推出時是功能最強大的可攜式控制台，也是在許多挑戰者（例如 Nokia 的 N-Gage）失敗後，任天堂掌上型控制台的第一個真正競爭者。PSP 的先進圖形功能使其成為廣受歡迎的行動娛樂裝置，它可以連接 PlayStation 2 和 PlayStation 3 主機、任何具有 USB 介面的電腦、其他 PSP 系統以及網際網路。PSP 還擁有大量的多媒體功能，例如視訊播放，因此也被視為可攜式媒體播放器。PSP 是唯一使用光碟格式 - 通用媒體光碟 (UMD) - 作為主要儲存媒體的掌上型遊戲機；遊戲和電影都是以這種格式發行。</systemDescription>
+            <systemHardwareType>可攜式</systemHardwareType>
         </variables>
     </language>
 </theme>

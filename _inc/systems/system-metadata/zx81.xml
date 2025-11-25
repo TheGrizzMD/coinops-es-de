@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>ZX81</systemName>
         <systemDescription>The ZX81 is a home computer that was produced by Sinclair Research and manufactured in Dundee, Scotland, by Timex Corporation. It was launched in the United Kingdom in March 1981 as the successor to Sinclair's ZX80 and designed to be a low-cost introduction to home computing for the general public. It was hugely successful; more than 1.5 million units were sold. In the United States it was initially sold as the ZX-81 under licence by Timex. Timex later produced its own versions of the ZX81: the Timex Sinclair 1000 and Timex Sinclair 1500. Unauthorized ZX81 clones were produced in several countries.
@@ -12,6 +12,7 @@ The ZX81 could be bought by mail order preassembled or, for a lower price, in ki
         <systemReleaseDateFormated>March 5, 1981</systemReleaseDateFormated>
         <systemHardwareType>Computer</systemHardwareType>
         <systemCoverSize>3-4</systemCoverSize>
+        <systemCoverSizeType>portrait</systemCoverSizeType>
         <systemColor>B92E34</systemColor>
         <systemColorPalette1>EF5857</systemColorPalette1>
         <systemColorPalette2>403E4B</systemColorPalette2>
@@ -19,6 +20,26 @@ The ZX81 could be bought by mail order preassembled or, for a lower price, in ki
         <systemColorPalette4>191222</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>ZX81 هو كمبيوتر منزلي أنتجته شركة سنكلير للأبحاث وصنعته شركة تايمكس في دندي باسكتلندا. وقد تم إطلاقه في المملكة المتحدة في مارس 1981 كخليفة لسنكلير ZX80، وصُمم ليكون مقدمة منخفضة التكلفة للحوسبة المنزلية لعامة الناس. وقد حقق نجاحًا كبيرًا؛ حيث تم بيع أكثر من 1.5 مليون وحدة منه. في الولايات المتحدة تم بيعه في البداية باسم ZX-81 بموجب ترخيص من Timex. أنتجت Timex لاحقًا إصداراتها الخاصة من ZX81: Timex Sinclair 1000 وTimex Sinclair 1500. وتم إنتاج نسخ غير مرخصة من ZX81 في عدة بلدان.
+
+صُممت ZX81 لتكون صغيرة وبسيطة وفوق كل ذلك غير مكلفة، مع أقل عدد ممكن من المكونات. يتم إخراج الفيديو إلى جهاز تلفاز بدلاً من شاشة مخصصة. يتم تحميل البرامج والبيانات وحفظها على أشرطة صوتية مدمجة. ويستخدم أربع شرائح سيليكون فقط وذاكرة بسعة 1 كيلوبايت فقط. لا يوجد مفتاح طاقة أو أي أجزاء متحركة باستثناء مفتاح اختيار قناة تلفزيونية ذات تردد عالٍ جداً موجود في بعض الطرازات. ويحتوي على لوحة مفاتيح غشائية حساسة للضغط. دفعت محدودية ZX81 إلى ظهور سوق في الأجهزة الطرفية الخارجية لتحسين قدراته. وقد جلبت غلافه المميز ولوحة المفاتيح المميزة للمصمم ريك ديكنسون جائزة مجلس التصميم.
+
+يمكن شراء ZX81 عن طريق طلب الشراء بالبريد مُجمَّعًا مسبقًا أو بسعر أقل في شكل مجموعة أدوات. وقد كان أول كمبيوتر منزلي رخيص الثمن يباع في المتاجر الكبرى وعلى رأسها W. H. Smith، وسرعان ما تم بيعه من قبل العديد من تجار التجزئة الآخرين. كان حاسوب ZX81 علامة على النقطة التي أصبحت فيها الحوسبة في بريطانيا نشاطًا لعامة الناس بدلاً من أن تكون حكرًا على رجال الأعمال وهواة الإلكترونيات. فقد أنتجت مجتمعاً ضخماً من المتحمسين، الذين أسس بعضهم شركاتهم الخاصة لإنتاج البرمجيات والأجهزة الخاصة بال ZX81. واستمر العديد منهم في لعب أدوار رئيسية في صناعة الكمبيوتر البريطانية. جعل النجاح التجاري الذي حققه جهاز ZX81 من شركة Sinclair Research إحدى الشركات الرائدة في بريطانيا في مجال تصنيع الحواسيب وحقق ثروة كبيرة وحصل مؤسس الشركة السير كلايف سينكلير على لقب فارس.</systemDescription>
+            <systemHardwareType>الحاسب الآلي</systemHardwareType>
+        </variables>
+    </language>
+    <language name="bs_BA">
+        <variables>
+            <systemDescription>The ZX81 is a home computer that was produced by Sinclair Research and manufactured in Dundee, Scotland, by Timex Corporation. It was launched in the United Kingdom in March 1981 as the successor to Sinclair's ZX80 and designed to be a low-cost introduction to home computing for the general public. It was hugely successful; more than 1.5 million units were sold. In the United States it was initially sold as the ZX-81 under licence by Timex. Timex later produced its own versions of the ZX81: the Timex Sinclair 1000 and Timex Sinclair 1500. Unauthorized ZX81 clones were produced in several countries.
+
+The ZX81 was designed to be small, simple, and above all, inexpensive, with as few components as possible. Video output is to a television set rather than a dedicated monitor. Programs and data are loaded and saved onto compact audio cassettes. It uses only four silicon chips and a mere 1 KB of memory. There is no power switch or any moving parts with the exception of a VHF TV channel selector switch present in some models. It has a pressure-sensitive membrane keyboard. The ZX81's limitations prompted a market in third-party peripherals to improve its capabilities. Its distinctive case and keyboard brought designer Rick Dickinson a Design Council award.
+
+The ZX81 could be bought by mail order preassembled or, for a lower price, in kit form. It was the first inexpensive mass-market home computer to be sold by high street stores, led by W. H. Smith and soon many other retailers. The ZX81 marked the point when computing in Britain became an activity for the general public rather than the preserve of businessmen and electronics hobbyists. It produced a huge community of enthusiasts, some of whom founded their own businesses producing software and hardware for the ZX81. Many went on to play major roles in the British computer industry. The ZX81's commercial success made Sinclair Research one of Britain's leading computer manufacturers and earned a fortune and an eventual knighthood for the company's founder Sir Clive Sinclair.</systemDescription>
+            <systemHardwareType>Computer</systemHardwareType>
+        </variables>
+    </language>
     <language name="ca_ES">
         <variables>
             <systemDescription>El ZX81 és un ordinador domèstic produït per Sinclair Research i fabricat a Dundee, Escòcia, per Timex Corporation. Va ser llançat al Regne Unit el març de 1981 com a successor de la ZX80 de Sinclair i dissenyat per ser una introducció de baix cost a la informàtica domèstica per al públic en general. Va tenir un gran èxit;Es van vendre més d’1,5 milions d’unitats. Als Estats Units es va vendre inicialment com a ZX-81 sota llicència per TIMEX. Timex va produir més tard les seves pròpies versions del ZX81: Timex Sinclair 1000 i Timex Sinclair 1500. Els clons ZX81 no autoritzats es van produir en diversos països.
@@ -59,6 +80,16 @@ Le ZX81 pouvait être acheté par correspondance préassemblé ou, pour un prix 
             <systemHardwareType>Ordinateur</systemHardwareType>
         </variables>
     </language>
+    <language name="hr_HR">
+        <variables>
+            <systemDescription>The ZX81 is a home computer that was produced by Sinclair Research and manufactured in Dundee, Scotland, by Timex Corporation. It was launched in the United Kingdom in March 1981 as the successor to Sinclair's ZX80 and designed to be a low-cost introduction to home computing for the general public. It was hugely successful; more than 1.5 million units were sold. In the United States it was initially sold as the ZX-81 under licence by Timex. Timex later produced its own versions of the ZX81: the Timex Sinclair 1000 and Timex Sinclair 1500. Unauthorized ZX81 clones were produced in several countries.
+
+The ZX81 was designed to be small, simple, and above all, inexpensive, with as few components as possible. Video output is to a television set rather than a dedicated monitor. Programs and data are loaded and saved onto compact audio cassettes. It uses only four silicon chips and a mere 1 KB of memory. There is no power switch or any moving parts with the exception of a VHF TV channel selector switch present in some models. It has a pressure-sensitive membrane keyboard. The ZX81's limitations prompted a market in third-party peripherals to improve its capabilities. Its distinctive case and keyboard brought designer Rick Dickinson a Design Council award.
+
+The ZX81 could be bought by mail order preassembled or, for a lower price, in kit form. It was the first inexpensive mass-market home computer to be sold by high street stores, led by W. H. Smith and soon many other retailers. The ZX81 marked the point when computing in Britain became an activity for the general public rather than the preserve of businessmen and electronics hobbyists. It produced a huge community of enthusiasts, some of whom founded their own businesses producing software and hardware for the ZX81. Many went on to play major roles in the British computer industry. The ZX81's commercial success made Sinclair Research one of Britain's leading computer manufacturers and earned a fortune and an eventual knighthood for the company's founder Sir Clive Sinclair.</systemDescription>
+            <systemHardwareType>Computer</systemHardwareType>
+        </variables>
+    </language>
     <language name="it_IT">
         <variables>
             <systemDescription>Lo ZX81 è un home computer prodotto da Sinclair Research e fabbricato a Dundee, in Scozia, da Timex Corporation. Fu lanciato nel Regno Unito nel marzo 1981 come successore dello ZX80 di Sinclair e progettato per essere un'introduzione a basso costo all'home computing per il grande pubblico. Il successo fu enorme: ne furono vendute più di 1,5 milioni di unità. Negli Stati Uniti fu inizialmente venduto come ZX-81 su licenza di Timex. In seguito Timex produsse le proprie versioni dello ZX81: il Timex Sinclair 1000 e il Timex Sinclair 1500. In diversi paesi furono prodotti cloni non autorizzati dello ZX81.
@@ -67,6 +98,26 @@ Lo ZX81 fu progettato per essere piccolo, semplice e soprattutto economico, con 
 
 Lo ZX81 poteva essere acquistato per corrispondenza già assemblato o, a un prezzo inferiore, in kit. Fu il primo home computer economico di massa a essere venduto nei negozi di strada, guidati da W. H. Smith e presto da molti altri rivenditori. Lo ZX81 segnò il momento in cui l'informatica in Gran Bretagna divenne un'attività per il grande pubblico, anziché essere appannaggio di uomini d'affari e hobbisti dell'elettronica. Si creò un'enorme comunità di appassionati, alcuni dei quali fondarono le proprie aziende producendo software e hardware per lo ZX81. Molti di loro hanno poi ricoperto ruoli importanti nell'industria informatica britannica. Il successo commerciale dello ZX81 rese Sinclair Research uno dei principali produttori di computer della Gran Bretagna e fece guadagnare una fortuna e un cavalierato al fondatore dell'azienda, Sir Clive Sinclair.</systemDescription>
             <systemHardwareType>Computer</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ja_JP">
+        <variables>
+            <systemDescription>ZX81は、シンクレア・リサーチ社が製造し、タイメックス社がスコットランドのダンディーで製造した家庭用コンピュータである。1981年3月、シンクレアのZX80の後継機として英国で発売され、一般消費者向けの低価格なホームコンピューティング入門機として設計された。大成功を収め、150万台以上が販売された。米国では当初、タイメックスのライセンスによりZX-81として販売された。その後、タイメックスはZX81の独自バージョンであるTimex Sinclair 1000とTimex Sinclair 1500を製造した。いくつかの国でZX81のクローンが製造された。
+
+ZX81は、小型でシンプル、そして何よりも安価で、部品点数をできるだけ少なくするように設計された。ビデオ出力は専用モニターではなくテレビに接続する。プログラムとデータはコンパクト・オーディオ・カセットにロードして保存する。使用するシリコンチップは4つだけで、メモリはわずか1KB。電源スイッチや可動部品はなく、一部のモデルにあるVHFテレビ・チャンネル・セレクタ・スイッチを除いては、何もない。キーボードは感圧式のメンブレン式である。ZX81の限界は、その機能を向上させるためにサードパーティの周辺機器市場を促した。その特徴的なケースとキーボードは、デザイナーのリック・ディッキンソンにデザイン・カウンシル賞をもたらした。
+
+ZX81は通信販売で組み立てた状態で購入できたが、低価格のキット形式でも購入できた。ZX81は、W.H.スミスを筆頭とするハイストリートストアが販売した最初の安価な大衆向け家庭用コンピュータであり、やがて他の多くの小売店でも販売されるようになった。ZX81は、英国でコンピュータがビジネスマンや電子工学の趣味愛好家だけのものでなく、一般大衆の活動として定着するきっかけとなった。ZX81は巨大な熱狂的ファンを生み出し、その中にはZX81用のソフトウェアやハードウェアを製造するビジネスを立ち上げた者もいた。その多くは、英国のコンピューター産業で大きな役割を果たすようになった。ZX81の商業的成功により、シンクレア・リサーチは英国を代表するコンピューター・メーカーのひとつとなり、巨万の富を築き、創業者のクライヴ・シンクレア卿は爵位を授与された。</systemDescription>
+            <systemHardwareType>コンピューター</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ko_KR">
+        <variables>
+            <systemDescription>ZX81은 싱클레어 리서치에서 생산하고 스코틀랜드 던디에 있는 티멕스 코퍼레이션에서 제조한 가정용 컴퓨터입니다. 1981년 3월 영국에서 Sinclair의 ZX80의 후속 제품으로 출시되었으며, 일반 대중을 위한 저렴한 가정용 컴퓨터 입문용으로 설계되었습니다. 이 제품은 150만 대 이상 판매되며 큰 성공을 거두었습니다. 미국에서는 처음에는 Timex의 라이선스를 받아 ZX-81이라는 이름으로 판매되었습니다. 이후 Timex는 자체적으로 ZX81 버전인 Timex Sinclair 1000과 Timex Sinclair 1500을 생산했습니다. 여러 국가에서 승인되지 않은 ZX81 복제품이 생산되었습니다.
+
+ZX81은 가능한 한 적은 수의 부품으로 작고 단순하며 무엇보다도 저렴하게 설계되었습니다. 비디오 출력은 전용 모니터가 아닌 텔레비전 세트에 연결됩니다. 프로그램과 데이터는 소형 오디오 카세트에 로드 및 저장됩니다. 4개의 실리콘 칩과 단 1KB의 메모리만 사용합니다. 일부 모델에 있는 VHF TV 채널 선택 스위치를 제외하고는 전원 스위치나 움직이는 부품이 없습니다. 감압식 멤브레인 키보드가 있습니다. ZX81의 한계로 인해 타사 주변기기 시장에서 기능을 개선한 제품이 출시되었습니다. 독특한 케이스와 키보드로 디자이너 릭 디킨슨은 디자인 위원회에서 상을 받았습니다.
+
+ZX81은 사전 조립된 상태로 우편 주문하거나 더 저렴한 가격으로 키트 형태로 구입할 수 있었습니다. 이 제품은 W. H. Smith를 필두로 곧 다른 많은 소매업체에서 판매하기 시작한 최초의 저렴한 대중 시장 가정용 컴퓨터였습니다. ZX81은 영국에서 컴퓨터가 사업가나 전자제품 애호가들의 전유물이 아닌 일반 대중을 위한 활동이 된 시점이었습니다. 이 제품은 거대한 매니아 커뮤니티를 형성했고, 그 중 일부는 ZX81용 소프트웨어와 하드웨어를 생산하는 회사를 설립했습니다. 많은 사람들이 영국 컴퓨터 산업에서 중요한 역할을 맡게 되었습니다. ZX81의 상업적 성공으로 Sinclair Research는 영국을 대표하는 컴퓨터 제조업체 중 하나가 되었고, 회사 설립자인 클라이브 싱클레어 경은 많은 부를 얻었으며 결국 기사 작위를 받았습니다.</systemDescription>
+            <systemHardwareType>컴퓨터</systemHardwareType>
         </variables>
     </language>
     <language name="nl_NL">
@@ -99,6 +150,16 @@ O ZX81 podia ser comprado por correio, pré-montado ou, por um preço menor, em 
             <systemHardwareType>Computador</systemHardwareType>
         </variables>
     </language>
+    <language name="pt_PT">
+        <variables>
+            <systemDescription>The ZX81 is a home computer that was produced by Sinclair Research and manufactured in Dundee, Scotland, by Timex Corporation. It was launched in the United Kingdom in March 1981 as the successor to Sinclair's ZX80 and designed to be a low-cost introduction to home computing for the general public. It was hugely successful; more than 1.5 million units were sold. In the United States it was initially sold as the ZX-81 under licence by Timex. Timex later produced its own versions of the ZX81: the Timex Sinclair 1000 and Timex Sinclair 1500. Unauthorized ZX81 clones were produced in several countries.
+
+The ZX81 was designed to be small, simple, and above all, inexpensive, with as few components as possible. Video output is to a television set rather than a dedicated monitor. Programs and data are loaded and saved onto compact audio cassettes. It uses only four silicon chips and a mere 1 KB of memory. There is no power switch or any moving parts with the exception of a VHF TV channel selector switch present in some models. It has a pressure-sensitive membrane keyboard. The ZX81's limitations prompted a market in third-party peripherals to improve its capabilities. Its distinctive case and keyboard brought designer Rick Dickinson a Design Council award.
+
+The ZX81 could be bought by mail order preassembled or, for a lower price, in kit form. It was the first inexpensive mass-market home computer to be sold by high street stores, led by W. H. Smith and soon many other retailers. The ZX81 marked the point when computing in Britain became an activity for the general public rather than the preserve of businessmen and electronics hobbyists. It produced a huge community of enthusiasts, some of whom founded their own businesses producing software and hardware for the ZX81. Many went on to play major roles in the British computer industry. The ZX81's commercial success made Sinclair Research one of Britain's leading computer manufacturers and earned a fortune and an eventual knighthood for the company's founder Sir Clive Sinclair.</systemDescription>
+            <systemHardwareType>Computer</systemHardwareType>
+        </variables>
+    </language>
     <language name="ro_RO">
         <variables>
             <systemDescription>ZX81 este un computer de casă produs de Sinclair Research și fabricat în Dundee, Scoția, de Timex Corporation. Acesta a fost lansat în Regatul Unit în martie 1981 ca succesor al lui Sinclair ZX80 și a fost conceput pentru a fi o introducere la un cost redus la calculatoarele de acasă pentru publicul larg. A avut un succes enorm; au fost vândute mai mult de 1,5 milioane de unități. În Statele Unite a fost vândut inițial ca ZX-81 sub licență Timex. Timex a produs ulterior propriile sale versiuni ale ZX81: Timex Sinclair 1000 și Timex Sinclair 1500. Clone neautorizate ale ZX81 au fost produse în mai multe țări.
@@ -119,6 +180,16 @@ ZX81 можно было купить по почте в собранном ви
             <systemHardwareType>Компьютер</systemHardwareType>
         </variables>
     </language>
+    <language name="sr_RS">
+        <variables>
+            <systemDescription>The ZX81 is a home computer that was produced by Sinclair Research and manufactured in Dundee, Scotland, by Timex Corporation. It was launched in the United Kingdom in March 1981 as the successor to Sinclair's ZX80 and designed to be a low-cost introduction to home computing for the general public. It was hugely successful; more than 1.5 million units were sold. In the United States it was initially sold as the ZX-81 under licence by Timex. Timex later produced its own versions of the ZX81: the Timex Sinclair 1000 and Timex Sinclair 1500. Unauthorized ZX81 clones were produced in several countries.
+
+The ZX81 was designed to be small, simple, and above all, inexpensive, with as few components as possible. Video output is to a television set rather than a dedicated monitor. Programs and data are loaded and saved onto compact audio cassettes. It uses only four silicon chips and a mere 1 KB of memory. There is no power switch or any moving parts with the exception of a VHF TV channel selector switch present in some models. It has a pressure-sensitive membrane keyboard. The ZX81's limitations prompted a market in third-party peripherals to improve its capabilities. Its distinctive case and keyboard brought designer Rick Dickinson a Design Council award.
+
+The ZX81 could be bought by mail order preassembled or, for a lower price, in kit form. It was the first inexpensive mass-market home computer to be sold by high street stores, led by W. H. Smith and soon many other retailers. The ZX81 marked the point when computing in Britain became an activity for the general public rather than the preserve of businessmen and electronics hobbyists. It produced a huge community of enthusiasts, some of whom founded their own businesses producing software and hardware for the ZX81. Many went on to play major roles in the British computer industry. The ZX81's commercial success made Sinclair Research one of Britain's leading computer manufacturers and earned a fortune and an eventual knighthood for the company's founder Sir Clive Sinclair.</systemDescription>
+            <systemHardwareType>Computer</systemHardwareType>
+        </variables>
+    </language>
     <language name="sv_SE">
         <variables>
             <systemDescription>ZX81 är en hemdator som producerades av Sinclair Research och tillverkades i Dundee, Skottland, av Timex Corporation. Den lanserades i Storbritannien i mars 1981 som efterföljare till Sinclairs ZX80 och var utformad för att vara en billig introduktion till hemdatorer för den breda allmänheten. Den blev en stor framgång; mer än 1,5 miljoner enheter såldes. I USA såldes den ursprungligen som ZX-81 under licens av Timex. Timex tillverkade senare sina egna versioner av ZX81: Timex Sinclair 1000 och Timex Sinclair 1500. Oauktoriserade ZX81-kloner tillverkades i flera länder.
@@ -129,26 +200,6 @@ ZX81 kunde köpas via postorder färdigmonterad eller, till ett lägre pris, i b
             <systemHardwareType>Dator</systemHardwareType>
         </variables>
     </language>
-    <language name="ja_JP">
-        <variables>
-            <systemDescription>ZX81は、シンクレア・リサーチ社が製造し、タイメックス社がスコットランドのダンディーで製造した家庭用コンピュータである。1981年3月、シンクレアのZX80の後継機として英国で発売され、一般消費者向けの低価格なホームコンピューティング入門機として設計された。大成功を収め、150万台以上が販売された。米国では当初、タイメックスのライセンスによりZX-81として販売された。その後、タイメックスはZX81の独自バージョンであるTimex Sinclair 1000とTimex Sinclair 1500を製造した。いくつかの国でZX81のクローンが製造された。
-
-ZX81は、小型でシンプル、そして何よりも安価で、部品点数をできるだけ少なくするように設計された。ビデオ出力は専用モニターではなくテレビに接続する。プログラムとデータはコンパクト・オーディオ・カセットにロードして保存する。使用するシリコンチップは4つだけで、メモリはわずか1KB。電源スイッチや可動部品はなく、一部のモデルにあるVHFテレビ・チャンネル・セレクタ・スイッチを除いては、何もない。キーボードは感圧式のメンブレン式である。ZX81の限界は、その機能を向上させるためにサードパーティの周辺機器市場を促した。その特徴的なケースとキーボードは、デザイナーのリック・ディッキンソンにデザイン・カウンシル賞をもたらした。
-
-ZX81は通信販売で組み立てた状態で購入できたが、低価格のキット形式でも購入できた。ZX81は、W.H.スミスを筆頭とするハイストリートストアが販売した最初の安価な大衆向け家庭用コンピュータであり、やがて他の多くの小売店でも販売されるようになった。ZX81は、英国でコンピュータがビジネスマンや電子工学の趣味愛好家だけのものでなく、一般大衆の活動として定着するきっかけとなった。ZX81は巨大な熱狂的ファンを生み出し、その中にはZX81用のソフトウェアやハードウェアを製造するビジネスを立ち上げた者もいた。その多くは、英国のコンピューター産業で大きな役割を果たすようになった。ZX81の商業的成功により、シンクレア・リサーチは英国を代表するコンピューター・メーカーのひとつとなり、巨万の富を築き、創業者のクライヴ・シンクレア卿は爵位を授与された。</systemDescription>
-            <systemHardwareType>コンピューター</systemHardwareType>
-        </variables>
-    </language>
-    <language name="ko_KR">
-        <variables>
-            <systemDescription>ZX81은 싱클레어 리서치에서 생산하고 스코틀랜드 던디에 있는 티멕스 코퍼레이션에서 제조한 가정용 컴퓨터입니다. 1981년 3월 영국에서 Sinclair의 ZX80의 후속 제품으로 출시되었으며, 일반 대중을 위한 저렴한 가정용 컴퓨터 입문용으로 설계되었습니다. 이 제품은 150만 대 이상 판매되며 큰 성공을 거두었습니다. 미국에서는 처음에는 Timex의 라이선스를 받아 ZX-81이라는 이름으로 판매되었습니다. 이후 Timex는 자체적으로 ZX81 버전인 Timex Sinclair 1000과 Timex Sinclair 1500을 생산했습니다. 여러 국가에서 승인되지 않은 ZX81 복제품이 생산되었습니다.
-
-ZX81은 가능한 한 적은 수의 부품으로 작고 단순하며 무엇보다도 저렴하게 설계되었습니다. 비디오 출력은 전용 모니터가 아닌 텔레비전 세트에 연결됩니다. 프로그램과 데이터는 소형 오디오 카세트에 로드 및 저장됩니다. 4개의 실리콘 칩과 단 1KB의 메모리만 사용합니다. 일부 모델에 있는 VHF TV 채널 선택 스위치를 제외하고는 전원 스위치나 움직이는 부품이 없습니다. 감압식 멤브레인 키보드가 있습니다. ZX81의 한계로 인해 타사 주변기기 시장에서 기능을 개선한 제품이 출시되었습니다. 독특한 케이스와 키보드로 디자이너 릭 디킨슨은 디자인 위원회에서 상을 받았습니다.
-
-ZX81은 사전 조립된 상태로 우편 주문하거나 더 저렴한 가격으로 키트 형태로 구입할 수 있었습니다. 이 제품은 W. H. Smith를 필두로 곧 다른 많은 소매업체에서 판매하기 시작한 최초의 저렴한 대중 시장 가정용 컴퓨터였습니다. ZX81은 영국에서 컴퓨터가 사업가나 전자제품 애호가들의 전유물이 아닌 일반 대중을 위한 활동이 된 시점이었습니다. 이 제품은 거대한 매니아 커뮤니티를 형성했고, 그 중 일부는 ZX81용 소프트웨어와 하드웨어를 생산하는 회사를 설립했습니다. 많은 사람들이 영국 컴퓨터 산업에서 중요한 역할을 맡게 되었습니다. ZX81의 상업적 성공으로 Sinclair Research는 영국을 대표하는 컴퓨터 제조업체 중 하나가 되었고, 회사 설립자인 클라이브 싱클레어 경은 많은 부를 얻었으며 결국 기사 작위를 받았습니다.</systemDescription>
-            <systemHardwareType>컴퓨터</systemHardwareType>
-        </variables>
-    </language>
     <language name="zh_CN">
         <variables>
             <systemDescription>ZX81 是一款家用电脑，由辛克莱研究公司生产，Timex 公司在苏格兰邓迪制造。它于 1981 年 3 月在英国推出，是辛克莱 ZX80 的后继机，旨在以低成本向普通大众介绍家用电脑。该产品大获成功，销量超过 150 万台。在美国，它最初是作为 ZX-81 由 Timex 许可销售的。天美时后来生产了自己的 ZX81 版本：天美时 Sinclair 1000 和天美时 Sinclair 1500。一些国家生产了未经授权的 ZX81 克隆版。
@@ -157,6 +208,16 @@ ZX81 设计小巧、简单，最重要的是价格低廉，使用的组件越少
 
 ZX81 可以通过邮购预先组装好，或者以较低的价格以套件形式购买。ZX81 是第一款由 W. H. Smith 和许多其他零售商主导的高街商店销售的廉价大众市场家用电脑。ZX81 标志着在英国，计算机已不再是商人和电子爱好者的专利，而成为一项大众活动。它造就了一个庞大的发烧友群体，其中一些人创办了自己的企业，为 ZX81 生产软件和硬件。许多人后来在英国计算机行业发挥了重要作用。ZX81 在商业上的成功使辛克莱研究公司成为英国领先的计算机制造商之一，并为公司创始人克莱夫-辛克莱爵士（Sir Clive Sinclair）赢得了一大笔财富和最终的爵士称号。</systemDescription>
             <systemHardwareType>计算机</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>ZX81 是一款家用電腦，由 Sinclair Research 製造，並由 Timex Corporation 在蘇格蘭 Dundee 生產。它於 1981 年 3 月在英國推出，是 Sinclair ZX80 的後繼機種，旨在以低成本向一般大眾介紹家用電腦。它大獲成功；銷售量超過 150 萬台。在美國，它最初以 ZX-81 的名義由 Timex 授權銷售。Timex 後來生產了自己的 ZX81 版本：Timex Sinclair 1000 和 Timex Sinclair 1500。一些國家生產了未經授權的 ZX81 克隆版。
+
+ZX81 在設計上力求小巧、簡單，最重要的是價格低廉，使用的元件越少越好。視訊輸出至電視機，而非專用的螢幕。程式和資料會載入並儲存到小型音訊卡帶中。它只使用四顆矽晶片和僅 1 KB 的記憶體。除了某些型號的 VHF 電視頻道選擇開關之外，它沒有電源開關或任何移動零件。它有一個壓力感應薄膜鍵盤。ZX81 的限制促使第三方外圍設備市場來改善它的功能。其獨特的外殼和鍵盤為設計師 Rick Dickinson 帶來了設計委員會獎。
+
+ZX81 可以通過郵購預先組裝好，或者以更低的價格以套件形式購買。它是第一台在高街商店銷售的廉價大眾市場家用電腦，以 W. H. Smith 為首，很快就有許多其他零售商銷售。ZX81 標誌著電腦在英國開始成為一般大眾的活動，而不再是商人和電子愛好者的專利。它造就了一個龐大的電腦愛好者社群，其中有些人成立了自己的公司，為 ZX81 製作軟體和硬體。許多人在英國電腦產業中扮演重要角色。ZX81 在商業上的成功使 Sinclair Research 成為英國領先的電腦製造商之一，並為公司創始人 Clive Sinclair 爵士贏得了一大筆財富和最終的爵士銜。</systemDescription>
+            <systemHardwareType>電腦</systemHardwareType>
         </variables>
     </language>
 </theme>

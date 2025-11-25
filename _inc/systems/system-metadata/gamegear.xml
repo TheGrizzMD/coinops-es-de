@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>Game Gear</systemName>
         <systemDescription>The Game Gear is an 8-bit fourth generation handheld game console released by Sega on October 6, 1990 in Japan, in April 1991 throughout North America and Europe, and during 1992 in Australia. The Game Gear primarily competed with Nintendo's Game Boy, the Atari Lynx, and NEC's TurboExpress. It shares much of its hardware with the Master System, and can play Master System games by the use of an adapter. Sega positioned the Game Gear, which had a full-color backlit screen with a landscape format, as a technologically superior handheld to the Game Boy.
@@ -10,13 +10,30 @@ Though the Game Gear was rushed to market, its unique game library and price poi
         <systemReleaseDateFormated>October 6, 1990</systemReleaseDateFormated>
         <systemHardwareType>Portable</systemHardwareType>
         <systemCoverSize>3-4</systemCoverSize>
-        <systemColor>356FAF</systemColor>
+        <systemCoverSizeType>portrait</systemCoverSizeType>
+        <systemColor>306db2</systemColor>
         <systemColorPalette1>CCCBCB</systemColorPalette1>
         <systemColorPalette2>D41808</systemColorPalette2>
         <systemColorPalette3>008200</systemColorPalette3>
         <systemColorPalette4>0000FE</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>جهاز جيم جير هو جهاز ألعاب محمول باليد من الجيل الرابع 8 بت من الجيل الرابع أصدرته سيجا في 6 أكتوبر 1990 في اليابان، وفي أبريل 1991 في جميع أنحاء أمريكا الشمالية وأوروبا، وخلال عام 1992 في أستراليا. تنافس جهاز Game Gear في المقام الأول مع Game Boy من نينتندو وAtari Lynx وTurboExpress من NEC. وهو يشترك في الكثير من أجهزته مع نظام Master System، ويمكنه تشغيل ألعاب Master System باستخدام محول. وقد وضعت سيجا جهاز Game Gear، الذي كان يحتوي على شاشة بإضاءة خلفية كاملة الألوان بتنسيق أفقي، كجهاز محمول متفوق تقنياً على جهاز Game Boy.
+
+وعلى الرغم من أن جهاز Game Gear تم طرحه في السوق على عجل، إلا أن مكتبة الألعاب الفريدة من نوعها ونقطة السعر التي كان يتمتع بها منحته ميزة على جهاز أتاري لينكس وتيربو إكسبريس. ومع ذلك، وبسبب قصر عمر بطاريته ونقص الألعاب الأصلية وضعف الدعم المقدم من Sega، لم يتمكن Game Gear من تجاوز Game Boy، حيث تم بيع 10.62 مليون وحدة بحلول مارس 1996. تم إيقاف Game Gear في 30 أبريل 1997. وأعيد إصداره كنظام اقتصادي من قبل شركة Majesco Entertainment في عام 2000، بترخيص من Sega.</systemDescription>
+            <systemHardwareType>محمول</systemHardwareType>
+        </variables>
+    </language>
+    <language name="bs_BA">
+        <variables>
+            <systemDescription>Game Gear je 8-bitna četvrta generacija ručna igra koja je objavila Sega 6. oktobra 1990. godine u Japanu, u aprilu 1991. godine širom Severne Amerike i Evrope, a tokom 1992. u Australiji. Game se prije svega natjecao s Nintendovom dječakom igrama, atari Lynx i NEC-ov turboexpress. Dijeli velik dio svog hardvera sa master sistemom i može igrati master sistemske igre pomoću adaptera. Sega je postavljala prijenosnika za igru koja je imala ekran sa punim bojama sa pejzažnim formatom, kao tehnološki superiorniji ručni za igru.
+
+Iako je igarna oprema pojurila na tržište, njena jedinstvena biblioteka igara i cijeni dali su mu ivicu nad Atari Lynx i Turboexpress. Međutim, zbog kratkog vijeka baterije, nedostatak originalnih igara i slabe podrške, prijenosnik igara nije mogao nadmašiti dječaka za igru, prodaje 10,62 milijuna jedinica do marta 1997. godine. Ponovo je objavio kao budžetski sustav Majesco-a u 2000. godini, pod licencom iz Sega.</systemDescription>
+            <systemHardwareType>Prenosiv</systemHardwareType>
+        </variables>
+    </language>
     <language name="ca_ES">
         <variables>
             <systemDescription>El Game Gear és una consola de joc de quarta generació de 8 bits que es va publicar per Sega el 6 d'octubre de 1990 al Japó, a l'abril de 1991 a tot Amèrica del Nord i Europa i durant el 1992 a Austràlia. L’equip de joc va competir principalment amb el joc de Nintendo, l’Atari Lynx i el Turboexpress de NEC. Comparteix gran part del seu maquinari amb el sistema mestre i pot jugar a jocs de sistemes mestres mitjançant l’ús d’un adaptador. Sega va situar l’engranatge del joc, que tenia una pantalla retroil·luminada a tot color amb format paisatgístic, com a mà de mà tecnològicament superior al Game Boy.
@@ -49,12 +66,36 @@ Bien que la Game Gear ait été mise sur le marché en toute hâte, sa biblioth�
             <systemHardwareType>Portable</systemHardwareType>
         </variables>
     </language>
+    <language name="hr_HR">
+        <variables>
+            <systemDescription>Game Gear je 8-bitna ručna konzola za igru četvrte generacije koju je SEGA objavila 6. listopada 1990. u Japanu, u travnju 1991. u cijeloj Sjevernoj Americi i Europi, a tijekom 1992. u Australiji. Gear Gear prvenstveno se natjecao s Nintendovim igrama, Atari Lynx i NEC -ovim Turboexpressom. Veliki dio svog hardvera dijeli s glavnim sustavom i može igrati matične sistemske igre pomoću adaptera. Sega je postavila Gear za igru, koji je imao zaslon s osvjetljenjem u cijeloj boji s pejzažnim formatom, kao tehnološki superiorni ručni ručni igrač.
+
+Iako je igračka oprema požurila na tržište, njegova jedinstvena biblioteka igara i Price Point dali su prednost nad Atari Lynxom i Turboexpressom. Međutim, zbog kratkog trajanja baterije, nedostatka originalnih igara i slabe podrške SEGA-e, igračka oprema nije bila u mogućnosti nadmašiti Game Boy, prodajući 10,62 milijuna jedinica do ožujka 1996. godine. Gear Game je ukinut 30. travnja 1997. godine. Ponovno je objavljen kao proračunski sustav od strane Majesco Entertainment u 2000. godini, pod licencom.</systemDescription>
+            <systemHardwareType>Prenosiv</systemHardwareType>
+        </variables>
+    </language>
     <language name="it_IT">
         <variables>
             <systemDescription>Il Game Gear è una console portatile a 8 bit di quarta generazione, rilasciata da Sega il 6 ottobre 1990 in Giappone, nell'aprile 1991 in Nord America e in Europa e nel 1992 in Australia. Il Game Gear competeva principalmente con il Game Boy di Nintendo, l'Atari Lynx e il TurboExpress di NEC. Condivide gran parte dell'hardware con il Master System e può giocare ai giochi del Master System utilizzando un adattatore. Sega ha posizionato il Game Gear, che aveva uno schermo retroilluminato a colori e un formato orizzontale, come una console portatile tecnologicamente superiore al Game Boy.
 
 Sebbene il Game Gear sia stato lanciato sul mercato in fretta e furia, la sua libreria di giochi unica e il suo prezzo gli hanno permesso di avere un vantaggio rispetto all'Atari Lynx e al TurboExpress. Tuttavia, a causa della breve durata della batteria, della mancanza di giochi originali e del debole supporto di Sega, il Game Gear non riuscì a superare il Game Boy, vendendo 10,62 milioni di unità nel marzo 1996. Il Game Gear fu dismesso il 30 aprile 1997. È stato ripresentato come sistema economico da Majesco Entertainment nel 2000, su licenza di Sega.</systemDescription>
             <systemHardwareType>Portatile</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ja_JP">
+        <variables>
+            <systemDescription>ゲームギアは、セガが1990年10月6日に日本で、1991年4月に北米とヨーロッパで、1992年中にオーストラリアで発売した8ビットの第4世代携帯ゲーム機である。ゲームギアは主に任天堂のゲームボーイ、アタリリンクス、NECのターボエクスプレスと競合した。ハードウェアの多くをマスターシステムと共有しており、アダプターを使用することでマスターシステムのゲームをプレイすることができる。セガは、横長フォーマットのフルカラーバックライトスクリーンを持つゲームギアを、ゲームボーイよりも技術的に優れた携帯ゲーム機と位置づけた。
+
+ゲームギアは市場投入を急いだが、そのユニークなゲームライブラリと価格帯により、アタリリンクスやターボエクスプレスよりも優位に立った。しかし、バッテリー駆動時間の短さ、オリジナルゲームの少なさ、セガのサポートの弱さなどから、ゲームギアはゲームボーイを超えることはできず、1996年3月までに1,062万台を販売した。ゲームギアは1997年4月30日に生産終了。2000年にマジェスコ・エンタテインメントがセガからのライセンスを受けて格安システムとして再リリースした。</systemDescription>
+            <systemHardwareType>ポータブル</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ko_KR">
+        <variables>
+            <systemDescription>게임 기어는 1990년 10월 6일 일본, 1991년 4월 북미와 유럽, 1992년 호주에서 세가가 출시한 8비트 4세대 휴대용 게임 콘솔입니다. 게임 기어는 주로 닌텐도의 게임보이, 아타리 링스, NEC의 터보익스프레스와 경쟁했습니다. 하드웨어의 상당 부분을 마스터 시스템과 공유하며 어댑터를 사용하여 마스터 시스템 게임을 플레이할 수 있습니다. 세가는 가로 형식의 풀컬러 백라이트 스크린을 갖춘 게임 기어가 게임보이보다 기술적으로 우월한 핸드헬드라고 포지셔닝했습니다.
+
+게임 기어는 서둘러 출시되었지만, 독특한 게임 라이브러리와 가격대로 아타리 링스와 터보익스프레스에 비해 우위를 점했습니다. 하지만 짧은 배터리 수명, 오리지널 게임의 부족, 세가의 미약한 지원으로 인해 Game Gear는 1996년 3월까지 1,062만 대가 판매되는 데 그치며 Game Boy를 뛰어넘지 못했습니다. 게임 기어는 1997년 4월 30일에 단종되었습니다. 2000년에 Majesco Entertainment가 세가의 라이선스를 받아 저예산 시스템으로 재출시했습니다.</systemDescription>
+            <systemHardwareType>휴대성</systemHardwareType>
         </variables>
     </language>
     <language name="nl_NL">
@@ -81,6 +122,14 @@ Embora o Game Gear tenha sido lançado às pressas no mercado, sua biblioteca de
             <systemHardwareType>Portátil</systemHardwareType>
         </variables>
     </language>
+    <language name="pt_PT">
+        <variables>
+            <systemDescription>O Game Gear é um console de jogos portátil de 8 bits de quarta geração lançado pela Sega em 6 de outubro de 1990 no Japão, em abril de 1991, na América do Norte e na Europa e em 1992 na Austrália. O jogo de jogos competiu principalmente com o Game Boy da Nintendo, o Atari Lynx e o TurboExpress da NEC. Ele compartilha grande parte de seu hardware com o sistema mestre e pode jogar jogos de sistema mestre pelo uso de um adaptador. A SEGA posicionou o jogo do jogo, que tinha uma tela de retroilumínio em cores com um formato de paisagem, como um computador de mão tecnologicamente superior ao Game Boy.
+
+Embora o equipamento do jogo tenha sido levado ao mercado, sua biblioteca de jogos e preço exclusivos deram uma vantagem sobre o Atari Lynx e o TurboExpress. No entanto, devido à sua curta duração da bateria, falta de jogos originais e apoio fraco da SEGA, o equipamento do jogo não conseguiu superar o Game Boy, vendendo 10,62 milhões de unidades até março de 1996. O equipamento do jogo foi descontinuado em 30 de abril de 1997. Foi relançado como um sistema orçamentário pela Majesco Entertainment em 2000, sob licença de Sega.</systemDescription>
+            <systemHardwareType>Portátil</systemHardwareType>
+        </variables>
+    </language>
     <language name="ro_RO">
         <variables>
             <systemDescription>Game Gear este o consolă de jocuri portabilă pe 8 biți din a patra generație, lansată de Sega pe 6 octombrie 1990 în Japonia, în aprilie 1991 în America de Nord și Europa, și în 1992 în Australia. Game Gear a concurat în principal cu Game Boy de la Nintendo, Atari Lynx și TurboExpress de la NEC. Acesta împarte o mare parte din hardware-ul său cu Master System și poate reda jocuri Master System prin utilizarea unui adaptor. Sega a poziționat Game Gear, care avea un ecran retroiluminat în culori și un format orizontal, ca un dispozitiv portabil superior din punct de vedere tehnologic față de Game Boy.
@@ -97,6 +146,14 @@ Deși Game Gear a fost lansat pe piață în grabă, biblioteca sa unică de joc
             <systemHardwareType>Портативный</systemHardwareType>
         </variables>
     </language>
+    <language name="sr_RS">
+        <variables>
+            <systemDescription>Гаме Геар је 8-битна ручна конзола игара у Четврти генерацији коју је у Јапану 1990. објавио Сега, у Јапану 1990. године у Априлу 1991. године широм Северне Америке и Европе и током 1992. године у Аустралији.Геарба пренос пре свега се такмичила са Нинтендовом игарном дечком, Атари Линк и НеЦ-овом турбоекпресс-ом.Дели много свог хардвера са мастер системом и може да репродукује мастер системске игре коришћењем адаптера.Сега је поставила брзину игре која је имала екран за поврат у боји са пејзажним форматом, као технолошки супериорни ручно игру дечаку.
+
+Иако је опрема за игру појурена на тржиште, његова јединствена библиотека имена и цена је дала је ивицу преко Атари Линк и ТурбоЕкпресс-а.Међутим, због кратких трајања батерије, недостатак оригиналних игара и слаба подршка Сеги, утакмица игрица није могла да надмаши игру, продаје 10,62 милиона јединица, продаје се 10.62 милиона јединица, прекинута је 30. априла 1997. године. Поново је објављен као буџетски систем Мајесцо Ентертаинмент у 2000. години.</systemDescription>
+            <systemHardwareType>Преносив</systemHardwareType>
+        </variables>
+    </language>
     <language name="sv_SE">
         <variables>
             <systemDescription>Game Gear är en 8-bitars handhållen spelkonsol av fjärde generationen som släpptes av Sega den 6 oktober 1990 i Japan, i april 1991 i Nordamerika och Europa och under 1992 i Australien. Game Gear konkurrerade främst med Nintendos Game Boy, Atari Lynx och NEC:s TurboExpress. Den delar mycket av sin hårdvara med Master System och kan spela Master System-spel med hjälp av en adapter. Sega positionerade Game Gear, som hade en bakgrundsbelyst fullfärgsskärm i liggande format, som en tekniskt överlägsen handdator jämfört med Game Boy.
@@ -105,28 +162,20 @@ Deși Game Gear a fost lansat pe piață în grabă, biblioteca sa unică de joc
             <systemHardwareType>Bärbar</systemHardwareType>
         </variables>
     </language>
-    <language name="ja_JP">
-        <variables>
-            <systemDescription>ゲームギアは、セガが1990年10月6日に日本で、1991年4月に北米とヨーロッパで、1992年中にオーストラリアで発売した8ビットの第4世代携帯ゲーム機である。ゲームギアは主に任天堂のゲームボーイ、アタリリンクス、NECのターボエクスプレスと競合した。ハードウェアの多くをマスターシステムと共有しており、アダプターを使用することでマスターシステムのゲームをプレイすることができる。セガは、横長フォーマットのフルカラーバックライトスクリーンを持つゲームギアを、ゲームボーイよりも技術的に優れた携帯ゲーム機と位置づけた。
-
-ゲームギアは市場投入を急いだが、そのユニークなゲームライブラリと価格帯により、アタリリンクスやターボエクスプレスよりも優位に立った。しかし、バッテリー駆動時間の短さ、オリジナルゲームの少なさ、セガのサポートの弱さなどから、ゲームギアはゲームボーイを超えることはできず、1996年3月までに1,062万台を販売した。ゲームギアは1997年4月30日に生産終了。2000年にマジェスコ・エンタテインメントがセガからのライセンスを受けて格安システムとして再リリースした。</systemDescription>
-            <systemHardwareType>ポータブル</systemHardwareType>
-        </variables>
-    </language>
-    <language name="ko_KR">
-        <variables>
-            <systemDescription>게임 기어는 1990년 10월 6일 일본, 1991년 4월 북미와 유럽, 1992년 호주에서 세가가 출시한 8비트 4세대 휴대용 게임 콘솔입니다. 게임 기어는 주로 닌텐도의 게임보이, 아타리 링스, NEC의 터보익스프레스와 경쟁했습니다. 하드웨어의 상당 부분을 마스터 시스템과 공유하며 어댑터를 사용하여 마스터 시스템 게임을 플레이할 수 있습니다. 세가는 가로 형식의 풀컬러 백라이트 스크린을 갖춘 게임 기어가 게임보이보다 기술적으로 우월한 핸드헬드라고 포지셔닝했습니다.
-
-게임 기어는 서둘러 출시되었지만, 독특한 게임 라이브러리와 가격대로 아타리 링스와 터보익스프레스에 비해 우위를 점했습니다. 하지만 짧은 배터리 수명, 오리지널 게임의 부족, 세가의 미약한 지원으로 인해 Game Gear는 1996년 3월까지 1,062만 대가 판매되는 데 그치며 Game Boy를 뛰어넘지 못했습니다. 게임 기어는 1997년 4월 30일에 단종되었습니다. 2000년에 Majesco Entertainment가 세가의 라이선스를 받아 저예산 시스템으로 재출시했습니다.</systemDescription>
-            <systemHardwareType>휴대성</systemHardwareType>
-        </variables>
-    </language>
     <language name="zh_CN">
         <variables>
             <systemDescription>Game Gear 是世嘉公司于 1990 年 10 月 6 日在日本发布的一款 8 位第四代掌上游戏机，1991 年 4 月在北美和欧洲发布，1992 年在澳大利亚发布。Game Gear 主要与任天堂的 Game Boy、Atari Lynx 和 NEC 的 TurboExpress 竞争。它与 Master System 共享大部分硬件，通过使用适配器可播放 Master System 游戏。世嘉将 Game Gear 定位为在技术上优于 Game Boy 的掌上游戏机，Game Gear 有一个横向全彩背光屏幕。
 
 虽然 Game Gear 仓促上市，但其独特的游戏库和价格优势使其在雅达利 Lynx 和 TurboExpress 上占据了优势。然而，由于电池寿命短、缺乏原创游戏以及世嘉公司的支持不力，Game Gear 的销量未能超过 Game Boy，到 1996 年 3 月仅售出 1062 万台。Game Gear 于 1997 年 4 月 30 日停产。2000 年，在世嘉的授权下，Majesco Entertainment 将其作为经济型系统重新推出。</systemDescription>
             <systemHardwareType>便携式</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Game Gear 是 Sega 於 1990 年 10 月 6 日在日本、1991 年 4 月在北美和歐洲，以及 1992 年在澳洲推出的 8 位元第四代掌上型遊戲機。Game Gear 的主要競爭對手為任天堂的 Game Boy、Atari Lynx 以及 NEC 的 TurboExpress。它與 Master System 共用大部分硬體，並可透過使用轉接器來玩 Master System 遊戲。世嘉將 Game Gear 定位為技術上優於 Game Boy 的掌上型遊戲機，Game Gear 擁有全彩背光螢幕，並採用橫向格式。
+
+儘管 Game Gear 倉促上市，但其獨特的遊戲庫和價格卻讓它比 Atari Lynx 和 TurboExpress 更有優勢。然而，由於電池壽命短、缺乏原創遊戲，以及世嘉支援不力，Game Gear 未能超越 Game Boy，到 1996 年 3 月才賣出 1,062 萬台。Game Gear 於 1997 年 4 月 30 日停產。2000 年，在 Sega 的授權下，Majesco Entertainment 以經濟型系統的形式重新推出 Game Gear。</systemDescription>
+            <systemHardwareType>可攜式</systemHardwareType>
         </variables>
     </language>
 </theme>

@@ -1,4 +1,4 @@
-﻿<theme>
+<theme>
     <variables>
         <systemName>Atari ST</systemName>
         <systemDescription>The Atari ST is a line of home computers from Atari Corporation and the successor to the Atari 8-bit family. The initial model, the 520ST, saw limited release in April–June 1985 and was widely available in July. The 520ST is the first personal computer to come with a bitmapped color GUI, using a version of Digital Research's GEM released in February 1985. The 1040ST, released in 1986, is the first personal computer to ship with a megabyte of RAM in the base configuration and also the first with a cost-per-kilobyte of less than US$1.
@@ -12,13 +12,34 @@ The ST was sold with either Atari's color monitor or the less expensive monochro
         <systemReleaseDateFormated>June 1, 1985</systemReleaseDateFormated>
         <systemHardwareType>Computer</systemHardwareType>
         <systemCoverSize>3-4</systemCoverSize>
-        <systemColor>0088D1</systemColor>
+        <systemCoverSizeType>portrait</systemCoverSizeType>
+        <systemColor>007dd6</systemColor>
         <systemColorPalette1>172E7E</systemColorPalette1>
         <systemColorPalette2>3C62A7</systemColorPalette2>
         <systemColorPalette3>000000</systemColorPalette3>
         <systemColorPalette4>ECECEC</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>أتاري ST هو خط من الحواسيب المنزلية من شركة أتاري كوربوريشن وخليفة عائلة أتاري 8 بت. شهد الطراز الأول، 520ST، إصدارًا محدودًا في أبريل-يونيو 1985، وكان متاحًا على نطاق واسع في يوليو. يعد 520ST أول كمبيوتر شخصي مزود بواجهة مستخدم رسومية ملونة ذات خرائط بت، باستخدام نسخة من برنامج GEM من Digital Research الذي تم إصداره في فبراير 1985. أما جهاز 1040ST، الذي صدر في 1986، فهو أول كمبيوتر شخصي يتم شحنه بذاكرة وصول عشوائي (RAM) بسعة ميغابايت في التكوين الأساسي، وهو أيضًا أول كمبيوتر شخصي بتكلفة أقل من دولار أمريكي واحد لكل كيلوبايت.
+
+يُعد أتاري ST جزءًا من جيل منتصف الثمانينيات من الحواسيب المنزلية التي تحتوي على معالجات 16 أو 32 بت، وذاكرة وصول عشوائي سعتها 256 كيلوبايت أو أكثر وواجهات مستخدم رسومية يتم التحكم فيها بالماوس. ويشمل هذا الجيل أجهزة Macintosh وAmiga وApple IIGS، وفي بعض الأسواق Acorn Archimedes. وترمز كلمة "ST" رسميًا إلى "ستة عشر/اثنين وثلاثين"، والتي تشير إلى ناقل موتورولا 68000 الخارجي ذي 16 بت والداخلي ذي 32 بت.
+
+تم بيع ST مع شاشة أتاري الملونة أو الشاشة أحادية اللون الأقل تكلفة. ولا تتوفر أوضاع الرسومات الملونة في النظام إلا في الوضع الأول بينما يحتاج الوضع الأعلى دقة إلى الشاشة أحادية اللون.</systemDescription>
+            <systemHardwareType>الحاسب الآلي</systemHardwareType>
+        </variables>
+    </language>
+    <language name="bs_BA">
+        <variables>
+            <systemDescription>Atari St je linija kućnih računara iz kompanije Atari Corporation i nasljednika Atari 8-bitne porodice. Početni model, 520st, ograničen izdanje u aprilu-juni 1985. i bio je široko dostupan u julu.520st je prvi lični računar koji je došao sa bitmapnim bojama GUI-ja, koristeći verziju digitalnog istraživanja GEM objavljenog u februaru 1985. godine. 1040ST, objavljen 1986. godine, prvi je lični računar koji se isporučuje sa megabajtom RAM-a u osnovnoj konfiguraciji, a također i prva s cijenom po kilogramu manje od 1 USD.
+
+Atari ST dio je generiranja u sredinu 1980-ih domaćih računara koji imaju 16 ili 32-bitni procesore, 256 KB ili više RAM-a, a grafički korisnički sučelja koji kontroliraju miše. Ova generacija uključuje Macintosh, Amiga, Apple Iigs, a na nekim tržištima Arhimede u žičaru."ST" zvanično označava "šesnaest / trideset dva", koji se odnosi na 16-bitne vanjske autobusne i 32-bitne internale Motorola 68000.
+
+ST je prodat bilo atarinim monitorom boja ili jeftiniji jednobojni monitor. Načini grafičkih boja sustava dostupni su samo na prvom mjestu, dok je režim najviši rezolucije potreban monohromski monitor.</systemDescription>
+            <systemHardwareType>Računar</systemHardwareType>
+        </variables>
+    </language>
     <language name="ca_ES">
         <variables>
             <systemDescription>L’Atari St és una línia d’ordinadors domèstics d’Atari Corporation i el successor de la família Atari de 8 bits. El model inicial, el 520SST, va veure un llançament limitat a l'abril a juny de 1985 i va estar àmpliament disponible al juliol. El 520SST és el primer ordinador personal que inclou una GUI de colors amb bits, que utilitza una versió de Digital Research's Gem llançada el febrer de 1985. El 1040st, llançat el 1986, és el primer ordinador personal que enviava amb un megabyte de memòria RAM a la configuració de la basei també el primer amb un cost per quilobyte inferior a 1 dòlars americans.
@@ -59,6 +80,16 @@ Le ST était vendu avec le moniteur couleur d'Atari ou le moniteur monochrome, m
             <systemHardwareType>Ordinateur</systemHardwareType>
         </variables>
     </language>
+    <language name="hr_HR">
+        <variables>
+            <systemDescription>Atari St je linija kućnih računala iz korporacije Atari i nasljednik obitelji Atari 8-bita. Početni model, 520ST, vidio je ograničeno izdanje u travnju - lipanj 1985. i bio je široko dostupan u srpnju.520ST je prvo osobno računalo koje je došlo s bitmaped Color GUI-om, koristeći verziju dragulja digitalnog istraživanja objavljenog u veljači 1985. godine. 1040., objavljen 1986., prvo je osobno računalo koje je isporučilo megabajt RAM-a u bazi konfiguracije, a također i prvo s troškovima od manjih od američkih $ 1.
+
+Atari ST dio je generacije kućnih računala sredinom 1980-ih koji imaju 16 ili 32-bitnih procesora, 256 KB ili više RAM-a i grafička korisnička sučelja pod kontrolom miša. Ova generacija uključuje Macintosh, Amiga, Apple IIGS, a na nekim tržištima Achimedes Acorn."ST" službeno znači "šesnaest/trideset i dva", što se odnosi na 16-bitni vanjski autobus Motorole 68000 i 32-bitni unutarnji.
+
+ST je prodat ili Atarijevim monitorom u boji ili s jeftinijim jednobojnim monitorom. Načini grafike u boji sustava dostupni su samo na prvom, dok je načinu najviše rezolucije potreban jednobojni monitor.</systemDescription>
+            <systemHardwareType>Računalo</systemHardwareType>
+        </variables>
+    </language>
     <language name="it_IT">
         <variables>
             <systemDescription>L'Atari ST è una linea di home computer di Atari Corporation e il successore della famiglia Atari 8-bit. Il modello iniziale, il 520ST, è stato distribuito in maniera limitata tra aprile e giugno 1985, per poi essere ampiamente disponibile a luglio. Il 520ST è il primo personal computer dotato di un'interfaccia grafica a colori bitmap, che utilizza una versione di GEM di Digital Research rilasciata nel febbraio 1985. Il 1040ST, rilasciato nel 1986, è il primo personal computer a essere fornito con un megabyte di RAM nella configurazione base e anche il primo con un costo per kilobyte inferiore a 1 dollaro USA.
@@ -67,6 +98,26 @@ L'Atari ST fa parte di una generazione di home computer della metà degli anni '
 
 L'ST veniva venduto con il monitor a colori di Atari o con il meno costoso monitor monocromatico. Le modalità grafiche a colori del sistema sono disponibili solo sul primo, mentre la modalità a più alta risoluzione richiede il monitor monocromatico.</systemDescription>
             <systemHardwareType>Computer</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ja_JP">
+        <variables>
+            <systemDescription>アタリSTはアタリ社の家庭用コンピュータで、アタリ8ビットファミリーの後継機種である。初期モデルの520STは1985年4月から6月にかけて限定発売され、7月には広く販売されるようになった。520STは、1985年2月にリリースされたDigital Research社のGEMのバージョンを使用した、ビットマップカラーGUIを搭載した最初のパーソナルコンピュータです。1986年に発売された1040STは、基本構成に1メガバイトのRAMを搭載した最初のパソコンであり、1キロバイトあたりのコストが1米ドル未満の最初のパソコンでもある。
+
+アタリSTは、16ビットまたは32ビットのプロセッサ、256KB以上のRAM、マウス操作のグラフィカル・ユーザー・インターフェイスを搭載した1980年代半ばの家庭用コンピュータの世代の一部である。この世代には、Macintosh、Amiga、Apple IIGS、一部の市場ではAcorn Archimedesが含まれる。「ST」は正式には「Sixteen/Thirty-two」の略で、モトローラ68000の16ビット外部バスと32ビット内部を指す。
+
+STはアタリのカラーモニターか、より安価なモノクロモニターとセットで販売された。システムのカラーグラフィックモードは前者でのみ利用でき、最高解像度モードはモノクロモニターを必要とした。</systemDescription>
+            <systemHardwareType>コンピューター</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ko_KR">
+        <variables>
+            <systemDescription>아타리 ST는 아타리 코퍼레이션의 가정용 컴퓨터 라인으로, 아타리 8비트 제품군의 후속 모델입니다. 초기 모델인 520ST는 1985년 4~6월에 한정 출시되어 7월에 널리 보급되었습니다. 520ST는 1985년 2월에 출시된 Digital Research의 GEM 버전을 사용한 최초의 비트맵 컬러 GUI가 탑재된 개인용 컴퓨터입니다. 1986년에 출시된 1040ST는 기본 구성에 메가바이트의 RAM을 탑재한 최초의 개인용 컴퓨터이자 킬로바이트당 비용이 1달러 미만인 최초의 컴퓨터입니다.
+
+Atari ST는 16비트 또는 32비트 프로세서, 256KB 이상의 RAM, 마우스 제어 그래픽 사용자 인터페이스를 갖춘 1980년대 중반 가정용 컴퓨터 세대의 일부입니다. 이 세대에는 매킨토시, 아미가, 애플 IIGS, 일부 시장에서는 도토리 아르키메데스가 포함됩니다. "ST"는 공식적으로 "16/32"의 약자로, 모토로라 68000의 16비트 외부 버스와 32비트 내부를 나타냅니다.
+
+ST는 Atari의 컬러 모니터 또는 더 저렴한 흑백 모니터와 함께 판매되었습니다. 시스템의 컬러 그래픽 모드는 전자의 모니터에서만 사용할 수 있으며, 최고 해상도 모드는 흑백 모니터가 필요합니다.</systemDescription>
+            <systemHardwareType>컴퓨터</systemHardwareType>
         </variables>
     </language>
     <language name="nl_NL">
@@ -99,6 +150,16 @@ O ST era vendido com o monitor colorido da Atari ou com o monitor monocromático
             <systemHardwareType>Computador</systemHardwareType>
         </variables>
     </language>
+    <language name="pt_PT">
+        <variables>
+            <systemDescription>O Atari St é uma linha de computadores domésticos da Atari Corporation e o sucessor da família Atari de 8 bits. O modelo inicial, o 520º, foi lançado em abril a junho de 1985 e estava amplamente disponível em julho. O 520st é o primeiro computador pessoal a vir com uma GUI colorida de bitmap, usando uma versão da Gem Digital Research lançada em fevereiro de 1985. O 1040ST, lançado em 1986, é o primeiro computador pessoal a ser enviado com um megabyte de RAM na configuração base e também o primeiro com um custo-per-kilobyte de menos de US $ 1.
+
+O Atari St faz parte de uma geração de meados da década de 1980 de computadores domésticos que possuem processadores de 16 ou 32 bits, 256 kb ou mais de RAM e interfaces gráficas de usuário controladas por mouse. Esta geração inclui o Macintosh, Amiga, Apple IIGS e, em alguns mercados, os Arquimedes da Bolsa."ST" é oficialmente para "dezesseis/trinta e dois", que se refere ao ônibus externo de 16 bits do Motorola 68000 e aos internos de 32 bits.
+
+O ST foi vendido com o monitor colorido da Atari ou o monitor monocromático mais barato. Os modos de gráficos coloridos do sistema estão disponíveis apenas no primeiro, enquanto o modo de maior resolução precisa do monitor monocromático.</systemDescription>
+            <systemHardwareType>Computador</systemHardwareType>
+        </variables>
+    </language>
     <language name="ro_RO">
         <variables>
             <systemDescription>Atari ST este o linie de computere de acasă de la Atari Corporation și succesorul familiei Atari pe 8 biți. Modelul inițial, 520ST, a avut o lansare limitată în aprilie-iunie 1985 și a fost disponibil pe scară largă în iulie. 520ST este primul computer personal care vine cu o interfață grafică grafică color bitmap, folosind o versiune a GEM de la Digital Research lansată în februarie 1985. 1040ST, lansat în 1986, este primul computer personal livrat cu un megabyte de RAM în configurația de bază și, de asemenea, primul cu un cost per-kilobyte mai mic de 1 USD.
@@ -119,6 +180,16 @@ ST продавалась либо с цветным монитором Atari, �
             <systemHardwareType>Компьютер</systemHardwareType>
         </variables>
     </language>
+    <language name="sr_RS">
+        <variables>
+            <systemDescription>Атаријев је линија кућних рачунара из Атари Цорпоратион и наследника Атари 8-битне породице.Почетни модел, 520ст, видео је ограничено издање у априлу-јуну 1985. и био је широко доступан у јулу.520СТ је први лични рачунар који је дошао са битмапуном ГУИ у боји, користећи верзију ГЕМ-а дигиталног истраживања у фебруару 1985. године. 1040СТ, објављен 1986. године, је први лични рачунар који је испоручио мегабајт РАМ-а у основној конфигурацији, а такође и први са трошковима по килобајту у износу од 1 УСД.
+
+Атари Ст је део средњег 1980-их година генерације кућних рачунара који имају 16 или 32-битне процесоре, 256 КБ или више РАМ-а и графичким корисничким интерфејсима под контролом миша.Ова генерација укључује Мацинтосх, Амига, Аппле Иигс, а на неким тржиштима АЦРОН архимеди."Ст" званично значи "шеснаест / тридесет два", који се односи на 16-битни спољни аутобус Моторола 68000 и 32-битне интернета.
+
+Ст је продат или са Атаровим монитором боја или мање скупи монохроматски монитор.Модови у боји система доступни су само на првом док режим највише резолуције потребан је монохроматски монитор.</systemDescription>
+            <systemHardwareType>Рачунар</systemHardwareType>
+        </variables>
+    </language>
     <language name="sv_SE">
         <variables>
             <systemDescription>Atari ST är en serie hemdatorer från Atari Corporation och efterföljaren till Atari 8-bitarsfamiljen. Den första modellen, 520ST, släpptes i begränsad upplaga under april-juni 1985 och blev allmänt tillgänglig i juli. 520ST är den första persondatorn med ett grafiskt användargränssnitt i bitmappad färg, som använder en version av Digital Researchs GEM som släpptes i februari 1985. 1040ST, som släpptes 1986, är den första persondatorn som levereras med en megabyte RAM-minne i grundkonfigurationen och även den första med en kostnad per kilobyte på mindre än 1 US-dollar.
@@ -129,26 +200,6 @@ ST såldes med antingen Ataris färgmonitor eller den billigare monokroma monito
             <systemHardwareType>Dator</systemHardwareType>
         </variables>
     </language>
-    <language name="ja_JP">
-        <variables>
-            <systemDescription>アタリSTはアタリ社の家庭用コンピュータで、アタリ8ビットファミリーの後継機種である。初期モデルの520STは1985年4月から6月にかけて限定発売され、7月には広く販売されるようになった。520STは、1985年2月にリリースされたDigital Research社のGEMのバージョンを使用した、ビットマップカラーGUIを搭載した最初のパーソナルコンピュータです。1986年に発売された1040STは、基本構成に1メガバイトのRAMを搭載した最初のパソコンであり、1キロバイトあたりのコストが1米ドル未満の最初のパソコンでもある。
-
-アタリSTは、16ビットまたは32ビットのプロセッサ、256KB以上のRAM、マウス操作のグラフィカル・ユーザー・インターフェイスを搭載した1980年代半ばの家庭用コンピュータの世代の一部である。この世代には、Macintosh、Amiga、Apple IIGS、一部の市場ではAcorn Archimedesが含まれる。「ST」は正式には「Sixteen/Thirty-two」の略で、モトローラ68000の16ビット外部バスと32ビット内部を指す。
-
-STはアタリのカラーモニターか、より安価なモノクロモニターとセットで販売された。システムのカラーグラフィックモードは前者でのみ利用でき、最高解像度モードはモノクロモニターを必要とした。</systemDescription>
-            <systemHardwareType>コンピューター</systemHardwareType>
-        </variables>
-    </language>
-    <language name="ko_KR">
-        <variables>
-            <systemDescription>아타리 ST는 아타리 코퍼레이션의 가정용 컴퓨터 라인으로, 아타리 8비트 제품군의 후속 모델입니다. 초기 모델인 520ST는 1985년 4~6월에 한정 출시되어 7월에 널리 보급되었습니다. 520ST는 1985년 2월에 출시된 Digital Research의 GEM 버전을 사용한 최초의 비트맵 컬러 GUI가 탑재된 개인용 컴퓨터입니다. 1986년에 출시된 1040ST는 기본 구성에 메가바이트의 RAM을 탑재한 최초의 개인용 컴퓨터이자 킬로바이트당 비용이 1달러 미만인 최초의 컴퓨터입니다.
-
-Atari ST는 16비트 또는 32비트 프로세서, 256KB 이상의 RAM, 마우스 제어 그래픽 사용자 인터페이스를 갖춘 1980년대 중반 가정용 컴퓨터 세대의 일부입니다. 이 세대에는 매킨토시, 아미가, 애플 IIGS, 일부 시장에서는 도토리 아르키메데스가 포함됩니다. "ST"는 공식적으로 "16/32"의 약자로, 모토로라 68000의 16비트 외부 버스와 32비트 내부를 나타냅니다.
-
-ST는 Atari의 컬러 모니터 또는 더 저렴한 흑백 모니터와 함께 판매되었습니다. 시스템의 컬러 그래픽 모드는 전자의 모니터에서만 사용할 수 있으며, 최고 해상도 모드는 흑백 모니터가 필요합니다.</systemDescription>
-            <systemHardwareType>컴퓨터</systemHardwareType>
-        </variables>
-    </language>
     <language name="zh_CN">
         <variables>
             <systemDescription>雅达利 ST 是雅达利公司推出的家用电脑系列，也是雅达利 8 位系列的后续产品。首款机型 520ST 于 1985 年 4 月至 6 月限量发售，7 月开始广泛销售。520ST 是首款配备位映射彩色图形用户界面的个人电脑，使用的是 Digital Research 于 1985 年 2 月发布的 GEM 版本。1986 年发布的 1040ST 是第一款在基本配置中配备一百万字节内存的个人电脑，也是第一款每千字节成本低于 1 美元的个人电脑。
@@ -157,6 +208,16 @@ ST는 Atari의 컬러 모니터 또는 더 저렴한 흑백 모니터와 함께 
 
 ST 与雅达利的彩色显示器或价格较低的单色显示器一起销售。系统的彩色图形模式只能在前者上使用，而最高分辨率模式则需要单色显示器。</systemDescription>
             <systemHardwareType>计算机</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Atari ST 是 Atari Corporation 的家用電腦系列，也是 Atari 8 位元系列的後繼機種。最初的型號 520ST 於 1985 年 4 月至 6 月間限量發行，並於 7 月廣泛上市。520ST 是第一台配備位元圖彩色圖形使用者介面的個人電腦，使用的是 Digital Research 於 1985 年 2 月推出的 GEM 版本。1986 年發表的 1040ST 是第一台在基本配置中搭載一兆位元組 RAM 的個人電腦，也是第一台每千位元組成本低於 1 美元的個人電腦。
+
+Atari ST 屬於 1980 年代中期的家用電腦世代，這些電腦擁有 16 或 32 位元處理器、256 KB 或更大的 RAM，以及滑鼠控制的圖形使用者介面。這一代的產品包括 Macintosh、Amiga、Apple IIGS，以及某些市場上的 Acorn Archimedes。"ST 「正式代表 」Sixteen/Thirty-two"，指的是 Motorola 68000 的 16 位元外部匯流排和 32 位元內部元件。
+
+ST 搭配 Atari 的彩色螢幕或較便宜的單色螢幕出售。系統的彩色圖形模式只能在前者上使用，而最高解析度模式則需要單色螢幕。</systemDescription>
+            <systemHardwareType>電腦</systemHardwareType>
         </variables>
     </language>
 </theme>
