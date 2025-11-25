@@ -232,25 +232,25 @@
                 <zIndex>65</zIndex>
             </datetime>
              
-            <text name="playCount">
+            <text name="playTime">
                 <pos>.78 .935</pos>
                 <origin>0 .5</origin>
                 <size>.1 .018</size>
                 <fontPath>${rootpath}/_inc/fonts/Exo2-BoldCondensed.otf</fontPath>
                 <fontSize>.02</fontSize>
                 <horizontalAlignment>right</horizontalAlignment>
-                <text>Play Count:</text>
+                <text>Play Time:</text>
                 <color>BBBBBB</color>
                 <lineSpacing>1</lineSpacing>
                 <metadataElement>true</metadataElement>
                 <zIndex>65</zIndex>
             </text>
-            <text name="playCountNumber">
+            <text name="playTimeNumber">
                 <pos>.885 .935</pos>
                 <origin>0 .5</origin>
                 <size>.107 .018</size>
                 <fontSize>.02</fontSize>
-                <metadata>playcount</metadata>
+                <metadata>playtime</metadata>
                 <defaultValue>Unknown</defaultValue>
                 <color>BBBBBB</color>
                 <lineSpacing>1</lineSpacing>
